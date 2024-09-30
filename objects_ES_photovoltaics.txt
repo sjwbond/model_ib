@@ -1,0 +1,101 @@
+Object_Name	Object_Type
+ES PVSAT 1073 42.0 -7.5 Generator	Generator
+ES PVSAT 1073 42.0 -7.5 Capacity Factor	Variable
+ES PVSAT 1073 42.0 -7.5 File	DataSource
+ES PVSAT 1073 42.0 -7.5 TS	DBTimeSeries
+ES PVSAT 1080 42.0 -3.125 Generator	Generator
+ES PVSAT 1080 42.0 -3.125 Capacity Factor	Variable
+ES PVSAT 1080 42.0 -3.125 File	DataSource
+ES PVSAT 1080 42.0 -3.125 TS	DBTimeSeries
+ES PVSAT 1088 42.0 1.875 Generator	Generator
+ES PVSAT 1088 42.0 1.875 Capacity Factor	Variable
+ES PVSAT 1088 42.0 1.875 File	DataSource
+ES PVSAT 1088 42.0 1.875 TS	DBTimeSeries
+ES PVSAT 1165 42.5 -5.625 Generator	Generator
+ES PVSAT 1165 42.5 -5.625 Capacity Factor	Variable
+ES PVSAT 1165 42.5 -5.625 File	DataSource
+ES PVSAT 1165 42.5 -5.625 TS	DBTimeSeries
+ES PVSAT 1172 42.5 -1.25 Generator	Generator
+ES PVSAT 1172 42.5 -1.25 Capacity Factor	Variable
+ES PVSAT 1172 42.5 -1.25 File	DataSource
+ES PVSAT 1172 42.5 -1.25 TS	DBTimeSeries
+ES PVSAT 1176 42.5 1.25 Generator	Generator
+ES PVSAT 1176 42.5 1.25 Capacity Factor	Variable
+ES PVSAT 1176 42.5 1.25 File	DataSource
+ES PVSAT 1176 42.5 1.25 TS	DBTimeSeries
+ES PVSAT 1250 43.0 -8.125 Generator	Generator
+ES PVSAT 1250 43.0 -8.125 Capacity Factor	Variable
+ES PVSAT 1250 43.0 -8.125 File	DataSource
+ES PVSAT 1250 43.0 -8.125 TS	DBTimeSeries
+ES PVSAT 1253 43.0 -6.25 Generator	Generator
+ES PVSAT 1253 43.0 -6.25 Capacity Factor	Variable
+ES PVSAT 1253 43.0 -6.25 File	DataSource
+ES PVSAT 1253 43.0 -6.25 TS	DBTimeSeries
+ES PVSAT 1258 43.0 -3.125 Generator	Generator
+ES PVSAT 1258 43.0 -3.125 Capacity Factor	Variable
+ES PVSAT 1258 43.0 -3.125 File	DataSource
+ES PVSAT 1258 43.0 -3.125 TS	DBTimeSeries
+ES PVSAT 186 37.0 -5.625 Generator	Generator
+ES PVSAT 186 37.0 -5.625 Capacity Factor	Variable
+ES PVSAT 186 37.0 -5.625 File	DataSource
+ES PVSAT 186 37.0 -5.625 TS	DBTimeSeries
+ES PVSAT 279 37.5 -3.125 Generator	Generator
+ES PVSAT 279 37.5 -3.125 Capacity Factor	Variable
+ES PVSAT 279 37.5 -3.125 File	DataSource
+ES PVSAT 279 37.5 -3.125 TS	DBTimeSeries
+ES PVSAT 362 38.0 -6.875 Generator	Generator
+ES PVSAT 362 38.0 -6.875 Capacity Factor	Variable
+ES PVSAT 362 38.0 -6.875 File	DataSource
+ES PVSAT 362 38.0 -6.875 TS	DBTimeSeries
+ES PVSAT 454 38.5 -5.0 Generator	Generator
+ES PVSAT 454 38.5 -5.0 Capacity Factor	Variable
+ES PVSAT 454 38.5 -5.0 File	DataSource
+ES PVSAT 454 38.5 -5.0 TS	DBTimeSeries
+ES PVSAT 457 38.5 -3.125 Generator	Generator
+ES PVSAT 457 38.5 -3.125 Capacity Factor	Variable
+ES PVSAT 457 38.5 -3.125 File	DataSource
+ES PVSAT 457 38.5 -3.125 TS	DBTimeSeries
+ES PVSAT 460 38.5 -1.25 Generator	Generator
+ES PVSAT 460 38.5 -1.25 Capacity Factor	Variable
+ES PVSAT 460 38.5 -1.25 File	DataSource
+ES PVSAT 460 38.5 -1.25 TS	DBTimeSeries
+ES PVSAT 548 39.0 -1.875 Generator	Generator
+ES PVSAT 548 39.0 -1.875 Capacity Factor	Variable
+ES PVSAT 548 39.0 -1.875 File	DataSource
+ES PVSAT 548 39.0 -1.875 TS	DBTimeSeries
+ES PVSAT 630 39.5 -6.25 Generator	Generator
+ES PVSAT 630 39.5 -6.25 Capacity Factor	Variable
+ES PVSAT 630 39.5 -6.25 File	DataSource
+ES PVSAT 630 39.5 -6.25 TS	DBTimeSeries
+ES PVSAT 633 39.5 -4.375 Generator	Generator
+ES PVSAT 633 39.5 -4.375 Capacity Factor	Variable
+ES PVSAT 633 39.5 -4.375 File	DataSource
+ES PVSAT 633 39.5 -4.375 TS	DBTimeSeries
+ES PVSAT 639 39.5 -0.625 Generator	Generator
+ES PVSAT 639 39.5 -0.625 Capacity Factor	Variable
+ES PVSAT 639 39.5 -0.625 File	DataSource
+ES PVSAT 639 39.5 -0.625 TS	DBTimeSeries
+ES PVSAT 645 39.5 3.125 Generator	Generator
+ES PVSAT 645 39.5 3.125 Capacity Factor	Variable
+ES PVSAT 645 39.5 3.125 File	DataSource
+ES PVSAT 645 39.5 3.125 TS	DBTimeSeries
+ES PVSAT 725 40.0 -2.5 Generator	Generator
+ES PVSAT 725 40.0 -2.5 Capacity Factor	Variable
+ES PVSAT 725 40.0 -2.5 File	DataSource
+ES PVSAT 725 40.0 -2.5 TS	DBTimeSeries
+ES PVSAT 807 40.5 -6.875 Generator	Generator
+ES PVSAT 807 40.5 -6.875 Capacity Factor	Variable
+ES PVSAT 807 40.5 -6.875 File	DataSource
+ES PVSAT 807 40.5 -6.875 TS	DBTimeSeries
+ES PVSAT 901 41.0 -3.75 Generator	Generator
+ES PVSAT 901 41.0 -3.75 Capacity Factor	Variable
+ES PVSAT 901 41.0 -3.75 File	DataSource
+ES PVSAT 901 41.0 -3.75 TS	DBTimeSeries
+ES PVSAT 905 41.0 -1.25 Generator	Generator
+ES PVSAT 905 41.0 -1.25 Capacity Factor	Variable
+ES PVSAT 905 41.0 -1.25 File	DataSource
+ES PVSAT 905 41.0 -1.25 TS	DBTimeSeries
+ES PVSAT 987 41.5 -5.625 Generator	Generator
+ES PVSAT 987 41.5 -5.625 Capacity Factor	Variable
+ES PVSAT 987 41.5 -5.625 File	DataSource
+ES PVSAT 987 41.5 -5.625 TS	DBTimeSeries

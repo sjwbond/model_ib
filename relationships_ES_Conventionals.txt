@@ -1,0 +1,423 @@
+Object_Name	Parent_Object
+ES Coal 1990	ES Coal Generators
+ES Coal 1990	ES Hard Coal Generators
+ES Coal 1990	ES
+ES Coal 1995	ES Coal Generators
+ES Coal 1995	ES Hard Coal Generators
+ES Coal 1995	ES
+ES Coal 2000	ES Coal Generators
+ES Coal 2000	ES Hard Coal Generators
+ES Coal 2000	ES
+ES Coal 2005	ES Coal Generators
+ES Coal 2005	ES Hard Coal Generators
+ES Coal 2005	ES
+ES Coal 2010	ES Coal Generators
+ES Coal 2010	ES Hard Coal Generators
+ES Coal 2010	ES
+ES Coal 2015	ES Coal Generators
+ES Coal 2015	ES Hard Coal Generators
+ES Coal 2015	ES
+ES Coal 2020	ES Coal Generators
+ES Coal 2020	ES Hard Coal Generators
+ES Coal 2020	ES
+ES Coal 2025	ES Coal Generators
+ES Coal 2025	ES Hard Coal Generators
+ES Coal 2025	ES
+ES Coal 2030	ES Coal Generators
+ES Coal 2030	ES Hard Coal Generators
+ES Coal 2030	ES
+ES Coal 2035	ES Coal Generators
+ES Coal 2035	ES Hard Coal Generators
+ES Coal 2035	ES
+ES Coal 2040	ES Coal Generators
+ES Coal 2040	ES Hard Coal Generators
+ES Coal 2040	ES
+ES Coal 2045	ES Coal Generators
+ES Coal 2045	ES Hard Coal Generators
+ES Coal 2045	ES
+ES Coal 2050	ES Coal Generators
+ES Coal 2050	ES Hard Coal Generators
+ES Coal 2050	ES
+ES Coal 2055	ES Coal Generators
+ES Coal 2055	ES Hard Coal Generators
+ES Coal 2055	ES
+ES Coal 2060	ES Coal Generators
+ES Coal 2060	ES Hard Coal Generators
+ES Coal 2060	ES
+ES Coal 2065	ES Coal Generators
+ES Coal 2065	ES Hard Coal Generators
+ES Coal 2065	ES
+ES CCGT 1990	ES Gas Generators
+ES CCGT 1990	ES CCGT Generators
+ES CCGT 1990	ES
+ES CCGT 1995	ES Gas Generators
+ES CCGT 1995	ES CCGT Generators
+ES CCGT 1995	ES
+ES CCGT 2000	ES Gas Generators
+ES CCGT 2000	ES CCGT Generators
+ES CCGT 2000	ES
+ES CCGT 2005	ES Gas Generators
+ES CCGT 2005	ES CCGT Generators
+ES CCGT 2005	ES
+ES CCGT 2010	ES Gas Generators
+ES CCGT 2010	ES CCGT Generators
+ES CCGT 2010	ES
+ES CCGT 2015	ES Gas Generators
+ES CCGT 2015	ES CCGT Generators
+ES CCGT 2015	ES
+ES CCGT 2020	ES Gas Generators
+ES CCGT 2020	ES CCGT Generators
+ES CCGT 2020	ES
+ES CCGT 2025	ES Gas Generators
+ES CCGT 2025	ES CCGT Generators
+ES CCGT 2025	ES
+ES CCGT 2030	ES Gas Generators
+ES CCGT 2030	ES CCGT Generators
+ES CCGT 2030	ES
+ES CCGT 2031	ES Gas Generators
+ES CCGT 2031	ES CCGT Generators
+ES CCGT 2031	ES
+ES CCGT 2032	ES Gas Generators
+ES CCGT 2032	ES CCGT Generators
+ES CCGT 2032	ES
+ES CCGT 2033	ES Gas Generators
+ES CCGT 2033	ES CCGT Generators
+ES CCGT 2033	ES
+ES CCGT 2034	ES Gas Generators
+ES CCGT 2034	ES CCGT Generators
+ES CCGT 2034	ES
+ES CCGT 2035	ES Gas Generators
+ES CCGT 2035	ES CCGT Generators
+ES CCGT 2035	ES
+ES CCGT 2036	ES Gas Generators
+ES CCGT 2036	ES CCGT Generators
+ES CCGT 2036	ES
+ES CCGT 2037	ES Gas Generators
+ES CCGT 2037	ES CCGT Generators
+ES CCGT 2037	ES
+ES CCGT 2038	ES Gas Generators
+ES CCGT 2038	ES CCGT Generators
+ES CCGT 2038	ES
+ES CCGT 2039	ES Gas Generators
+ES CCGT 2039	ES CCGT Generators
+ES CCGT 2039	ES
+ES CCGT 2040	ES Gas Generators
+ES CCGT 2040	ES CCGT Generators
+ES CCGT 2040	ES
+ES CCGT 2045	ES Gas Generators
+ES CCGT 2045	ES CCGT Generators
+ES CCGT 2045	ES
+ES CCGT 2050	ES Gas Generators
+ES CCGT 2050	ES CCGT Generators
+ES CCGT 2050	ES
+ES CCGT 2055	ES Gas Generators
+ES CCGT 2055	ES CCGT Generators
+ES CCGT 2055	ES
+ES CCGT 2060	ES Gas Generators
+ES CCGT 2060	ES CCGT Generators
+ES CCGT 2060	ES
+ES CCGT 2065	ES Gas Generators
+ES CCGT 2065	ES CCGT Generators
+ES CCGT 2065	ES
+ES OCGT 1990	ES Gas Generators
+ES OCGT 1990	ES OCGT Generators
+ES OCGT 1990	ES
+ES OCGT 1995	ES Gas Generators
+ES OCGT 1995	ES OCGT Generators
+ES OCGT 1995	ES
+ES OCGT 2000	ES Gas Generators
+ES OCGT 2000	ES OCGT Generators
+ES OCGT 2000	ES
+ES OCGT 2005	ES Gas Generators
+ES OCGT 2005	ES OCGT Generators
+ES OCGT 2005	ES
+ES OCGT 2010	ES Gas Generators
+ES OCGT 2010	ES OCGT Generators
+ES OCGT 2010	ES
+ES OCGT 2015	ES Gas Generators
+ES OCGT 2015	ES OCGT Generators
+ES OCGT 2015	ES
+ES OCGT 2020	ES Gas Generators
+ES OCGT 2020	ES OCGT Generators
+ES OCGT 2020	ES
+ES OCGT 2025	ES Gas Generators
+ES OCGT 2025	ES OCGT Generators
+ES OCGT 2025	ES
+ES OCGT 2030	ES Gas Generators
+ES OCGT 2030	ES OCGT Generators
+ES OCGT 2030	ES
+ES OCGT 2035	ES Gas Generators
+ES OCGT 2035	ES OCGT Generators
+ES OCGT 2035	ES
+ES OCGT 2040	ES Gas Generators
+ES OCGT 2040	ES OCGT Generators
+ES OCGT 2040	ES
+ES OCGT 2045	ES Gas Generators
+ES OCGT 2045	ES OCGT Generators
+ES OCGT 2045	ES
+ES OCGT 2050	ES Gas Generators
+ES OCGT 2050	ES OCGT Generators
+ES OCGT 2050	ES
+ES OCGT 2055	ES Gas Generators
+ES OCGT 2055	ES OCGT Generators
+ES OCGT 2055	ES
+ES OCGT 2060	ES Gas Generators
+ES OCGT 2060	ES OCGT Generators
+ES OCGT 2060	ES
+ES OCGT 2065	ES Gas Generators
+ES OCGT 2065	ES OCGT Generators
+ES OCGT 2065	ES
+ES Biomass 1990	ES Biomass Generators
+ES Biomass 1990	ES
+ES Biomass 1995	ES Biomass Generators
+ES Biomass 1995	ES
+ES Biomass 2000	ES Biomass Generators
+ES Biomass 2000	ES
+ES Biomass 2005	ES Biomass Generators
+ES Biomass 2005	ES
+ES Biomass 2010	ES Biomass Generators
+ES Biomass 2010	ES
+ES Biomass 2015	ES Biomass Generators
+ES Biomass 2015	ES
+ES Biomass 2020	ES Biomass Generators
+ES Biomass 2020	ES
+ES Biomass 2025	ES Biomass Generators
+ES Biomass 2025	ES
+ES Biomass 2030	ES Biomass Generators
+ES Biomass 2030	ES
+ES Biomass 2035	ES Biomass Generators
+ES Biomass 2035	ES
+ES Biomass 2040	ES Biomass Generators
+ES Biomass 2040	ES
+ES Biomass 2045	ES Biomass Generators
+ES Biomass 2045	ES
+ES Biomass 2050	ES Biomass Generators
+ES Biomass 2050	ES
+ES Biomass 2055	ES Biomass Generators
+ES Biomass 2055	ES
+ES Biomass 2060	ES Biomass Generators
+ES Biomass 2060	ES
+ES Biomass 2065	ES Biomass Generators
+ES Biomass 2065	ES
+ES Lignite 1990	ES Coal Generators
+ES Lignite 1990	ES Lignite Generators
+ES Lignite 1990	ES
+ES Lignite 1995	ES Coal Generators
+ES Lignite 1995	ES Lignite Generators
+ES Lignite 1995	ES
+ES Lignite 2000	ES Coal Generators
+ES Lignite 2000	ES Lignite Generators
+ES Lignite 2000	ES
+ES Lignite 2005	ES Coal Generators
+ES Lignite 2005	ES Lignite Generators
+ES Lignite 2005	ES
+ES Lignite 2010	ES Coal Generators
+ES Lignite 2010	ES Lignite Generators
+ES Lignite 2010	ES
+ES Lignite 2015	ES Coal Generators
+ES Lignite 2015	ES Lignite Generators
+ES Lignite 2015	ES
+ES Lignite 2020	ES Coal Generators
+ES Lignite 2020	ES Lignite Generators
+ES Lignite 2020	ES
+ES Lignite 2025	ES Coal Generators
+ES Lignite 2025	ES Lignite Generators
+ES Lignite 2025	ES
+ES Lignite 2030	ES Coal Generators
+ES Lignite 2030	ES Lignite Generators
+ES Lignite 2030	ES
+ES Lignite 2035	ES Coal Generators
+ES Lignite 2035	ES Lignite Generators
+ES Lignite 2035	ES
+ES Lignite 2040	ES Coal Generators
+ES Lignite 2040	ES Lignite Generators
+ES Lignite 2040	ES
+ES Lignite 2045	ES Coal Generators
+ES Lignite 2045	ES Lignite Generators
+ES Lignite 2045	ES
+ES Lignite 2050	ES Coal Generators
+ES Lignite 2050	ES Lignite Generators
+ES Lignite 2050	ES
+ES Lignite 2055	ES Coal Generators
+ES Lignite 2055	ES Lignite Generators
+ES Lignite 2055	ES
+ES Lignite 2060	ES Coal Generators
+ES Lignite 2060	ES Lignite Generators
+ES Lignite 2060	ES
+ES Lignite 2065	ES Coal Generators
+ES Lignite 2065	ES Lignite Generators
+ES Lignite 2065	ES
+ES Nuclear 1990	ES Nuclear Generators
+ES Nuclear 1990	ES
+ES Nuclear 1995	ES Nuclear Generators
+ES Nuclear 1995	ES
+ES Nuclear 2000	ES Nuclear Generators
+ES Nuclear 2000	ES
+ES Nuclear 2005	ES Nuclear Generators
+ES Nuclear 2005	ES
+ES Nuclear 2010	ES Nuclear Generators
+ES Nuclear 2010	ES
+ES Nuclear 2015	ES Nuclear Generators
+ES Nuclear 2015	ES
+ES Nuclear 2020	ES Nuclear Generators
+ES Nuclear 2020	ES
+ES CHP 1990	ES Gas Generators
+ES CHP 1990	ES CHP Generators
+ES CHP 1990	ES
+ES CHP 1995	ES Gas Generators
+ES CHP 1995	ES CHP Generators
+ES CHP 1995	ES
+ES CHP 2000	ES Gas Generators
+ES CHP 2000	ES CHP Generators
+ES CHP 2000	ES
+ES CHP 2005	ES Gas Generators
+ES CHP 2005	ES CHP Generators
+ES CHP 2005	ES
+ES CHP 2010	ES Gas Generators
+ES CHP 2010	ES CHP Generators
+ES CHP 2010	ES
+ES CHP 2015	ES Gas Generators
+ES CHP 2015	ES CHP Generators
+ES CHP 2015	ES
+ES CHP 2020	ES Gas Generators
+ES CHP 2020	ES CHP Generators
+ES CHP 2020	ES
+ES CHP 2025	ES Gas Generators
+ES CHP 2025	ES CHP Generators
+ES CHP 2025	ES
+ES CHP 2030	ES Gas Generators
+ES CHP 2030	ES CHP Generators
+ES CHP 2030	ES
+ES CHP 2035	ES Gas Generators
+ES CHP 2035	ES CHP Generators
+ES CHP 2035	ES
+ES CHP 2040	ES Gas Generators
+ES CHP 2040	ES CHP Generators
+ES CHP 2040	ES
+ES CHP 2045	ES Gas Generators
+ES CHP 2045	ES CHP Generators
+ES CHP 2045	ES
+ES CHP 2050	ES Gas Generators
+ES CHP 2050	ES CHP Generators
+ES CHP 2050	ES
+ES CHP 2055	ES Gas Generators
+ES CHP 2055	ES CHP Generators
+ES CHP 2055	ES
+ES CHP 2060	ES Gas Generators
+ES CHP 2060	ES CHP Generators
+ES CHP 2060	ES
+ES CHP 2065	ES Gas Generators
+ES CHP 2065	ES CHP Generators
+ES CHP 2065	ES
+ES Liquid 1990	ES Liquid Generators
+ES Liquid 1990	ES
+ES Liquid 1995	ES Liquid Generators
+ES Liquid 1995	ES
+ES Liquid 2000	ES Liquid Generators
+ES Liquid 2000	ES
+ES Liquid 2005	ES Liquid Generators
+ES Liquid 2005	ES
+ES Liquid 2010	ES Liquid Generators
+ES Liquid 2010	ES
+ES Liquid 2015	ES Liquid Generators
+ES Liquid 2015	ES
+ES Liquid 2020	ES Liquid Generators
+ES Liquid 2020	ES
+ES Liquid 2025	ES Liquid Generators
+ES Liquid 2025	ES
+ES Liquid 2030	ES Liquid Generators
+ES Liquid 2030	ES
+ES Liquid 2035	ES Liquid Generators
+ES Liquid 2035	ES
+ES Liquid 2040	ES Liquid Generators
+ES Liquid 2040	ES
+ES Liquid 2045	ES Liquid Generators
+ES Liquid 2045	ES
+ES Liquid 2050	ES Liquid Generators
+ES Liquid 2050	ES
+ES Liquid 2055	ES Liquid Generators
+ES Liquid 2055	ES
+ES Liquid 2060	ES Liquid Generators
+ES Liquid 2060	ES
+ES Liquid 2065	ES Liquid Generators
+ES Liquid 2065	ES
+ES Almaraz NPP I	ES Nuclear Generators
+ES Almaraz NPP I	ES
+ES Almaraz NPP II	ES Nuclear Generators
+ES Almaraz NPP II	ES
+ES Asco Unit I	ES Nuclear Generators
+ES Asco Unit I	ES
+ES Asco Unit II	ES Nuclear Generators
+ES Asco Unit II	ES
+ES Cofrentes NPP	ES Nuclear Generators
+ES Cofrentes NPP	ES
+ES Trillo NPP	ES Nuclear Generators
+ES Trillo NPP	ES
+ES Vandellos Unit II	ES Nuclear Generators
+ES Vandellos Unit II	ES
+ES Endesa Termic I	ES Hard Coal Generators
+ES Endesa Termic I	ES Coal Generators
+ES Endesa Termic I	ES
+ES Endesa Termic II	ES Hard Coal Generators
+ES Endesa Termic II	ES Coal Generators
+ES Endesa Termic II	ES
+ES Endesa Termic III	ES Hard Coal Generators
+ES Endesa Termic III	ES Coal Generators
+ES Endesa Termic III	ES
+ES Teruel Power Plant I	ES Hard Coal Generators
+ES Teruel Power Plant I	ES Coal Generators
+ES Teruel Power Plant I	ES
+ES Teruel Power Plant II	ES Hard Coal Generators
+ES Teruel Power Plant II	ES Coal Generators
+ES Teruel Power Plant II	ES
+ES Compostilla II Power Station I	ES Hard Coal Generators
+ES Compostilla II Power Station I	ES Coal Generators
+ES Compostilla II Power Station I	ES
+ES Compostilla II Power Station II	ES Hard Coal Generators
+ES Compostilla II Power Station II	ES Coal Generators
+ES Compostilla II Power Station II	ES
+ES Compostilla II Power Station III	ES Hard Coal Generators
+ES Compostilla II Power Station III	ES Coal Generators
+ES Compostilla II Power Station III	ES
+ES Los Barrios Power Plant	ES Hard Coal Generators
+ES Los Barrios Power Plant	ES Coal Generators
+ES Los Barrios Power Plant	ES
+ES Central termica Litoral de Almeria I	ES Hard Coal Generators
+ES Central termica Litoral de Almeria I	ES Coal Generators
+ES Central termica Litoral de Almeria I	ES
+ES Central termica Litoral de Almeria II	ES Hard Coal Generators
+ES Central termica Litoral de Almeria II	ES Coal Generators
+ES Central termica Litoral de Almeria II	ES
+ES Central Termica Sant Adria de Besos I	ES CCGT Generators
+ES Central Termica Sant Adria de Besos I	ES Gas Generators
+ES Central Termica Sant Adria de Besos I	ES
+ES Central Termica Sant Adria de Besos II	ES CCGT Generators
+ES Central Termica Sant Adria de Besos II	ES Gas Generators
+ES Central Termica Sant Adria de Besos II	ES
+ES Central termica de Morvedre I	ES CCGT Generators
+ES Central termica de Morvedre I	ES Gas Generators
+ES Central termica de Morvedre I	ES
+ES Central termica de Morvedre II	ES CCGT Generators
+ES Central termica de Morvedre II	ES Gas Generators
+ES Central termica de Morvedre II	ES
+ES Central termica de Morvedre III	ES CCGT Generators
+ES Central termica de Morvedre III	ES Gas Generators
+ES Central termica de Morvedre III	ES
+ES Barcelona power station I	ES CCGT Generators
+ES Barcelona power station I	ES Gas Generators
+ES Barcelona power station I	ES
+ES Barcelona power station II	ES CCGT Generators
+ES Barcelona power station II	ES Gas Generators
+ES Barcelona power station II	ES
+ES Besos power station I	ES CCGT Generators
+ES Besos power station I	ES Gas Generators
+ES Besos power station I	ES
+ES Besos power station II	ES CCGT Generators
+ES Besos power station II	ES Gas Generators
+ES Besos power station II	ES
+ES Besos V power station I	ES CCGT Generators
+ES Besos V power station I	ES Gas Generators
+ES Besos V power station I	ES
+ES Besos V power station II	ES CCGT Generators
+ES Besos V power station II	ES Gas Generators
+ES Besos V power station II	ES

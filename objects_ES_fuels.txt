@@ -1,0 +1,37 @@
+Object_Name	Object_Type
+ES Station Coal	Fuel
+ES Station Coal Base	Variable
+ES Station Coal Price	Variable
+ES Station Coal Delivery Adjustment	Variable
+ES Station Coal Stochastic	Variable
+ES Station Coal Stochastic File	DataSource
+ES Station Gas	Fuel
+ES Station Gas Base	Variable
+ES Station Gas Price	Variable
+ES Station Gas Delivery Adjustment	Variable
+ES Station Gas Stochastic	Variable
+ES Station Gas Stochastic File	DataSource
+ES Station Biomass	Fuel
+ES Station Biomass Base	Variable
+ES Station Biomass Price	Variable
+ES Station Biomass Delivery Adjustment	Variable
+ES Station Biomass Stochastic	Variable
+ES Station Biomass Stochastic File	DataSource
+ES Station Lignite	Fuel
+ES Station Lignite Base	Variable
+ES Station Lignite Price	Variable
+ES Station Lignite Delivery Adjustment	Variable
+ES Station Lignite Stochastic	Variable
+ES Station Lignite Stochastic File	DataSource
+ES Station Uranium	Fuel
+ES Station Uranium Base	Variable
+ES Station Uranium Price	Variable
+ES Station Uranium Delivery Adjustment	Variable
+ES Station Uranium Stochastic	Variable
+ES Station Uranium Stochastic File	DataSource
+ES Station LSFO	Fuel
+ES Station LSFO Base	Variable
+ES Station LSFO Price	Variable
+ES Station LSFO Delivery Adjustment	Variable
+ES Station LSFO Stochastic	Variable
+ES Station LSFO Stochastic File	DataSource

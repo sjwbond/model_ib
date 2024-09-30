@@ -1,0 +1,22 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+ES North ROR Generator			Capacity	2010-01-01	2100-01-01	731.428571428571							
+ES North ROR Generator			Variable Cost	2010-01-01	2100-01-01	2							
+ES North ROR Generator			Capacity Rating Factor	2010-01-01	2100-01-01	ES North ROR Capacity Factor							
+ES North ROR Generator			Save Data	2010-01-01	2100-01-01	1							
+ES North ROR Generator			Save Blocks	2010-01-01	2100-01-01	0							
+ES North ROR Generator			Variable Cost	2010-01-01	2100-01-01	1							
+ES North ROR Generator			Bid Up Price	2010-01-01	2100-01-01	0							
+ES Middle ROR Generator			Capacity	2010-01-01	2100-01-01	571.428571428571							
+ES Middle ROR Generator			Variable Cost	2010-01-01	2100-01-01	2							
+ES Middle ROR Generator			Capacity Rating Factor	2010-01-01	2100-01-01	ES Middle ROR Capacity Factor							
+ES Middle ROR Generator			Save Data	2010-01-01	2100-01-01	1							
+ES Middle ROR Generator			Save Blocks	2010-01-01	2100-01-01	0							
+ES Middle ROR Generator			Variable Cost	2010-01-01	2100-01-01	1							
+ES Middle ROR Generator			Bid Up Price	2010-01-01	2100-01-01	0							
+ES South ROR Generator			Capacity	2010-01-01	2100-01-01	1097.14285714286							
+ES South ROR Generator			Variable Cost	2010-01-01	2100-01-01	2							
+ES South ROR Generator			Capacity Rating Factor	2010-01-01	2100-01-01	ES South ROR Capacity Factor							
+ES South ROR Generator			Save Data	2010-01-01	2100-01-01	1							
+ES South ROR Generator			Save Blocks	2010-01-01	2100-01-01	0							
+ES South ROR Generator			Variable Cost	2010-01-01	2100-01-01	1							
+ES South ROR Generator			Bid Up Price	2010-01-01	2100-01-01	0							

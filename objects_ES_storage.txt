@@ -1,0 +1,10 @@
+Object_Name	Object_Type
+ES Batteries 1h Dummy	Storage
+ES Batteries 1h	Storage
+ES Pumped Storage	Storage
+ES Batteries 2h dummy	Storage
+ES Batteries 2h	Storage
+ES Batteries 4h dummy	Storage
+ES Batteries 4h	Storage
+ES Batteries 6h dummy	Storage
+ES Batteries 6h	Storage

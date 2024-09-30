@@ -1,0 +1,211 @@
+Object_Name	Parent_Object
+ES RWE Siglos	ES Onshore Generators
+ES RWE Siglos	ES RWE Onshore Generators
+ES RWE Siglos	ES RWE Generators
+ES RWE Siglos	ES RWE Renewable Generators
+ES RWE Siglos	ES
+ES RWE Bancal	ES Onshore Generators
+ES RWE Bancal	ES RWE Onshore Generators
+ES RWE Bancal	ES RWE Generators
+ES RWE Bancal	ES RWE Renewable Generators
+ES RWE Bancal	ES
+ES RWE Lanternoso	ES Onshore Generators
+ES RWE Lanternoso	ES RWE Onshore Generators
+ES RWE Lanternoso	ES RWE Generators
+ES RWE Lanternoso	ES RWE Renewable Generators
+ES RWE Lanternoso	ES
+ES RWE Urano	ES Onshore Generators
+ES RWE Urano	ES RWE Onshore Generators
+ES RWE Urano	ES RWE Generators
+ES RWE Urano	ES RWE Renewable Generators
+ES RWE Urano	ES
+ES RWE Aldehuelas	ES Onshore Generators
+ES RWE Aldehuelas	ES RWE Onshore Generators
+ES RWE Aldehuelas	ES RWE Generators
+ES RWE Aldehuelas	ES RWE Renewable Generators
+ES RWE Aldehuelas	ES
+ES RWE Juno	ES Onshore Generators
+ES RWE Juno	ES RWE Onshore Generators
+ES RWE Juno	ES RWE Generators
+ES RWE Juno	ES RWE Renewable Generators
+ES RWE Juno	ES
+ES RWE Luna	ES Onshore Generators
+ES RWE Luna	ES RWE Onshore Generators
+ES RWE Luna	ES RWE Generators
+ES RWE Luna	ES RWE Renewable Generators
+ES RWE Luna	ES
+ES RWE Grisel	ES Onshore Generators
+ES RWE Grisel	ES RWE Onshore Generators
+ES RWE Grisel	ES RWE Generators
+ES RWE Grisel	ES RWE Renewable Generators
+ES RWE Grisel	ES
+ES RWE Muel	ES Onshore Generators
+ES RWE Muel	ES RWE Onshore Generators
+ES RWE Muel	ES RWE Generators
+ES RWE Muel	ES RWE Renewable Generators
+ES RWE Muel	ES
+ES RWE Rio Gallego	ES Onshore Generators
+ES RWE Rio Gallego	ES RWE Onshore Generators
+ES RWE Rio Gallego	ES RWE Generators
+ES RWE Rio Gallego	ES RWE Renewable Generators
+ES RWE Rio Gallego	ES
+ES RWE Acampo Armijo	ES Onshore Generators
+ES RWE Acampo Armijo	ES RWE Onshore Generators
+ES RWE Acampo Armijo	ES RWE Generators
+ES RWE Acampo Armijo	ES RWE Renewable Generators
+ES RWE Acampo Armijo	ES
+ES RWE Plana de la Balsa	ES Onshore Generators
+ES RWE Plana de la Balsa	ES RWE Onshore Generators
+ES RWE Plana de la Balsa	ES RWE Generators
+ES RWE Plana de la Balsa	ES RWE Renewable Generators
+ES RWE Plana de la Balsa	ES
+ES RWE Los Labrados	ES Onshore Generators
+ES RWE Los Labrados	ES RWE Onshore Generators
+ES RWE Los Labrados	ES RWE Generators
+ES RWE Los Labrados	ES RWE Renewable Generators
+ES RWE Los Labrados	ES
+ES RWE Plana de Zaragoza	ES Onshore Generators
+ES RWE Plana de Zaragoza	ES RWE Onshore Generators
+ES RWE Plana de Zaragoza	ES RWE Generators
+ES RWE Plana de Zaragoza	ES RWE Renewable Generators
+ES RWE Plana de Zaragoza	ES
+ES RWE Plana de Maria	ES Onshore Generators
+ES RWE Plana de Maria	ES RWE Onshore Generators
+ES RWE Plana de Maria	ES RWE Generators
+ES RWE Plana de Maria	ES RWE Renewable Generators
+ES RWE Plana de Maria	ES
+ES RWE Bosque Alto	ES Onshore Generators
+ES RWE Bosque Alto	ES RWE Onshore Generators
+ES RWE Bosque Alto	ES RWE Generators
+ES RWE Bosque Alto	ES RWE Renewable Generators
+ES RWE Bosque Alto	ES
+ES RWE Ascoy I	ES Onshore Generators
+ES RWE Ascoy I	ES RWE Onshore Generators
+ES RWE Ascoy I	ES RWE Generators
+ES RWE Ascoy I	ES RWE Renewable Generators
+ES RWE Ascoy I	ES
+ES RWE Ascoy II	ES Onshore Generators
+ES RWE Ascoy II	ES RWE Onshore Generators
+ES RWE Ascoy II	ES RWE Generators
+ES RWE Ascoy II	ES RWE Renewable Generators
+ES RWE Ascoy II	ES
+ES RWE Boqueron I	ES Onshore Generators
+ES RWE Boqueron I	ES RWE Onshore Generators
+ES RWE Boqueron I	ES RWE Generators
+ES RWE Boqueron I	ES RWE Renewable Generators
+ES RWE Boqueron I	ES
+ES RWE Boqueron II	ES Onshore Generators
+ES RWE Boqueron II	ES RWE Onshore Generators
+ES RWE Boqueron II	ES RWE Generators
+ES RWE Boqueron II	ES RWE Renewable Generators
+ES RWE Boqueron II	ES
+ES RWE Boqueron III	ES Onshore Generators
+ES RWE Boqueron III	ES RWE Onshore Generators
+ES RWE Boqueron III	ES RWE Generators
+ES RWE Boqueron III	ES RWE Renewable Generators
+ES RWE Boqueron III	ES
+ES RWE Borja I	ES Onshore Generators
+ES RWE Borja I	ES RWE Onshore Generators
+ES RWE Borja I	ES RWE Generators
+ES RWE Borja I	ES RWE Renewable Generators
+ES RWE Borja I	ES
+ES RWE Borja II	ES Onshore Generators
+ES RWE Borja II	ES RWE Onshore Generators
+ES RWE Borja II	ES RWE Generators
+ES RWE Borja II	ES RWE Renewable Generators
+ES RWE Borja II	ES
+ES RWE Borja III	ES Onshore Generators
+ES RWE Borja III	ES RWE Onshore Generators
+ES RWE Borja III	ES RWE Generators
+ES RWE Borja III	ES RWE Renewable Generators
+ES RWE Borja III	ES
+ES RWE Carcelen	ES Onshore Generators
+ES RWE Carcelen	ES RWE Onshore Generators
+ES RWE Carcelen	ES RWE Generators
+ES RWE Carcelen	ES RWE Renewable Generators
+ES RWE Carcelen	ES
+ES RWE Hiperion II	ES Onshore Generators
+ES RWE Hiperion II	ES RWE Onshore Generators
+ES RWE Hiperion II	ES RWE Generators
+ES RWE Hiperion II	ES RWE Renewable Generators
+ES RWE Hiperion II	ES
+ES RWE La Victoria	ES Onshore Generators
+ES RWE La Victoria	ES RWE Onshore Generators
+ES RWE La Victoria	ES RWE Generators
+ES RWE La Victoria	ES RWE Renewable Generators
+ES RWE La Victoria	ES
+ES RWE Mallen	ES Onshore Generators
+ES RWE Mallen	ES RWE Onshore Generators
+ES RWE Mallen	ES RWE Generators
+ES RWE Mallen	ES RWE Renewable Generators
+ES RWE Mallen	ES
+ES RWE Matabuey	ES Onshore Generators
+ES RWE Matabuey	ES RWE Onshore Generators
+ES RWE Matabuey	ES RWE Generators
+ES RWE Matabuey	ES RWE Renewable Generators
+ES RWE Matabuey	ES
+ES RWE Mingorrubio I	ES Onshore Generators
+ES RWE Mingorrubio I	ES RWE Onshore Generators
+ES RWE Mingorrubio I	ES RWE Generators
+ES RWE Mingorrubio I	ES RWE Renewable Generators
+ES RWE Mingorrubio I	ES
+ES RWE Mingorrubio II	ES Onshore Generators
+ES RWE Mingorrubio II	ES RWE Onshore Generators
+ES RWE Mingorrubio II	ES RWE Generators
+ES RWE Mingorrubio II	ES RWE Renewable Generators
+ES RWE Mingorrubio II	ES
+ES RWE Paramo de Poza I	ES Onshore Generators
+ES RWE Paramo de Poza I	ES RWE Onshore Generators
+ES RWE Paramo de Poza I	ES RWE Generators
+ES RWE Paramo de Poza I	ES RWE Renewable Generators
+ES RWE Paramo de Poza I	ES
+ES RWE Paramo de Poza II	ES Onshore Generators
+ES RWE Paramo de Poza II	ES RWE Onshore Generators
+ES RWE Paramo de Poza II	ES RWE Generators
+ES RWE Paramo de Poza II	ES RWE Renewable Generators
+ES RWE Paramo de Poza II	ES
+ES RWE Paxareiras I	ES Onshore Generators
+ES RWE Paxareiras I	ES RWE Onshore Generators
+ES RWE Paxareiras I	ES RWE Generators
+ES RWE Paxareiras I	ES RWE Renewable Generators
+ES RWE Paxareiras I	ES
+ES RWE Paxareiras II	ES Onshore Generators
+ES RWE Paxareiras II	ES RWE Onshore Generators
+ES RWE Paxareiras II	ES RWE Generators
+ES RWE Paxareiras II	ES RWE Renewable Generators
+ES RWE Paxareiras II	ES
+ES RWE Pico Gallo	ES Onshore Generators
+ES RWE Pico Gallo	ES RWE Onshore Generators
+ES RWE Pico Gallo	ES RWE Generators
+ES RWE Pico Gallo	ES RWE Renewable Generators
+ES RWE Pico Gallo	ES
+ES RWE Planas de Pola	ES Onshore Generators
+ES RWE Planas de Pola	ES RWE Onshore Generators
+ES RWE Planas de Pola	ES RWE Generators
+ES RWE Planas de Pola	ES RWE Renewable Generators
+ES RWE Planas de Pola	ES
+ES RWE Puntaza de Remolinos I	ES Onshore Generators
+ES RWE Puntaza de Remolinos I	ES RWE Onshore Generators
+ES RWE Puntaza de Remolinos I	ES RWE Generators
+ES RWE Puntaza de Remolinos I	ES RWE Renewable Generators
+ES RWE Puntaza de Remolinos I	ES
+ES RWE Puntaza de Remolinos II	ES Onshore Generators
+ES RWE Puntaza de Remolinos II	ES RWE Onshore Generators
+ES RWE Puntaza de Remolinos II	ES RWE Generators
+ES RWE Puntaza de Remolinos II	ES RWE Renewable Generators
+ES RWE Puntaza de Remolinos II	ES
+ES RWE San Juan de Bargas I	ES Onshore Generators
+ES RWE San Juan de Bargas I	ES RWE Onshore Generators
+ES RWE San Juan de Bargas I	ES RWE Generators
+ES RWE San Juan de Bargas I	ES RWE Renewable Generators
+ES RWE San Juan de Bargas I	ES
+ES RWE San Juan de Bargas II	ES Onshore Generators
+ES RWE San Juan de Bargas II	ES RWE Onshore Generators
+ES RWE San Juan de Bargas II	ES RWE Generators
+ES RWE San Juan de Bargas II	ES RWE Renewable Generators
+ES RWE San Juan de Bargas II	ES
+ES RWE Sierra de Tineo	ES Onshore Generators
+ES RWE Sierra de Tineo	ES RWE Onshore Generators
+ES RWE Sierra de Tineo	ES RWE Generators
+ES RWE Sierra de Tineo	ES RWE Renewable Generators
+ES RWE Sierra de Tineo	ES

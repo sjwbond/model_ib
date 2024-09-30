@@ -1,0 +1,73 @@
+Object_Name	Object_Type
+ES H2_North	Reservoir
+ES H2_North Inflow	Variable
+ES H2_North Inflow File	DataSource
+ES H2_North Inflow TS	DBTimeSeries
+ES ES_RES_ALDEADAVILA II	Reservoir
+ES ES_RES_ALDEADAVILA II Inflow	Variable
+ES ES_RES_ALDEADAVILA II Inflow File	DataSource
+ES ES_RES_ALDEADAVILA II Inflow TS	DBTimeSeries
+ES ES_RES_CONSO	Reservoir
+ES ES_RES_CONSO Inflow	Variable
+ES ES_RES_CONSO Inflow File	DataSource
+ES ES_RES_CONSO Inflow TS	DBTimeSeries
+ES ES_RES_GABRIEL Y GALAN	Reservoir
+ES ES_RES_GABRIEL Y GALAN Inflow	Variable
+ES ES_RES_GABRIEL Y GALAN Inflow File	DataSource
+ES ES_RES_GABRIEL Y GALAN Inflow TS	DBTimeSeries
+ES ES_RES_GUIJO DE GRANADILLA	Reservoir
+ES ES_RES_GUIJO DE GRANADILLA Inflow	Variable
+ES ES_RES_GUIJO DE GRANADILLA Inflow File	DataSource
+ES ES_RES_GUIJO DE GRANADILLA Inflow TS	DBTimeSeries
+ES ES_RES_IP	Reservoir
+ES ES_RES_IP Inflow	Variable
+ES ES_RES_IP Inflow File	DataSource
+ES ES_RES_IP Inflow TS	DBTimeSeries
+ES ES_RES_MONTAMARA	Reservoir
+ES ES_RES_MONTAMARA Inflow	Variable
+ES ES_RES_MONTAMARA Inflow File	DataSource
+ES ES_RES_MONTAMARA Inflow TS	DBTimeSeries
+ES ES_RES_PUENTE BIBEY	Reservoir
+ES ES_RES_PUENTE BIBEY Inflow	Variable
+ES ES_RES_PUENTE BIBEY Inflow File	DataSource
+ES ES_RES_PUENTE BIBEY Inflow TS	DBTimeSeries
+ES ES_RES_Reservoir_Duero	Reservoir
+ES ES_RES_Reservoir_Duero Inflow	Variable
+ES ES_RES_Reservoir_Duero Inflow File	DataSource
+ES ES_RES_Reservoir_Duero Inflow TS	DBTimeSeries
+ES ES_RES_Reservoir_Ebro	Reservoir
+ES ES_RES_Reservoir_Ebro Inflow	Variable
+ES ES_RES_Reservoir_Ebro Inflow File	DataSource
+ES ES_RES_Reservoir_Ebro Inflow TS	DBTimeSeries
+ES ES_RES_Reservoir_GuadalquivirSur	Reservoir
+ES ES_RES_Reservoir_GuadalquivirSur Inflow	Variable
+ES ES_RES_Reservoir_GuadalquivirSur Inflow File	DataSource
+ES ES_RES_Reservoir_GuadalquivirSur Inflow TS	DBTimeSeries
+ES ES_RES_Reservoir_Guadiana	Reservoir
+ES ES_RES_Reservoir_Guadiana Inflow	Variable
+ES ES_RES_Reservoir_Guadiana Inflow File	DataSource
+ES ES_RES_Reservoir_Guadiana Inflow TS	DBTimeSeries
+ES ES_RES_Reservoir_Norte	Reservoir
+ES ES_RES_Reservoir_Norte Inflow	Variable
+ES ES_RES_Reservoir_Norte Inflow File	DataSource
+ES ES_RES_Reservoir_Norte Inflow TS	DBTimeSeries
+ES ES_RES_Reservoir_TajoJucarSegura	Reservoir
+ES ES_RES_Reservoir_TajoJucarSegura Inflow	Variable
+ES ES_RES_Reservoir_TajoJucarSegura Inflow File	DataSource
+ES ES_RES_Reservoir_TajoJucarSegura Inflow TS	DBTimeSeries
+ES ES_RES_SOUTELO	Reservoir
+ES ES_RES_SOUTELO Inflow	Variable
+ES ES_RES_SOUTELO Inflow File	DataSource
+ES ES_RES_SOUTELO Inflow TS	DBTimeSeries
+ES ES_RES_TANES	Reservoir
+ES ES_RES_TANES Inflow	Variable
+ES ES_RES_TANES Inflow File	DataSource
+ES ES_RES_TANES Inflow TS	DBTimeSeries
+ES ES_RES_TORREJON	Reservoir
+ES ES_RES_TORREJON Inflow	Variable
+ES ES_RES_TORREJON Inflow File	DataSource
+ES ES_RES_TORREJON Inflow TS	DBTimeSeries
+ES ES_RES_VILLARINO	Reservoir
+ES ES_RES_VILLARINO Inflow	Variable
+ES ES_RES_VILLARINO Inflow File	DataSource
+ES ES_RES_VILLARINO Inflow TS	DBTimeSeries

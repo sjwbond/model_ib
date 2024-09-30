@@ -1,0 +1,171 @@
+Object_Name	Object_Type
+ES RWE Siglos	Generator
+ES RWE Bancal	Generator
+ES RWE Lanternoso	Generator
+ES RWE Urano	Generator
+ES Onshore 1082 42.0 -1.875 55M Windspeed	Variable
+ES Onshore 1082 42.0 -1.875 55M HHxWS	Variable
+ES Onshore 1082 42.0 -1.875 55M HHxWSc	Variable
+ES Onshore 1082 42.0 -1.875 55M HHc	Variable
+ES Onshore 1082 42.0 -1.875 55M WSc	Variable
+ES Onshore 1082 42.0 -1.875 55M HHxWSc+HHc	Variable
+ES Onshore 1082 42.0 -1.875 55M HHxWSc+HHc+WSc	Variable
+ES Onshore 1082 42.0 -1.875 55M HHxWSc+HHc+WSc+C	Variable
+ES RWE Aldehuelas	Generator
+ES RWE Juno	Generator
+ES Onshore 1082 42.0 -1.875 65M Windspeed	Variable
+ES Onshore 1082 42.0 -1.875 65M HHxWS	Variable
+ES Onshore 1082 42.0 -1.875 65M HHxWSc	Variable
+ES Onshore 1082 42.0 -1.875 65M HHc	Variable
+ES Onshore 1082 42.0 -1.875 65M WSc	Variable
+ES Onshore 1082 42.0 -1.875 65M HHxWSc+HHc	Variable
+ES Onshore 1082 42.0 -1.875 65M HHxWSc+HHc+WSc	Variable
+ES Onshore 1082 42.0 -1.875 65M HHxWSc+HHc+WSc+C	Variable
+ES RWE Luna	Generator
+ES RWE Grisel	Generator
+ES Onshore 1082 42.0 -1.875 60M Windspeed	Variable
+ES Onshore 1082 42.0 -1.875 60M HHxWS	Variable
+ES Onshore 1082 42.0 -1.875 60M HHxWSc	Variable
+ES Onshore 1082 42.0 -1.875 60M HHc	Variable
+ES Onshore 1082 42.0 -1.875 60M WSc	Variable
+ES Onshore 1082 42.0 -1.875 60M HHxWSc+HHc	Variable
+ES Onshore 1082 42.0 -1.875 60M HHxWSc+HHc+WSc	Variable
+ES Onshore 1082 42.0 -1.875 60M HHxWSc+HHc+WSc+C	Variable
+ES RWE Muel	Generator
+ES Onshore 817 40.5 -0.625 60M Windspeed	Variable
+ES Onshore 817 40.5 -0.625 60M HHxWS	Variable
+ES Onshore 817 40.5 -0.625 60M HHxWSc	Variable
+ES Onshore 817 40.5 -0.625 60M HHc	Variable
+ES Onshore 817 40.5 -0.625 60M WSc	Variable
+ES Onshore 817 40.5 -0.625 60M HHxWSc+HHc	Variable
+ES Onshore 817 40.5 -0.625 60M HHxWSc+HHc+WSc	Variable
+ES Onshore 817 40.5 -0.625 60M HHxWSc+HHc+WSc+C	Variable
+ES RWE Rio Gallego	Generator
+ES RWE Acampo Armijo	Generator
+ES RWE Plana de la Balsa	Generator
+ES RWE Los Labrados	Generator
+ES RWE Plana de Zaragoza	Generator
+ES RWE Plana de Maria	Generator
+ES RWE Bosque Alto	Generator
+ES RWE Ascoy I	Generator
+ES Onshore 370 38.0 -1.875 45M Windspeed	Variable
+ES Onshore 370 38.0 -1.875 45M HHxWS	Variable
+ES Onshore 370 38.0 -1.875 45M HHxWSc	Variable
+ES Onshore 370 38.0 -1.875 45M HHc	Variable
+ES Onshore 370 38.0 -1.875 45M WSc	Variable
+ES Onshore 370 38.0 -1.875 45M HHxWSc+HHc	Variable
+ES Onshore 370 38.0 -1.875 45M HHxWSc+HHc+WSc	Variable
+ES Onshore 370 38.0 -1.875 45M HHxWSc+HHc+WSc+C	Variable
+ES RWE Ascoy II	Generator
+ES RWE Boqueron I	Generator
+ES Onshore 1082 42.0 -1.875 45M Windspeed	Variable
+ES Onshore 1082 42.0 -1.875 45M HHxWS	Variable
+ES Onshore 1082 42.0 -1.875 45M HHxWSc	Variable
+ES Onshore 1082 42.0 -1.875 45M HHc	Variable
+ES Onshore 1082 42.0 -1.875 45M WSc	Variable
+ES Onshore 1082 42.0 -1.875 45M HHxWSc+HHc	Variable
+ES Onshore 1082 42.0 -1.875 45M HHxWSc+HHc+WSc	Variable
+ES Onshore 1082 42.0 -1.875 45M HHxWSc+HHc+WSc+C	Variable
+ES RWE Boqueron II	Generator
+ES RWE Boqueron III	Generator
+ES RWE Borja I	Generator
+ES RWE Borja II	Generator
+ES RWE Borja III	Generator
+ES RWE Carcelen	Generator
+ES Onshore 458 38.5 -2.5 50M Windspeed	Variable
+ES Onshore 458 38.5 -2.5 50M HHxWS	Variable
+ES Onshore 458 38.5 -2.5 50M HHxWSc	Variable
+ES Onshore 458 38.5 -2.5 50M HHc	Variable
+ES Onshore 458 38.5 -2.5 50M WSc	Variable
+ES Onshore 458 38.5 -2.5 50M HHxWSc+HHc	Variable
+ES Onshore 458 38.5 -2.5 50M HHxWSc+HHc+WSc	Variable
+ES Onshore 458 38.5 -2.5 50M HHxWSc+HHc+WSc+C	Variable
+ES RWE Hiperion II	Generator
+ES RWE La Victoria	Generator
+ES Onshore 190 37.0 -3.125 80M Windspeed	Variable
+ES Onshore 190 37.0 -3.125 80M HHxWS	Variable
+ES Onshore 190 37.0 -3.125 80M HHxWSc	Variable
+ES Onshore 190 37.0 -3.125 80M HHc	Variable
+ES Onshore 190 37.0 -3.125 80M WSc	Variable
+ES Onshore 190 37.0 -3.125 80M HHxWSc+HHc	Variable
+ES Onshore 190 37.0 -3.125 80M HHxWSc+HHc+WSc	Variable
+ES Onshore 190 37.0 -3.125 80M HHxWSc+HHc+WSc+C	Variable
+ES RWE Mallen	Generator
+ES Onshore 1082 42.0 -1.875 80M Windspeed	Variable
+ES Onshore 1082 42.0 -1.875 80M HHxWS	Variable
+ES Onshore 1082 42.0 -1.875 80M HHxWSc	Variable
+ES Onshore 1082 42.0 -1.875 80M HHc	Variable
+ES Onshore 1082 42.0 -1.875 80M WSc	Variable
+ES Onshore 1082 42.0 -1.875 80M HHxWSc+HHc	Variable
+ES Onshore 1082 42.0 -1.875 80M HHxWSc+HHc+WSc	Variable
+ES Onshore 1082 42.0 -1.875 80M HHxWSc+HHc+WSc+C	Variable
+ES RWE Matabuey	Generator
+ES Onshore 899 41.0 -5.0 80M Windspeed	Variable
+ES Onshore 899 41.0 -5.0 80M HHxWS	Variable
+ES Onshore 899 41.0 -5.0 80M HHxWSc	Variable
+ES Onshore 899 41.0 -5.0 80M HHc	Variable
+ES Onshore 899 41.0 -5.0 80M WSc	Variable
+ES Onshore 899 41.0 -5.0 80M HHxWSc+HHc	Variable
+ES Onshore 899 41.0 -5.0 80M HHxWSc+HHc+WSc	Variable
+ES Onshore 899 41.0 -5.0 80M HHxWSc+HHc+WSc+C	Variable
+ES RWE Mingorrubio I	Generator
+ES Onshore 458 38.5 -2.5 80M Windspeed	Variable
+ES Onshore 458 38.5 -2.5 80M HHxWS	Variable
+ES Onshore 458 38.5 -2.5 80M HHxWSc	Variable
+ES Onshore 458 38.5 -2.5 80M HHc	Variable
+ES Onshore 458 38.5 -2.5 80M WSc	Variable
+ES Onshore 458 38.5 -2.5 80M HHxWSc+HHc	Variable
+ES Onshore 458 38.5 -2.5 80M HHxWSc+HHc+WSc	Variable
+ES Onshore 458 38.5 -2.5 80M HHxWSc+HHc+WSc+C	Variable
+ES RWE Mingorrubio II	Generator
+ES RWE Paramo de Poza I	Generator
+ES Onshore 1258 43.0 -3.125 55M Windspeed	Variable
+ES Onshore 1258 43.0 -3.125 55M HHxWS	Variable
+ES Onshore 1258 43.0 -3.125 55M HHxWSc	Variable
+ES Onshore 1258 43.0 -3.125 55M HHc	Variable
+ES Onshore 1258 43.0 -3.125 55M WSc	Variable
+ES Onshore 1258 43.0 -3.125 55M HHxWSc+HHc	Variable
+ES Onshore 1258 43.0 -3.125 55M HHxWSc+HHc+WSc	Variable
+ES Onshore 1258 43.0 -3.125 55M HHxWSc+HHc+WSc+C	Variable
+ES RWE Paramo de Poza II	Generator
+ES RWE Paxareiras I	Generator
+ES Onshore 1250 43.0 -8.125 35M Windspeed	Variable
+ES Onshore 1250 43.0 -8.125 35M HHxWS	Variable
+ES Onshore 1250 43.0 -8.125 35M HHxWSc	Variable
+ES Onshore 1250 43.0 -8.125 35M HHc	Variable
+ES Onshore 1250 43.0 -8.125 35M WSc	Variable
+ES Onshore 1250 43.0 -8.125 35M HHxWSc+HHc	Variable
+ES Onshore 1250 43.0 -8.125 35M HHxWSc+HHc+WSc	Variable
+ES Onshore 1250 43.0 -8.125 35M HHxWSc+HHc+WSc+C	Variable
+ES RWE Paxareiras II	Generator
+ES RWE Pico Gallo	Generator
+ES Onshore 1252 43.0 -6.875 45M Windspeed	Variable
+ES Onshore 1252 43.0 -6.875 45M HHxWS	Variable
+ES Onshore 1252 43.0 -6.875 45M HHxWSc	Variable
+ES Onshore 1252 43.0 -6.875 45M HHc	Variable
+ES Onshore 1252 43.0 -6.875 45M WSc	Variable
+ES Onshore 1252 43.0 -6.875 45M HHxWSc+HHc	Variable
+ES Onshore 1252 43.0 -6.875 45M HHxWSc+HHc+WSc	Variable
+ES Onshore 1252 43.0 -6.875 45M HHxWSc+HHc+WSc+C	Variable
+ES RWE Planas de Pola	Generator
+ES RWE Puntaza de Remolinos I	Generator
+ES RWE Puntaza de Remolinos II	Generator
+ES RWE San Juan de Bargas I	Generator
+ES Onshore 1082 42.0 -1.875 50M Windspeed	Variable
+ES Onshore 1082 42.0 -1.875 50M HHxWS	Variable
+ES Onshore 1082 42.0 -1.875 50M HHxWSc	Variable
+ES Onshore 1082 42.0 -1.875 50M HHc	Variable
+ES Onshore 1082 42.0 -1.875 50M WSc	Variable
+ES Onshore 1082 42.0 -1.875 50M HHxWSc+HHc	Variable
+ES Onshore 1082 42.0 -1.875 50M HHxWSc+HHc+WSc	Variable
+ES Onshore 1082 42.0 -1.875 50M HHxWSc+HHc+WSc+C	Variable
+ES RWE San Juan de Bargas II	Generator
+ES RWE Sierra de Tineo	Generator
+ES Onshore 1252 43.0 -6.875 80M Windspeed	Variable
+ES Onshore 1252 43.0 -6.875 80M HHxWS	Variable
+ES Onshore 1252 43.0 -6.875 80M HHxWSc	Variable
+ES Onshore 1252 43.0 -6.875 80M HHc	Variable
+ES Onshore 1252 43.0 -6.875 80M WSc	Variable
+ES Onshore 1252 43.0 -6.875 80M HHxWSc+HHc	Variable
+ES Onshore 1252 43.0 -6.875 80M HHxWSc+HHc+WSc	Variable
+ES Onshore 1252 43.0 -6.875 80M HHxWSc+HHc+WSc+C	Variable

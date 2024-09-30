@@ -1,0 +1,151 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+ES PVSAT 1073 42.0 -7.5 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 1080 42.0 -3.125 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 1088 42.0 1.875 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 1165 42.5 -5.625 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 1172 42.5 -1.25 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 1176 42.5 1.25 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 1250 43.0 -8.125 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 1253 43.0 -6.25 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 1258 43.0 -3.125 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 186 37.0 -5.625 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 279 37.5 -3.125 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 362 38.0 -6.875 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 454 38.5 -5.0 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 457 38.5 -3.125 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 460 38.5 -1.25 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 548 39.0 -1.875 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 630 39.5 -6.25 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 633 39.5 -4.375 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 639 39.5 -0.625 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 645 39.5 3.125 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 725 40.0 -2.5 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 807 40.5 -6.875 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 901 41.0 -3.75 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 905 41.0 -1.25 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 987 41.5 -5.625 Generator			Bid Up Price	2000-01-01	2100-01-01	0							
+ES PVSAT 1073 42.0 -7.5 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 1080 42.0 -3.125 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 1088 42.0 1.875 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 1165 42.5 -5.625 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 1172 42.5 -1.25 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 1176 42.5 1.25 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 1250 43.0 -8.125 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 1253 43.0 -6.25 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 1258 43.0 -3.125 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 186 37.0 -5.625 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 279 37.5 -3.125 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 362 38.0 -6.875 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 454 38.5 -5.0 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 457 38.5 -3.125 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 460 38.5 -1.25 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 548 39.0 -1.875 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 630 39.5 -6.25 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 633 39.5 -4.375 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 639 39.5 -0.625 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 645 39.5 3.125 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 725 40.0 -2.5 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 807 40.5 -6.875 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 901 41.0 -3.75 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 905 41.0 -1.25 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 987 41.5 -5.625 Generator			Capacity	2000-01-01	2100-01-01	ES Installed Capacity File	1	Multiply					
+ES PVSAT 1073 42.0 -7.5 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 1073 42.0 -7.5 Capacity Factor							
+ES PVSAT 1080 42.0 -3.125 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 1080 42.0 -3.125 Capacity Factor							
+ES PVSAT 1088 42.0 1.875 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 1088 42.0 1.875 Capacity Factor							
+ES PVSAT 1165 42.5 -5.625 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 1165 42.5 -5.625 Capacity Factor							
+ES PVSAT 1172 42.5 -1.25 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 1172 42.5 -1.25 Capacity Factor							
+ES PVSAT 1176 42.5 1.25 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 1176 42.5 1.25 Capacity Factor							
+ES PVSAT 1250 43.0 -8.125 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 1250 43.0 -8.125 Capacity Factor							
+ES PVSAT 1253 43.0 -6.25 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 1253 43.0 -6.25 Capacity Factor							
+ES PVSAT 1258 43.0 -3.125 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 1258 43.0 -3.125 Capacity Factor							
+ES PVSAT 186 37.0 -5.625 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 186 37.0 -5.625 Capacity Factor							
+ES PVSAT 279 37.5 -3.125 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 279 37.5 -3.125 Capacity Factor							
+ES PVSAT 362 38.0 -6.875 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 362 38.0 -6.875 Capacity Factor							
+ES PVSAT 454 38.5 -5.0 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 454 38.5 -5.0 Capacity Factor							
+ES PVSAT 457 38.5 -3.125 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 457 38.5 -3.125 Capacity Factor							
+ES PVSAT 460 38.5 -1.25 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 460 38.5 -1.25 Capacity Factor							
+ES PVSAT 548 39.0 -1.875 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 548 39.0 -1.875 Capacity Factor							
+ES PVSAT 630 39.5 -6.25 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 630 39.5 -6.25 Capacity Factor							
+ES PVSAT 633 39.5 -4.375 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 633 39.5 -4.375 Capacity Factor							
+ES PVSAT 639 39.5 -0.625 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 639 39.5 -0.625 Capacity Factor							
+ES PVSAT 645 39.5 3.125 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 645 39.5 3.125 Capacity Factor							
+ES PVSAT 725 40.0 -2.5 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 725 40.0 -2.5 Capacity Factor							
+ES PVSAT 807 40.5 -6.875 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 807 40.5 -6.875 Capacity Factor							
+ES PVSAT 901 41.0 -3.75 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 901 41.0 -3.75 Capacity Factor							
+ES PVSAT 905 41.0 -1.25 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 905 41.0 -1.25 Capacity Factor							
+ES PVSAT 987 41.5 -5.625 Generator			Capacity Rating Factor	2000-01-01	2100-01-01	ES PVSAT 987 41.5 -5.625 Capacity Factor							
+ES PVSAT 1073 42.0 -7.5 Generator			Save Blocks	2000-01-01	2100-01-01	1							
+ES PVSAT 1080 42.0 -3.125 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 1088 42.0 1.875 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 1165 42.5 -5.625 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 1172 42.5 -1.25 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 1176 42.5 1.25 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 1250 43.0 -8.125 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 1253 43.0 -6.25 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 1258 43.0 -3.125 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 186 37.0 -5.625 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 279 37.5 -3.125 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 362 38.0 -6.875 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 454 38.5 -5.0 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 457 38.5 -3.125 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 460 38.5 -1.25 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 548 39.0 -1.875 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 630 39.5 -6.25 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 633 39.5 -4.375 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 639 39.5 -0.625 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 645 39.5 3.125 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 725 40.0 -2.5 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 807 40.5 -6.875 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 901 41.0 -3.75 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 905 41.0 -1.25 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 987 41.5 -5.625 Generator			Save Blocks	2000-01-01	2100-01-01	0							
+ES PVSAT 1073 42.0 -7.5 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 1080 42.0 -3.125 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 1088 42.0 1.875 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 1165 42.5 -5.625 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 1172 42.5 -1.25 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 1176 42.5 1.25 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 1250 43.0 -8.125 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 1253 43.0 -6.25 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 1258 43.0 -3.125 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 186 37.0 -5.625 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 279 37.5 -3.125 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 362 38.0 -6.875 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 454 38.5 -5.0 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 457 38.5 -3.125 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 460 38.5 -1.25 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 548 39.0 -1.875 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 630 39.5 -6.25 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 633 39.5 -4.375 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 639 39.5 -0.625 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 645 39.5 3.125 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 725 40.0 -2.5 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 807 40.5 -6.875 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 901 41.0 -3.75 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 905 41.0 -1.25 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 987 41.5 -5.625 Generator			Save Data	2000-01-01	2100-01-01	1							
+ES PVSAT 1073 42.0 -7.5 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 1080 42.0 -3.125 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 1088 42.0 1.875 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 1165 42.5 -5.625 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 1172 42.5 -1.25 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 1176 42.5 1.25 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 1250 43.0 -8.125 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 1253 43.0 -6.25 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 1258 43.0 -3.125 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 186 37.0 -5.625 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 279 37.5 -3.125 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 362 38.0 -6.875 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 454 38.5 -5.0 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 457 38.5 -3.125 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 460 38.5 -1.25 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 548 39.0 -1.875 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 630 39.5 -6.25 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 633 39.5 -4.375 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 639 39.5 -0.625 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 645 39.5 3.125 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 725 40.0 -2.5 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 807 40.5 -6.875 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 901 41.0 -3.75 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 905 41.0 -1.25 Generator			Variable Cost	2000-01-01	2100-01-01	1							
+ES PVSAT 987 41.5 -5.625 Generator			Variable Cost	2000-01-01	2100-01-01	1							

@@ -1,0 +1,34 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+ES Daily Demand Stochastic File			Location	2010-01-01	2100-01-01	/Variables/Demand/ES/Daily Demand Stochastic.txt							
+ES Daily Demand Stochastic File			Location_Type	2010-01-01	2100-01-01	Relative							
+ES Daily Demand Stochastic File			Data_Type	2010-01-01	2100-01-01	File							
+ES Demand DIY File			Location	2010-01-01	2100-01-01	/Variables/Demand/ES/Demand DIY.txt							
+ES Demand DIY File			Location_Type	2010-01-01	2100-01-01	Relative							
+ES Demand DIY File			Data_Type	2010-01-01	2100-01-01	File							
+ES Demand DOW File			Location	2010-01-01	2100-01-01	/Variables/Demand/ES/Demand DOW.txt							
+ES Demand DOW File			Location_Type	2010-01-01	2100-01-01	Relative							
+ES Demand DOW File			Data_Type	2010-01-01	2100-01-01	File							
+ES Demand HOD File			Location	2010-01-01	2100-01-01	/Variables/Demand/ES/Demand HOD.txt							
+ES Demand HOD File			Location_Type	2010-01-01	2100-01-01	Relative							
+ES Demand HOD File			Data_Type	2010-01-01	2100-01-01	File							
+ES Demand Historic Day Ahead File			Location	2010-01-01	2100-01-01	/Variables/Demand/ES/Demand Historic Day Ahead.txt							
+ES Demand Historic Day Ahead File			Location_Type	2010-01-01	2100-01-01	Relative							
+ES Demand Historic Day Ahead File			Data_Type	2010-01-01	2100-01-01	File							
+ES Demand EV_Precon DIY File			Location	2010-01-01	2100-01-01	/Variables/Demand/ES/Demand DIY EV_Precondition.txt							
+ES Demand EV_Precon DOW File			Location	2010-01-01	2100-01-01	/Variables/Demand/ES/Demand DOW EV_Precondition.txt							
+ES Demand EV_Precon HOD File			Location	2010-01-01	2100-01-01	/Variables/Demand/ES/Demand HOD EV_Precondition.txt							
+ES Demand EV_Charge DIY File			Location	2010-01-01	2100-01-01	/Variables/Demand/ES/Demand DIY EV_Charge.txt							
+ES Demand EV_Charge DOW File			Location	2010-01-01	2100-01-01	/Variables/Demand/ES/Demand DOW EV_Charge.txt							
+ES Demand EV_Charge HOD File			Location	2010-01-01	2100-01-01	/Variables/Demand/ES/Demand HOD EV_Charge.txt							
+ES Demand EV_Precon DIY File			Location_Type	2010-01-01	2100-01-01	Relative							
+ES Demand EV_Precon DOW File			Location_Type	2010-01-01	2100-01-01	Relative							
+ES Demand EV_Precon HOD File			Location_Type	2010-01-01	2100-01-01	Relative							
+ES Demand EV_Charge DIY File			Location_Type	2010-01-01	2100-01-01	Relative							
+ES Demand EV_Charge DOW File			Location_Type	2010-01-01	2100-01-01	Relative							
+ES Demand EV_Charge HOD File			Location_Type	2010-01-01	2100-01-01	Relative							
+ES Demand EV_Precon DIY File			Data_Type	2010-01-01	2100-01-01	File							
+ES Demand EV_Precon DOW File			Data_Type	2010-01-01	2100-01-01	File							
+ES Demand EV_Precon HOD File			Data_Type	2010-01-01	2100-01-01	File							
+ES Demand EV_Charge DIY File			Data_Type	2010-01-01	2100-01-01	File							
+ES Demand EV_Charge DOW File			Data_Type	2010-01-01	2100-01-01	File							
+ES Demand EV_Charge HOD File			Data_Type	2010-01-01	2100-01-01	File							

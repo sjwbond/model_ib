@@ -1,0 +1,151 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+ES PVSAT 1073 42.0 -7.5 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 1073 42.0 -7.5 File	0.1	Multiply					
+ES PVSAT 1073 42.0 -7.5 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 1073 42.0 -7.5/							
+ES PVSAT 1073 42.0 -7.5 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 1073 42.0 -7.5 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 1073 42.0 -7.5 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 1073 42.0 -7.5 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 1073 42.0 -7.5							
+ES PVSAT 1080 42.0 -3.125 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 1080 42.0 -3.125 File	0.1	Multiply					
+ES PVSAT 1080 42.0 -3.125 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 1080 42.0 -3.125/							
+ES PVSAT 1080 42.0 -3.125 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 1080 42.0 -3.125 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 1080 42.0 -3.125 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 1080 42.0 -3.125 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 1080 42.0 -3.125							
+ES PVSAT 1088 42.0 1.875 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 1088 42.0 1.875 File	0.1	Multiply					
+ES PVSAT 1088 42.0 1.875 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 1088 42.0 1.875/							
+ES PVSAT 1088 42.0 1.875 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 1088 42.0 1.875 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 1088 42.0 1.875 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 1088 42.0 1.875 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 1088 42.0 1.875							
+ES PVSAT 1165 42.5 -5.625 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 1165 42.5 -5.625 File	0.1	Multiply					
+ES PVSAT 1165 42.5 -5.625 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 1165 42.5 -5.625/							
+ES PVSAT 1165 42.5 -5.625 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 1165 42.5 -5.625 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 1165 42.5 -5.625 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 1165 42.5 -5.625 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 1165 42.5 -5.625							
+ES PVSAT 1172 42.5 -1.25 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 1172 42.5 -1.25 File	0.1	Multiply					
+ES PVSAT 1172 42.5 -1.25 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 1172 42.5 -1.25/							
+ES PVSAT 1172 42.5 -1.25 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 1172 42.5 -1.25 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 1172 42.5 -1.25 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 1172 42.5 -1.25 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 1172 42.5 -1.25							
+ES PVSAT 1176 42.5 1.25 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 1176 42.5 1.25 File	0.1	Multiply					
+ES PVSAT 1176 42.5 1.25 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 1176 42.5 1.25/							
+ES PVSAT 1176 42.5 1.25 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 1176 42.5 1.25 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 1176 42.5 1.25 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 1176 42.5 1.25 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 1176 42.5 1.25							
+ES PVSAT 1250 43.0 -8.125 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 1250 43.0 -8.125 File	0.1	Multiply					
+ES PVSAT 1250 43.0 -8.125 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 1250 43.0 -8.125/							
+ES PVSAT 1250 43.0 -8.125 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 1250 43.0 -8.125 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 1250 43.0 -8.125 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 1250 43.0 -8.125 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 1250 43.0 -8.125							
+ES PVSAT 1253 43.0 -6.25 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 1253 43.0 -6.25 File	0.1	Multiply					
+ES PVSAT 1253 43.0 -6.25 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 1253 43.0 -6.25/							
+ES PVSAT 1253 43.0 -6.25 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 1253 43.0 -6.25 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 1253 43.0 -6.25 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 1253 43.0 -6.25 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 1253 43.0 -6.25							
+ES PVSAT 1258 43.0 -3.125 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 1258 43.0 -3.125 File	0.1	Multiply					
+ES PVSAT 1258 43.0 -3.125 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 1258 43.0 -3.125/							
+ES PVSAT 1258 43.0 -3.125 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 1258 43.0 -3.125 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 1258 43.0 -3.125 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 1258 43.0 -3.125 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 1258 43.0 -3.125							
+ES PVSAT 186 37.0 -5.625 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 186 37.0 -5.625 File	0.1	Multiply					
+ES PVSAT 186 37.0 -5.625 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 186 37.0 -5.625/							
+ES PVSAT 186 37.0 -5.625 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 186 37.0 -5.625 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 186 37.0 -5.625 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 186 37.0 -5.625 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 186 37.0 -5.625							
+ES PVSAT 279 37.5 -3.125 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 279 37.5 -3.125 File	0.1	Multiply					
+ES PVSAT 279 37.5 -3.125 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 279 37.5 -3.125/							
+ES PVSAT 279 37.5 -3.125 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 279 37.5 -3.125 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 279 37.5 -3.125 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 279 37.5 -3.125 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 279 37.5 -3.125							
+ES PVSAT 362 38.0 -6.875 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 362 38.0 -6.875 File	0.1	Multiply					
+ES PVSAT 362 38.0 -6.875 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 362 38.0 -6.875/							
+ES PVSAT 362 38.0 -6.875 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 362 38.0 -6.875 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 362 38.0 -6.875 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 362 38.0 -6.875 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 362 38.0 -6.875							
+ES PVSAT 454 38.5 -5.0 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 454 38.5 -5.0 File	0.1	Multiply					
+ES PVSAT 454 38.5 -5.0 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 454 38.5 -5.0/							
+ES PVSAT 454 38.5 -5.0 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 454 38.5 -5.0 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 454 38.5 -5.0 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 454 38.5 -5.0 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 454 38.5 -5.0							
+ES PVSAT 457 38.5 -3.125 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 457 38.5 -3.125 File	0.1	Multiply					
+ES PVSAT 457 38.5 -3.125 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 457 38.5 -3.125/							
+ES PVSAT 457 38.5 -3.125 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 457 38.5 -3.125 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 457 38.5 -3.125 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 457 38.5 -3.125 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 457 38.5 -3.125							
+ES PVSAT 460 38.5 -1.25 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 460 38.5 -1.25 File	0.1	Multiply					
+ES PVSAT 460 38.5 -1.25 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 460 38.5 -1.25/							
+ES PVSAT 460 38.5 -1.25 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 460 38.5 -1.25 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 460 38.5 -1.25 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 460 38.5 -1.25 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 460 38.5 -1.25							
+ES PVSAT 548 39.0 -1.875 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 548 39.0 -1.875 File	0.1	Multiply					
+ES PVSAT 548 39.0 -1.875 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 548 39.0 -1.875/							
+ES PVSAT 548 39.0 -1.875 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 548 39.0 -1.875 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 548 39.0 -1.875 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 548 39.0 -1.875 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 548 39.0 -1.875							
+ES PVSAT 630 39.5 -6.25 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 630 39.5 -6.25 File	0.1	Multiply					
+ES PVSAT 630 39.5 -6.25 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 630 39.5 -6.25/							
+ES PVSAT 630 39.5 -6.25 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 630 39.5 -6.25 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 630 39.5 -6.25 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 630 39.5 -6.25 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 630 39.5 -6.25							
+ES PVSAT 633 39.5 -4.375 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 633 39.5 -4.375 File	0.1	Multiply					
+ES PVSAT 633 39.5 -4.375 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 633 39.5 -4.375/							
+ES PVSAT 633 39.5 -4.375 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 633 39.5 -4.375 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 633 39.5 -4.375 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 633 39.5 -4.375 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 633 39.5 -4.375							
+ES PVSAT 639 39.5 -0.625 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 639 39.5 -0.625 File	0.1	Multiply					
+ES PVSAT 639 39.5 -0.625 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 639 39.5 -0.625/							
+ES PVSAT 639 39.5 -0.625 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 639 39.5 -0.625 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 639 39.5 -0.625 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 639 39.5 -0.625 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 639 39.5 -0.625							
+ES PVSAT 645 39.5 3.125 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 645 39.5 3.125 File	0.1	Multiply					
+ES PVSAT 645 39.5 3.125 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 645 39.5 3.125/							
+ES PVSAT 645 39.5 3.125 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 645 39.5 3.125 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 645 39.5 3.125 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 645 39.5 3.125 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 645 39.5 3.125							
+ES PVSAT 725 40.0 -2.5 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 725 40.0 -2.5 File	0.1	Multiply					
+ES PVSAT 725 40.0 -2.5 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 725 40.0 -2.5/							
+ES PVSAT 725 40.0 -2.5 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 725 40.0 -2.5 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 725 40.0 -2.5 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 725 40.0 -2.5 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 725 40.0 -2.5							
+ES PVSAT 807 40.5 -6.875 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 807 40.5 -6.875 File	0.1	Multiply					
+ES PVSAT 807 40.5 -6.875 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 807 40.5 -6.875/							
+ES PVSAT 807 40.5 -6.875 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 807 40.5 -6.875 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 807 40.5 -6.875 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 807 40.5 -6.875 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 807 40.5 -6.875							
+ES PVSAT 901 41.0 -3.75 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 901 41.0 -3.75 File	0.1	Multiply					
+ES PVSAT 901 41.0 -3.75 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 901 41.0 -3.75/							
+ES PVSAT 901 41.0 -3.75 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 901 41.0 -3.75 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 901 41.0 -3.75 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 901 41.0 -3.75 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 901 41.0 -3.75							
+ES PVSAT 905 41.0 -1.25 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 905 41.0 -1.25 File	0.1	Multiply					
+ES PVSAT 905 41.0 -1.25 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 905 41.0 -1.25/							
+ES PVSAT 905 41.0 -1.25 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 905 41.0 -1.25 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 905 41.0 -1.25 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 905 41.0 -1.25 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 905 41.0 -1.25							
+ES PVSAT 987 41.5 -5.625 Capacity Factor			Value	2010-01-01	2100-01-01	ES PVSAT 987 41.5 -5.625 File	0.1	Multiply					
+ES PVSAT 987 41.5 -5.625 File			Location	2010-01-01	2100-01-01	/ProfilesEU/ES PVSAT 987 41.5 -5.625/							
+ES PVSAT 987 41.5 -5.625 File			Location_Type	2010-01-01	2100-01-01	Absolute							
+ES PVSAT 987 41.5 -5.625 File			Data_Type	2010-01-01	2100-01-01	Folder							
+ES PVSAT 987 41.5 -5.625 TS			Schema	2010-01-01	2100-01-01	time_series_pv							
+ES PVSAT 987 41.5 -5.625 TS			tsn_name	2010-01-01	2100-01-01	ts_ES PVSAT 987 41.5 -5.625							

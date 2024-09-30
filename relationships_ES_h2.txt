@@ -1,0 +1,3 @@
+Object_Name	Parent_Object	Parent_Property
+ES_EL_Electrolyser	ES	
+ES_EL_H2Storage	ES	

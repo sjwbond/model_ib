@@ -1,0 +1,52 @@
+Object_Name	Parent_Object	Parent_Property
+ES ES_PP_ALDEADAVILA II	ES
+ES ES_PP_ALDEADAVILA II	ES Hydro Storage Generators
+ES ES_RES_ALDEADAVILA II	ES ES_PP_ALDEADAVILA II	upstream_reservoir
+ES ES_PP_CONSO	ES
+ES ES_PP_CONSO	ES Hydro Storage Generators
+ES ES_RES_CONSO	ES ES_PP_CONSO	upstream_reservoir
+ES ES_PP_GABRIEL Y GALAN	ES
+ES ES_PP_GABRIEL Y GALAN	ES Hydro Storage Generators
+ES ES_RES_GABRIEL Y GALAN	ES ES_PP_GABRIEL Y GALAN	upstream_reservoir
+ES ES_PP_GUIJO DE GRANADILLA	ES
+ES ES_PP_GUIJO DE GRANADILLA	ES Hydro Storage Generators
+ES ES_RES_GUIJO DE GRANADILLA	ES ES_PP_GUIJO DE GRANADILLA	upstream_reservoir
+ES ES_PP_IP	ES
+ES ES_PP_IP	ES Hydro Storage Generators
+ES ES_RES_IP	ES ES_PP_IP	upstream_reservoir
+ES ES_PP_MONTAMARA	ES
+ES ES_PP_MONTAMARA	ES Hydro Storage Generators
+ES ES_RES_MONTAMARA	ES ES_PP_MONTAMARA	upstream_reservoir
+ES ES_PP_PUENTE BIBEY	ES
+ES ES_PP_PUENTE BIBEY	ES Hydro Storage Generators
+ES ES_RES_PUENTE BIBEY	ES ES_PP_PUENTE BIBEY	upstream_reservoir
+ES ES_PP_Reservoir_Duero	ES
+ES ES_PP_Reservoir_Duero	ES Hydro Storage Generators
+ES ES_RES_Reservoir_Duero	ES ES_PP_Reservoir_Duero	upstream_reservoir
+ES ES_PP_Reservoir_Ebro	ES
+ES ES_PP_Reservoir_Ebro	ES Hydro Storage Generators
+ES ES_RES_Reservoir_Ebro	ES ES_PP_Reservoir_Ebro	upstream_reservoir
+ES ES_PP_Reservoir_GuadalquivirSur	ES
+ES ES_PP_Reservoir_GuadalquivirSur	ES Hydro Storage Generators
+ES ES_RES_Reservoir_GuadalquivirSur	ES ES_PP_Reservoir_GuadalquivirSur	upstream_reservoir
+ES ES_PP_Reservoir_Guadiana	ES
+ES ES_PP_Reservoir_Guadiana	ES Hydro Storage Generators
+ES ES_RES_Reservoir_Guadiana	ES ES_PP_Reservoir_Guadiana	upstream_reservoir
+ES ES_PP_Reservoir_Norte	ES
+ES ES_PP_Reservoir_Norte	ES Hydro Storage Generators
+ES ES_RES_Reservoir_Norte	ES ES_PP_Reservoir_Norte	upstream_reservoir
+ES ES_PP_Reservoir_TajoJucarSegura	ES
+ES ES_PP_Reservoir_TajoJucarSegura	ES Hydro Storage Generators
+ES ES_RES_Reservoir_TajoJucarSegura	ES ES_PP_Reservoir_TajoJucarSegura	upstream_reservoir
+ES ES_PP_SOUTELO	ES
+ES ES_PP_SOUTELO	ES Hydro Storage Generators
+ES ES_RES_SOUTELO	ES ES_PP_SOUTELO	upstream_reservoir
+ES ES_PP_TANES	ES
+ES ES_PP_TANES	ES Hydro Storage Generators
+ES ES_RES_TANES	ES ES_PP_TANES	upstream_reservoir
+ES ES_PP_TORREJON	ES
+ES ES_PP_TORREJON	ES Hydro Storage Generators
+ES ES_RES_TORREJON	ES ES_PP_TORREJON	upstream_reservoir
+ES ES_PP_VILLARINO	ES
+ES ES_PP_VILLARINO	ES Hydro Storage Generators
+ES ES_RES_VILLARINO	ES ES_PP_VILLARINO	upstream_reservoir

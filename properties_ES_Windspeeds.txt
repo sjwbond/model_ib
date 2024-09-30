@@ -1,0 +1,97 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+ES Onshore 1082 42.0 -1.875 55M Windspeed			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 55M HHxWSc+HHc+WSc	windspeed_constant	Add					
+ES Onshore 1082 42.0 -1.875 55M HHxWS			value	2010-01-01	2100-01-01	55	ES Onshore 1082 42.0 -1.875 Base Wind Speed	Multiply					
+ES Onshore 1082 42.0 -1.875 55M HHxWSc			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 55M HHxWS	height_x_windspeed_coefficient	Multiply					
+ES Onshore 1082 42.0 -1.875 55M HHc			value	2010-01-01	2100-01-01	55	height_coefficient	Multiply					
+ES Onshore 1082 42.0 -1.875 55M HHxWSc+HHc			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 55M HHxWSc	ES Onshore 1082 42.0 -1.875 55M HHc	Add					
+ES Onshore 1082 42.0 -1.875 55M HHxWSc+HHc+WSc			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 55M HHxWSc+HHc	ES Onshore 1082 42.0 -1.875 WSc	Add					
+ES Onshore 1082 42.0 -1.875 65M Windspeed			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 65M HHxWSc+HHc+WSc	windspeed_constant	Add					
+ES Onshore 1082 42.0 -1.875 65M HHxWS			value	2010-01-01	2100-01-01	65	ES Onshore 1082 42.0 -1.875 Base Wind Speed	Multiply					
+ES Onshore 1082 42.0 -1.875 65M HHxWSc			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 65M HHxWS	height_x_windspeed_coefficient	Multiply					
+ES Onshore 1082 42.0 -1.875 65M HHc			value	2010-01-01	2100-01-01	65	height_coefficient	Multiply					
+ES Onshore 1082 42.0 -1.875 65M HHxWSc+HHc			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 65M HHxWSc	ES Onshore 1082 42.0 -1.875 65M HHc	Add					
+ES Onshore 1082 42.0 -1.875 65M HHxWSc+HHc+WSc			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 65M HHxWSc+HHc	ES Onshore 1082 42.0 -1.875 WSc	Add					
+ES Onshore 1082 42.0 -1.875 60M Windspeed			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 60M HHxWSc+HHc+WSc	windspeed_constant	Add					
+ES Onshore 1082 42.0 -1.875 60M HHxWS			value	2010-01-01	2100-01-01	60	ES Onshore 1082 42.0 -1.875 Base Wind Speed	Multiply					
+ES Onshore 1082 42.0 -1.875 60M HHxWSc			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 60M HHxWS	height_x_windspeed_coefficient	Multiply					
+ES Onshore 1082 42.0 -1.875 60M HHc			value	2010-01-01	2100-01-01	60	height_coefficient	Multiply					
+ES Onshore 1082 42.0 -1.875 60M HHxWSc+HHc			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 60M HHxWSc	ES Onshore 1082 42.0 -1.875 60M HHc	Add					
+ES Onshore 1082 42.0 -1.875 60M HHxWSc+HHc+WSc			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 60M HHxWSc+HHc	ES Onshore 1082 42.0 -1.875 WSc	Add					
+ES Onshore 817 40.5 -0.625 60M Windspeed			value	2010-01-01	2100-01-01	ES Onshore 817 40.5 -0.625 60M HHxWSc+HHc+WSc	windspeed_constant	Add					
+ES Onshore 817 40.5 -0.625 60M HHxWS			value	2010-01-01	2100-01-01	60	ES Onshore 817 40.5 -0.625 Base Wind Speed	Multiply					
+ES Onshore 817 40.5 -0.625 60M HHxWSc			value	2010-01-01	2100-01-01	ES Onshore 817 40.5 -0.625 60M HHxWS	height_x_windspeed_coefficient	Multiply					
+ES Onshore 817 40.5 -0.625 60M HHc			value	2010-01-01	2100-01-01	60	height_coefficient	Multiply					
+ES Onshore 817 40.5 -0.625 60M HHxWSc+HHc			value	2010-01-01	2100-01-01	ES Onshore 817 40.5 -0.625 60M HHxWSc	ES Onshore 817 40.5 -0.625 60M HHc	Add					
+ES Onshore 817 40.5 -0.625 60M HHxWSc+HHc+WSc			value	2010-01-01	2100-01-01	ES Onshore 817 40.5 -0.625 60M HHxWSc+HHc	ES Onshore 817 40.5 -0.625 WSc	Add					
+ES Onshore 370 38.0 -1.875 45M Windspeed			value	2010-01-01	2100-01-01	ES Onshore 370 38.0 -1.875 45M HHxWSc+HHc+WSc	windspeed_constant	Add					
+ES Onshore 370 38.0 -1.875 45M HHxWS			value	2010-01-01	2100-01-01	45	ES Onshore 370 38.0 -1.875 Base Wind Speed	Multiply					
+ES Onshore 370 38.0 -1.875 45M HHxWSc			value	2010-01-01	2100-01-01	ES Onshore 370 38.0 -1.875 45M HHxWS	height_x_windspeed_coefficient	Multiply					
+ES Onshore 370 38.0 -1.875 45M HHc			value	2010-01-01	2100-01-01	45	height_coefficient	Multiply					
+ES Onshore 370 38.0 -1.875 45M HHxWSc+HHc			value	2010-01-01	2100-01-01	ES Onshore 370 38.0 -1.875 45M HHxWSc	ES Onshore 370 38.0 -1.875 45M HHc	Add					
+ES Onshore 370 38.0 -1.875 45M HHxWSc+HHc+WSc			value	2010-01-01	2100-01-01	ES Onshore 370 38.0 -1.875 45M HHxWSc+HHc	ES Onshore 370 38.0 -1.875 WSc	Add					
+ES Onshore 1082 42.0 -1.875 45M Windspeed			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 45M HHxWSc+HHc+WSc	windspeed_constant	Add					
+ES Onshore 1082 42.0 -1.875 45M HHxWS			value	2010-01-01	2100-01-01	45	ES Onshore 1082 42.0 -1.875 Base Wind Speed	Multiply					
+ES Onshore 1082 42.0 -1.875 45M HHxWSc			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 45M HHxWS	height_x_windspeed_coefficient	Multiply					
+ES Onshore 1082 42.0 -1.875 45M HHc			value	2010-01-01	2100-01-01	45	height_coefficient	Multiply					
+ES Onshore 1082 42.0 -1.875 45M HHxWSc+HHc			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 45M HHxWSc	ES Onshore 1082 42.0 -1.875 45M HHc	Add					
+ES Onshore 1082 42.0 -1.875 45M HHxWSc+HHc+WSc			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 45M HHxWSc+HHc	ES Onshore 1082 42.0 -1.875 WSc	Add					
+ES Onshore 458 38.5 -2.5 50M Windspeed			value	2010-01-01	2100-01-01	ES Onshore 458 38.5 -2.5 50M HHxWSc+HHc+WSc	windspeed_constant	Add					
+ES Onshore 458 38.5 -2.5 50M HHxWS			value	2010-01-01	2100-01-01	50	ES Onshore 458 38.5 -2.5 Base Wind Speed	Multiply					
+ES Onshore 458 38.5 -2.5 50M HHxWSc			value	2010-01-01	2100-01-01	ES Onshore 458 38.5 -2.5 50M HHxWS	height_x_windspeed_coefficient	Multiply					
+ES Onshore 458 38.5 -2.5 50M HHc			value	2010-01-01	2100-01-01	50	height_coefficient	Multiply					
+ES Onshore 458 38.5 -2.5 50M HHxWSc+HHc			value	2010-01-01	2100-01-01	ES Onshore 458 38.5 -2.5 50M HHxWSc	ES Onshore 458 38.5 -2.5 50M HHc	Add					
+ES Onshore 458 38.5 -2.5 50M HHxWSc+HHc+WSc			value	2010-01-01	2100-01-01	ES Onshore 458 38.5 -2.5 50M HHxWSc+HHc	ES Onshore 458 38.5 -2.5 WSc	Add					
+ES Onshore 190 37.0 -3.125 80M Windspeed			value	2010-01-01	2100-01-01	ES Onshore 190 37.0 -3.125 80M HHxWSc+HHc+WSc	windspeed_constant	Add					
+ES Onshore 190 37.0 -3.125 80M HHxWS			value	2010-01-01	2100-01-01	80	ES Onshore 190 37.0 -3.125 Base Wind Speed	Multiply					
+ES Onshore 190 37.0 -3.125 80M HHxWSc			value	2010-01-01	2100-01-01	ES Onshore 190 37.0 -3.125 80M HHxWS	height_x_windspeed_coefficient	Multiply					
+ES Onshore 190 37.0 -3.125 80M HHc			value	2010-01-01	2100-01-01	80	height_coefficient	Multiply					
+ES Onshore 190 37.0 -3.125 80M HHxWSc+HHc			value	2010-01-01	2100-01-01	ES Onshore 190 37.0 -3.125 80M HHxWSc	ES Onshore 190 37.0 -3.125 80M HHc	Add					
+ES Onshore 190 37.0 -3.125 80M HHxWSc+HHc+WSc			value	2010-01-01	2100-01-01	ES Onshore 190 37.0 -3.125 80M HHxWSc+HHc	ES Onshore 190 37.0 -3.125 WSc	Add					
+ES Onshore 1082 42.0 -1.875 80M Windspeed			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 80M HHxWSc+HHc+WSc	windspeed_constant	Add					
+ES Onshore 1082 42.0 -1.875 80M HHxWS			value	2010-01-01	2100-01-01	80	ES Onshore 1082 42.0 -1.875 Base Wind Speed	Multiply					
+ES Onshore 1082 42.0 -1.875 80M HHxWSc			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 80M HHxWS	height_x_windspeed_coefficient	Multiply					
+ES Onshore 1082 42.0 -1.875 80M HHc			value	2010-01-01	2100-01-01	80	height_coefficient	Multiply					
+ES Onshore 1082 42.0 -1.875 80M HHxWSc+HHc			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 80M HHxWSc	ES Onshore 1082 42.0 -1.875 80M HHc	Add					
+ES Onshore 1082 42.0 -1.875 80M HHxWSc+HHc+WSc			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 80M HHxWSc+HHc	ES Onshore 1082 42.0 -1.875 WSc	Add					
+ES Onshore 899 41.0 -5.0 80M Windspeed			value	2010-01-01	2100-01-01	ES Onshore 899 41.0 -5.0 80M HHxWSc+HHc+WSc	windspeed_constant	Add					
+ES Onshore 899 41.0 -5.0 80M HHxWS			value	2010-01-01	2100-01-01	80	ES Onshore 899 41.0 -5.0 Base Wind Speed	Multiply					
+ES Onshore 899 41.0 -5.0 80M HHxWSc			value	2010-01-01	2100-01-01	ES Onshore 899 41.0 -5.0 80M HHxWS	height_x_windspeed_coefficient	Multiply					
+ES Onshore 899 41.0 -5.0 80M HHc			value	2010-01-01	2100-01-01	80	height_coefficient	Multiply					
+ES Onshore 899 41.0 -5.0 80M HHxWSc+HHc			value	2010-01-01	2100-01-01	ES Onshore 899 41.0 -5.0 80M HHxWSc	ES Onshore 899 41.0 -5.0 80M HHc	Add					
+ES Onshore 899 41.0 -5.0 80M HHxWSc+HHc+WSc			value	2010-01-01	2100-01-01	ES Onshore 899 41.0 -5.0 80M HHxWSc+HHc	ES Onshore 899 41.0 -5.0 WSc	Add					
+ES Onshore 458 38.5 -2.5 80M Windspeed			value	2010-01-01	2100-01-01	ES Onshore 458 38.5 -2.5 80M HHxWSc+HHc+WSc	windspeed_constant	Add					
+ES Onshore 458 38.5 -2.5 80M HHxWS			value	2010-01-01	2100-01-01	80	ES Onshore 458 38.5 -2.5 Base Wind Speed	Multiply					
+ES Onshore 458 38.5 -2.5 80M HHxWSc			value	2010-01-01	2100-01-01	ES Onshore 458 38.5 -2.5 80M HHxWS	height_x_windspeed_coefficient	Multiply					
+ES Onshore 458 38.5 -2.5 80M HHc			value	2010-01-01	2100-01-01	80	height_coefficient	Multiply					
+ES Onshore 458 38.5 -2.5 80M HHxWSc+HHc			value	2010-01-01	2100-01-01	ES Onshore 458 38.5 -2.5 80M HHxWSc	ES Onshore 458 38.5 -2.5 80M HHc	Add					
+ES Onshore 458 38.5 -2.5 80M HHxWSc+HHc+WSc			value	2010-01-01	2100-01-01	ES Onshore 458 38.5 -2.5 80M HHxWSc+HHc	ES Onshore 458 38.5 -2.5 WSc	Add					
+ES Onshore 1258 43.0 -3.125 55M Windspeed			value	2010-01-01	2100-01-01	ES Onshore 1258 43.0 -3.125 55M HHxWSc+HHc+WSc	windspeed_constant	Add					
+ES Onshore 1258 43.0 -3.125 55M HHxWS			value	2010-01-01	2100-01-01	55	ES Onshore 1258 43.0 -3.125 Base Wind Speed	Multiply					
+ES Onshore 1258 43.0 -3.125 55M HHxWSc			value	2010-01-01	2100-01-01	ES Onshore 1258 43.0 -3.125 55M HHxWS	height_x_windspeed_coefficient	Multiply					
+ES Onshore 1258 43.0 -3.125 55M HHc			value	2010-01-01	2100-01-01	55	height_coefficient	Multiply					
+ES Onshore 1258 43.0 -3.125 55M HHxWSc+HHc			value	2010-01-01	2100-01-01	ES Onshore 1258 43.0 -3.125 55M HHxWSc	ES Onshore 1258 43.0 -3.125 55M HHc	Add					
+ES Onshore 1258 43.0 -3.125 55M HHxWSc+HHc+WSc			value	2010-01-01	2100-01-01	ES Onshore 1258 43.0 -3.125 55M HHxWSc+HHc	ES Onshore 1258 43.0 -3.125 WSc	Add					
+ES Onshore 1250 43.0 -8.125 35M Windspeed			value	2010-01-01	2100-01-01	ES Onshore 1250 43.0 -8.125 35M HHxWSc+HHc+WSc	windspeed_constant	Add					
+ES Onshore 1250 43.0 -8.125 35M HHxWS			value	2010-01-01	2100-01-01	35	ES Onshore 1250 43.0 -8.125 Base Wind Speed	Multiply					
+ES Onshore 1250 43.0 -8.125 35M HHxWSc			value	2010-01-01	2100-01-01	ES Onshore 1250 43.0 -8.125 35M HHxWS	height_x_windspeed_coefficient	Multiply					
+ES Onshore 1250 43.0 -8.125 35M HHc			value	2010-01-01	2100-01-01	35	height_coefficient	Multiply					
+ES Onshore 1250 43.0 -8.125 35M HHxWSc+HHc			value	2010-01-01	2100-01-01	ES Onshore 1250 43.0 -8.125 35M HHxWSc	ES Onshore 1250 43.0 -8.125 35M HHc	Add					
+ES Onshore 1250 43.0 -8.125 35M HHxWSc+HHc+WSc			value	2010-01-01	2100-01-01	ES Onshore 1250 43.0 -8.125 35M HHxWSc+HHc	ES Onshore 1250 43.0 -8.125 WSc	Add					
+ES Onshore 1252 43.0 -6.875 45M Windspeed			value	2010-01-01	2100-01-01	ES Onshore 1252 43.0 -6.875 45M HHxWSc+HHc+WSc	windspeed_constant	Add					
+ES Onshore 1252 43.0 -6.875 45M HHxWS			value	2010-01-01	2100-01-01	45	ES Onshore 1252 43.0 -6.875 Base Wind Speed	Multiply					
+ES Onshore 1252 43.0 -6.875 45M HHxWSc			value	2010-01-01	2100-01-01	ES Onshore 1252 43.0 -6.875 45M HHxWS	height_x_windspeed_coefficient	Multiply					
+ES Onshore 1252 43.0 -6.875 45M HHc			value	2010-01-01	2100-01-01	45	height_coefficient	Multiply					
+ES Onshore 1252 43.0 -6.875 45M HHxWSc+HHc			value	2010-01-01	2100-01-01	ES Onshore 1252 43.0 -6.875 45M HHxWSc	ES Onshore 1252 43.0 -6.875 45M HHc	Add					
+ES Onshore 1252 43.0 -6.875 45M HHxWSc+HHc+WSc			value	2010-01-01	2100-01-01	ES Onshore 1252 43.0 -6.875 45M HHxWSc+HHc	ES Onshore 1252 43.0 -6.875 WSc	Add					
+ES Onshore 1082 42.0 -1.875 50M Windspeed			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 50M HHxWSc+HHc+WSc	windspeed_constant	Add					
+ES Onshore 1082 42.0 -1.875 50M HHxWS			value	2010-01-01	2100-01-01	50	ES Onshore 1082 42.0 -1.875 Base Wind Speed	Multiply					
+ES Onshore 1082 42.0 -1.875 50M HHxWSc			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 50M HHxWS	height_x_windspeed_coefficient	Multiply					
+ES Onshore 1082 42.0 -1.875 50M HHc			value	2010-01-01	2100-01-01	50	height_coefficient	Multiply					
+ES Onshore 1082 42.0 -1.875 50M HHxWSc+HHc			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 50M HHxWSc	ES Onshore 1082 42.0 -1.875 50M HHc	Add					
+ES Onshore 1082 42.0 -1.875 50M HHxWSc+HHc+WSc			value	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 50M HHxWSc+HHc	ES Onshore 1082 42.0 -1.875 WSc	Add					
+ES Onshore 1252 43.0 -6.875 80M Windspeed			value	2010-01-01	2100-01-01	ES Onshore 1252 43.0 -6.875 80M HHxWSc+HHc+WSc	windspeed_constant	Add					
+ES Onshore 1252 43.0 -6.875 80M HHxWS			value	2010-01-01	2100-01-01	80	ES Onshore 1252 43.0 -6.875 Base Wind Speed	Multiply					
+ES Onshore 1252 43.0 -6.875 80M HHxWSc			value	2010-01-01	2100-01-01	ES Onshore 1252 43.0 -6.875 80M HHxWS	height_x_windspeed_coefficient	Multiply					
+ES Onshore 1252 43.0 -6.875 80M HHc			value	2010-01-01	2100-01-01	80	height_coefficient	Multiply					
+ES Onshore 1252 43.0 -6.875 80M HHxWSc+HHc			value	2010-01-01	2100-01-01	ES Onshore 1252 43.0 -6.875 80M HHxWSc	ES Onshore 1252 43.0 -6.875 80M HHc	Add					
+ES Onshore 1252 43.0 -6.875 80M HHxWSc+HHc+WSc			value	2010-01-01	2100-01-01	ES Onshore 1252 43.0 -6.875 80M HHxWSc+HHc	ES Onshore 1252 43.0 -6.875 WSc	Add					

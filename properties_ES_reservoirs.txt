@@ -1,0 +1,109 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+ES H2_North			max_storage	2030-01-01	2100-01-01	4380000							
+ES H2_North			min_storage	2030-01-01	2100-01-01	438000							
+ES H2_North			natural_inflow_minute	2030-01-01	2100-01-01	ES Offshore 1180 42.5 3.75 130M Generator NWST CRF							
+ES H2_North			storage_start_level	2030-01-01	2100-01-01	__max_storage	0.19	Multiply					
+ES H2_North			save_data	2030-01-01	2100-01-01	1							
+ES H2_North			save_blocks	2030-01-01	2100-01-01	1							
+ES ES_RES_ALDEADAVILA II			max_storage	2010-01-01	2100-01-01	639393.6							
+ES ES_RES_ALDEADAVILA II			min_storage	2010-01-01	2100-01-01	63939.36							
+ES ES_RES_ALDEADAVILA II			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	7.16166666666667E-02	Multiply					
+ES ES_RES_ALDEADAVILA II			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.19	Multiply					
+ES ES_RES_ALDEADAVILA II			save_data	2010-01-01	2100-01-01	1							
+ES ES_RES_ALDEADAVILA II			save_blocks	2010-01-01	2100-01-01	1							
+ES ES_RES_CONSO			max_storage	2010-01-01	2100-01-01	402057.6							
+ES ES_RES_CONSO			min_storage	2010-01-01	2100-01-01	40205.76							
+ES ES_RES_CONSO			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	4.50333333333333E-02	Multiply					
+ES ES_RES_CONSO			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.19	Multiply					
+ES ES_RES_CONSO			save_data	2010-01-01	2100-01-01	1							
+ES ES_RES_CONSO			save_blocks	2010-01-01	2100-01-01	1							
+ES ES_RES_GABRIEL Y GALAN			max_storage	2010-01-01	2100-01-01	163680							
+ES ES_RES_GABRIEL Y GALAN			min_storage	2010-01-01	2100-01-01	16368							
+ES ES_RES_GABRIEL Y GALAN			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	1.83333333333333E-02	Multiply					
+ES ES_RES_GABRIEL Y GALAN			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.19	Multiply					
+ES ES_RES_GABRIEL Y GALAN			save_data	2010-01-01	2100-01-01	1							
+ES ES_RES_GABRIEL Y GALAN			save_blocks	2010-01-01	2100-01-01	1							
+ES ES_RES_GUIJO DE GRANADILLA			max_storage	2010-01-01	2100-01-01	79459.2							
+ES ES_RES_GUIJO DE GRANADILLA			min_storage	2010-01-01	2100-01-01	7945.92							
+ES ES_RES_GUIJO DE GRANADILLA			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	0.0089	Multiply					
+ES ES_RES_GUIJO DE GRANADILLA			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.19	Multiply					
+ES ES_RES_GUIJO DE GRANADILLA			save_data	2010-01-01	2100-01-01	1							
+ES ES_RES_GUIJO DE GRANADILLA			save_blocks	2010-01-01	2100-01-01	1							
+ES ES_RES_IP			max_storage	2010-01-01	2100-01-01	134366.4							
+ES ES_RES_IP			min_storage	2010-01-01	2100-01-01	13436.64							
+ES ES_RES_IP			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	0.01505	Multiply					
+ES ES_RES_IP			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.19	Multiply					
+ES ES_RES_IP			save_data	2010-01-01	2100-01-01	1							
+ES ES_RES_IP			save_blocks	2010-01-01	2100-01-01	1							
+ES ES_RES_MONTAMARA			max_storage	2010-01-01	2100-01-01	138235.2							
+ES ES_RES_MONTAMARA			min_storage	2010-01-01	2100-01-01	13823.52							
+ES ES_RES_MONTAMARA			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	1.54833333333333E-02	Multiply					
+ES ES_RES_MONTAMARA			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.19	Multiply					
+ES ES_RES_MONTAMARA			save_data	2010-01-01	2100-01-01	1							
+ES ES_RES_MONTAMARA			save_blocks	2010-01-01	2100-01-01	1							
+ES ES_RES_PUENTE BIBEY			max_storage	2010-01-01	2100-01-01	114278.4							
+ES ES_RES_PUENTE BIBEY			min_storage	2010-01-01	2100-01-01	11427.84							
+ES ES_RES_PUENTE BIBEY			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	0.0128	Multiply					
+ES ES_RES_PUENTE BIBEY			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.19	Multiply					
+ES ES_RES_PUENTE BIBEY			save_data	2010-01-01	2100-01-01	1							
+ES ES_RES_PUENTE BIBEY			save_blocks	2010-01-01	2100-01-01	1							
+ES ES_RES_Reservoir_Duero			max_storage	2010-01-01	2100-01-01	3999293.89849584							
+ES ES_RES_Reservoir_Duero			min_storage	2010-01-01	2100-01-01	399929.389849584							
+ES ES_RES_Reservoir_Duero			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	0.447949585405	Multiply					
+ES ES_RES_Reservoir_Duero			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.19	Multiply					
+ES ES_RES_Reservoir_Duero			save_data	2010-01-01	2100-01-01	1							
+ES ES_RES_Reservoir_Duero			save_blocks	2010-01-01	2100-01-01	1							
+ES ES_RES_Reservoir_Ebro			max_storage	2010-01-01	2100-01-01	3871421.65144464							
+ES ES_RES_Reservoir_Ebro			min_storage	2010-01-01	2100-01-01	387142.165144464							
+ES ES_RES_Reservoir_Ebro			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	0.433626977088333	Multiply					
+ES ES_RES_Reservoir_Ebro			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.19	Multiply					
+ES ES_RES_Reservoir_Ebro			save_data	2010-01-01	2100-01-01	1							
+ES ES_RES_Reservoir_Ebro			save_blocks	2010-01-01	2100-01-01	1							
+ES ES_RES_Reservoir_GuadalquivirSur			max_storage	2010-01-01	2100-01-01	283596.08124864							
+ES ES_RES_Reservoir_GuadalquivirSur			min_storage	2010-01-01	2100-01-01	28359.608124864							
+ES ES_RES_Reservoir_GuadalquivirSur			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	3.17647940466667E-02	Multiply					
+ES ES_RES_Reservoir_GuadalquivirSur			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.19	Multiply					
+ES ES_RES_Reservoir_GuadalquivirSur			save_data	2010-01-01	2100-01-01	1							
+ES ES_RES_Reservoir_GuadalquivirSur			save_blocks	2010-01-01	2100-01-01	1							
+ES ES_RES_Reservoir_Guadiana			max_storage	2010-01-01	2100-01-01	46591.58232288							
+ES ES_RES_Reservoir_Guadiana			min_storage	2010-01-01	2100-01-01	4659.158232288							
+ES ES_RES_Reservoir_Guadiana			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	0.00521859121	Multiply					
+ES ES_RES_Reservoir_Guadiana			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.19	Multiply					
+ES ES_RES_Reservoir_Guadiana			save_data	2010-01-01	2100-01-01	1							
+ES ES_RES_Reservoir_Guadiana			save_blocks	2010-01-01	2100-01-01	1							
+ES ES_RES_Reservoir_Norte			max_storage	2010-01-01	2100-01-01	6352146.04740672							
+ES ES_RES_Reservoir_Norte			min_storage	2010-01-01	2100-01-01	635214.604740672							
+ES ES_RES_Reservoir_Norte			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	0.711485892406667	Multiply					
+ES ES_RES_Reservoir_Norte			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.19	Multiply					
+ES ES_RES_Reservoir_Norte			save_data	2010-01-01	2100-01-01	1							
+ES ES_RES_Reservoir_Norte			save_blocks	2010-01-01	2100-01-01	1							
+ES ES_RES_Reservoir_TajoJucarSegura			max_storage	2010-01-01	2100-01-01	2701584.80933616							
+ES ES_RES_Reservoir_TajoJucarSegura			min_storage	2010-01-01	2100-01-01	270158.480933616							
+ES ES_RES_Reservoir_TajoJucarSegura			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	0.302596864845	Multiply					
+ES ES_RES_Reservoir_TajoJucarSegura			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.19	Multiply					
+ES ES_RES_Reservoir_TajoJucarSegura			save_data	2010-01-01	2100-01-01	1							
+ES ES_RES_Reservoir_TajoJucarSegura			save_blocks	2010-01-01	2100-01-01	1							
+ES ES_RES_SOUTELO			max_storage	2010-01-01	2100-01-01	122016							
+ES ES_RES_SOUTELO			min_storage	2010-01-01	2100-01-01	12201.6							
+ES ES_RES_SOUTELO			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	1.36666666666667E-02	Multiply					
+ES ES_RES_SOUTELO			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.19	Multiply					
+ES ES_RES_SOUTELO			save_data	2010-01-01	2100-01-01	1							
+ES ES_RES_SOUTELO			save_blocks	2010-01-01	2100-01-01	1							
+ES ES_RES_TANES			max_storage	2010-01-01	2100-01-01	197904							
+ES ES_RES_TANES			min_storage	2010-01-01	2100-01-01	19790.4							
+ES ES_RES_TANES			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	2.21666666666667E-02	Multiply					
+ES ES_RES_TANES			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.19	Multiply					
+ES ES_RES_TANES			save_data	2010-01-01	2100-01-01	1							
+ES ES_RES_TANES			save_blocks	2010-01-01	2100-01-01	1							
+ES ES_RES_TORREJON			max_storage	2010-01-01	2100-01-01	195523.2							
+ES ES_RES_TORREJON			min_storage	2010-01-01	2100-01-01	19552.32							
+ES ES_RES_TORREJON			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	0.0219	Multiply					
+ES ES_RES_TORREJON			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.19	Multiply					
+ES ES_RES_TORREJON			save_data	2010-01-01	2100-01-01	1							
+ES ES_RES_TORREJON			save_blocks	2010-01-01	2100-01-01	1							
+ES ES_RES_VILLARINO			max_storage	2010-01-01	2100-01-01	1268222.4							
+ES ES_RES_VILLARINO			min_storage	2010-01-01	2100-01-01	126822.24							
+ES ES_RES_VILLARINO			natural_inflow_minute	2010-01-01	2100-01-01	DE Normal Inflow Profile	0.14205	Multiply					
+ES ES_RES_VILLARINO			storage_start_level	2010-01-01	2100-01-01	__max_storage	0.19	Multiply					
+ES ES_RES_VILLARINO			save_data	2010-01-01	2100-01-01	1							
+ES ES_RES_VILLARINO			save_blocks	2010-01-01	2100-01-01	1							

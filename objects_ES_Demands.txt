@@ -1,0 +1,160 @@
+Object_Name	Object_Type
+ES Base Demand File	DataSource
+ES Base Demand	Variable
+ES Daily Demand Growth File	DataSource
+ES Daily Demand Growth	Variable
+ES Daily Demand Stochastic File	DataSource
+ES Daily Demand Stochastic	Variable
+ES Demand DIY File	DataSource
+ES Demand DIY	Variable
+ES Demand DOW File	DataSource
+ES Demand DOW	Variable
+ES Demand HOD File	DataSource
+ES Demand HOD	Variable
+ES Demand Historic Day Ahead File	DataSource
+ES Demand Historic Day Ahead	Variable
+ES Demand	Demand
+ES DSR Bid Volume 2017	Variable
+ES DSR Bid Price 2017	Variable
+ES DSR Bid Volume 2018	Variable
+ES DSR Bid Price 2018	Variable
+ES DSR Bid Volume 2019	Variable
+ES DSR Bid Price 2019	Variable
+ES DSR Bid Volume 2020	Variable
+ES DSR Bid Price 2020	Variable
+ES DSR Bid Volume 2021	Variable
+ES DSR Bid Price 2021	Variable
+ES DSR Bid Volume 2022	Variable
+ES DSR Bid Price 2022	Variable
+ES DSR Bid Volume 2023	Variable
+ES DSR Bid Price 2023	Variable
+ES DSR Bid Volume 2024	Variable
+ES DSR Bid Price 2024	Variable
+ES DSR Bid Volume 2025	Variable
+ES DSR Bid Price 2025	Variable
+ES DSR Bid Volume 2026	Variable
+ES DSR Bid Price 2026	Variable
+ES DSR Bid Volume 2027	Variable
+ES DSR Bid Price 2027	Variable
+ES DSR Bid Volume 2028	Variable
+ES DSR Bid Price 2028	Variable
+ES DSR Bid Volume 2029	Variable
+ES DSR Bid Price 2029	Variable
+ES DSR Bid Volume 2030	Variable
+ES DSR Bid Price 2030	Variable
+ES DSR Bid Volume 2031	Variable
+ES DSR Bid Price 2031	Variable
+ES DSR Bid Volume 2032	Variable
+ES DSR Bid Price 2032	Variable
+ES DSR Bid Volume 2033	Variable
+ES DSR Bid Price 2033	Variable
+ES DSR Bid Volume 2034	Variable
+ES DSR Bid Price 2034	Variable
+ES DSR Bid Volume 2035	Variable
+ES DSR Bid Price 2035	Variable
+ES DSR Bid Volume 2036	Variable
+ES DSR Bid Price 2036	Variable
+ES DSR Bid Volume 2037	Variable
+ES DSR Bid Price 2037	Variable
+ES DSR Bid Volume 2038	Variable
+ES DSR Bid Price 2038	Variable
+ES DSR Bid Volume 2039	Variable
+ES DSR Bid Price 2039	Variable
+ES DSR Bid Volume 2040	Variable
+ES DSR Bid Price 2040	Variable
+ES DSR Bid Volume 2041	Variable
+ES DSR Bid Price 2041	Variable
+ES DSR Bid Volume 2042	Variable
+ES DSR Bid Price 2042	Variable
+ES DSR Bid Volume 2043	Variable
+ES DSR Bid Price 2043	Variable
+ES DSR Bid Volume 2044	Variable
+ES DSR Bid Price 2044	Variable
+ES DSR Bid Volume 2045	Variable
+ES DSR Bid Price 2045	Variable
+ES DSR Bid Volume 2046	Variable
+ES DSR Bid Price 2046	Variable
+ES DSR Bid Volume 2047	Variable
+ES DSR Bid Price 2047	Variable
+ES DSR Bid Volume 2048	Variable
+ES DSR Bid Price 2048	Variable
+ES DSR Bid Volume 2049	Variable
+ES DSR Bid Price 2049	Variable
+ES DSR Bid Volume 2050	Variable
+ES DSR Bid Price 2050	Variable
+ES DSR Bid Volume 2051	Variable
+ES DSR Bid Price 2051	Variable
+ES DSR Bid Volume 2052	Variable
+ES DSR Bid Price 2052	Variable
+ES DSR Bid Volume 2053	Variable
+ES DSR Bid Price 2053	Variable
+ES DSR Bid Volume 2054	Variable
+ES DSR Bid Price 2054	Variable
+ES DSR Bid Volume 2055	Variable
+ES DSR Bid Price 2055	Variable
+ES DSR Bid Volume 2056	Variable
+ES DSR Bid Price 2056	Variable
+ES DSR Bid Volume 2057	Variable
+ES DSR Bid Price 2057	Variable
+ES DSR Bid Volume 2058	Variable
+ES DSR Bid Price 2058	Variable
+ES DSR Bid Volume 2059	Variable
+ES DSR Bid Price 2059	Variable
+ES DSR Bid Volume 2060	Variable
+ES DSR Bid Price 2060	Variable
+ES DSR Bid Volume 2061	Variable
+ES DSR Bid Price 2061	Variable
+ES DSR Bid Volume 2062	Variable
+ES DSR Bid Price 2062	Variable
+ES DSR Bid Volume 2063	Variable
+ES DSR Bid Price 2063	Variable
+ES DSR Bid Volume 2064	Variable
+ES DSR Bid Price 2064	Variable
+ES DSR Bid Volume 2065	Variable
+ES DSR Bid Price 2065	Variable
+ES DSR Bid Volume 2066	Variable
+ES DSR Bid Price 2066	Variable
+ES DSR Bid Volume 2067	Variable
+ES DSR Bid Price 2067	Variable
+ES DSR Bid Volume 2068	Variable
+ES DSR Bid Price 2068	Variable
+ES DSR Bid Volume 2069	Variable
+ES DSR Bid Price 2069	Variable
+ES DSR Bid Volume 2070	Variable
+ES DSR Bid Price 2070	Variable
+ES DSR Bid Volume 2071	Variable
+ES DSR Bid Price 2071	Variable
+ES DSR Bid Volume 2072	Variable
+ES DSR Bid Price 2072	Variable
+ES DSR Bid Volume 2073	Variable
+ES DSR Bid Price 2073	Variable
+ES DSR Bid Volume 2074	Variable
+ES DSR Bid Price 2074	Variable
+ES DSR Bid Volume 2075	Variable
+ES DSR Bid Price 2075	Variable
+ES DSR Bid Volume 2076	Variable
+ES DSR Bid Price 2076	Variable
+ES DSR Bid Volume 2077	Variable
+ES DSR Bid Price 2077	Variable
+ES DSR Bid Volume 2078	Variable
+ES DSR Bid Price 2078	Variable
+ES DSR Bid Volume 2079	Variable
+ES DSR Bid Price 2079	Variable
+ES DSR Bid Volume 2080	Variable
+ES DSR Bid Price 2080	Variable
+ES DSR Bid Volume 2081	Variable
+ES DSR Bid Price 2081	Variable
+ES DSR Bid Volume 2082	Variable
+ES DSR Bid Price 2082	Variable
+ES DSR Bid Volume 2083	Variable
+ES DSR Bid Price 2083	Variable
+ES DSR Bid Volume 2084	Variable
+ES DSR Bid Price 2084	Variable
+ES DSR Bid Volume 2085	Variable
+ES DSR Bid Price 2085	Variable
+ES DSR Bid Volume 2086	Variable
+ES DSR Bid Price 2086	Variable
+ES DSR Bid Volume 	Variable
+ES DSR Bid Price 	Variable
+ES DSR Adjustment	Variable
+ES Demand HOD adj	Variable

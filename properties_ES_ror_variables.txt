@@ -1,0 +1,13 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+ES North ROR Capacity Factor			Value	2010-01-01	2100-01-01	ES North ROR File	1	Multiply					
+ES North ROR File			Location	2010-01-01	2100-01-01	/Variables/Profiles ROR/ES North ROR.txt							
+ES North ROR File			Location_Type	2010-01-01	2100-01-01	Relative							
+ES North ROR File			Data_Type	2010-01-01	2100-01-01	File							
+ES Middle ROR Capacity Factor			Value	2010-01-01	2100-01-01	ES Middle ROR File	1	Multiply					
+ES Middle ROR File			Location	2010-01-01	2100-01-01	/Variables/Profiles ROR/ES Middle ROR.txt							
+ES Middle ROR File			Location_Type	2010-01-01	2100-01-01	Relative							
+ES Middle ROR File			Data_Type	2010-01-01	2100-01-01	File							
+ES South ROR Capacity Factor			Value	2010-01-01	2100-01-01	ES South ROR File	1	Multiply					
+ES South ROR File			Location	2010-01-01	2100-01-01	/Variables/Profiles ROR/ES South ROR.txt							
+ES South ROR File			Location_Type	2010-01-01	2100-01-01	Relative							
+ES South ROR File			Data_Type	2010-01-01	2100-01-01	File							

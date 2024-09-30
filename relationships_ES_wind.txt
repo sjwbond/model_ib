@@ -1,0 +1,1218 @@
+Object_Name	Parent_Object
+ES Offshore 100 36.5 -3.75 100M Generator LWST	ES Offshore Generators
+ES Offshore 100 36.5 -3.75 100M Generator LWST	ES
+ES Offshore 100 36.5 -3.75 100M Generator NWST	ES Offshore Generators
+ES Offshore 100 36.5 -3.75 100M Generator NWST	ES
+ES Offshore 100 36.5 -3.75 100M Generator HWST	ES Offshore Generators
+ES Offshore 100 36.5 -3.75 100M Generator HWST	ES
+ES Offshore 100 36.5 -3.75 130M Generator LWST	ES Offshore Generators
+ES Offshore 100 36.5 -3.75 130M Generator LWST	ES
+ES Offshore 100 36.5 -3.75 130M Generator NWST	ES Offshore Generators
+ES Offshore 100 36.5 -3.75 130M Generator NWST	ES
+ES Offshore 100 36.5 -3.75 130M Generator HWST	ES Offshore Generators
+ES Offshore 100 36.5 -3.75 130M Generator HWST	ES
+ES Offshore 100 36.5 -3.75 160M Generator LWST	ES Offshore Generators
+ES Offshore 100 36.5 -3.75 160M Generator LWST	ES
+ES Offshore 100 36.5 -3.75 160M Generator NWST	ES Offshore Generators
+ES Offshore 100 36.5 -3.75 160M Generator NWST	ES
+ES Offshore 100 36.5 -3.75 160M Generator HWST	ES Offshore Generators
+ES Offshore 100 36.5 -3.75 160M Generator HWST	ES
+ES Offshore 1002 41.5 3.75 100M Generator LWST	ES Offshore Generators
+ES Offshore 1002 41.5 3.75 100M Generator LWST	ES
+ES Offshore 1002 41.5 3.75 100M Generator NWST	ES Offshore Generators
+ES Offshore 1002 41.5 3.75 100M Generator NWST	ES
+ES Offshore 1002 41.5 3.75 100M Generator HWST	ES Offshore Generators
+ES Offshore 1002 41.5 3.75 100M Generator HWST	ES
+ES Offshore 1002 41.5 3.75 130M Generator LWST	ES Offshore Generators
+ES Offshore 1002 41.5 3.75 130M Generator LWST	ES
+ES Offshore 1002 41.5 3.75 130M Generator NWST	ES Offshore Generators
+ES Offshore 1002 41.5 3.75 130M Generator NWST	ES
+ES Offshore 1002 41.5 3.75 130M Generator HWST	ES Offshore Generators
+ES Offshore 1002 41.5 3.75 130M Generator HWST	ES
+ES Offshore 1002 41.5 3.75 160M Generator LWST	ES Offshore Generators
+ES Offshore 1002 41.5 3.75 160M Generator LWST	ES
+ES Offshore 1002 41.5 3.75 160M Generator NWST	ES Offshore Generators
+ES Offshore 1002 41.5 3.75 160M Generator NWST	ES
+ES Offshore 1002 41.5 3.75 160M Generator HWST	ES Offshore Generators
+ES Offshore 1002 41.5 3.75 160M Generator HWST	ES
+ES Offshore 1180 42.5 3.75 100M Generator LWST	ES Offshore Generators
+ES Offshore 1180 42.5 3.75 100M Generator LWST	ES
+ES Offshore 1180 42.5 3.75 100M Generator NWST	ES Offshore Generators
+ES Offshore 1180 42.5 3.75 100M Generator NWST	ES
+ES Offshore 1180 42.5 3.75 100M Generator HWST	ES Offshore Generators
+ES Offshore 1180 42.5 3.75 100M Generator HWST	ES
+ES Offshore 1180 42.5 3.75 130M Generator LWST	ES Offshore Generators
+ES Offshore 1180 42.5 3.75 130M Generator LWST	ES
+ES Offshore 1180 42.5 3.75 130M Generator NWST	ES Offshore Generators
+ES Offshore 1180 42.5 3.75 130M Generator NWST	ES
+ES Offshore 1180 42.5 3.75 130M Generator HWST	ES Offshore Generators
+ES Offshore 1180 42.5 3.75 130M Generator HWST	ES
+ES Offshore 1180 42.5 3.75 160M Generator LWST	ES Offshore Generators
+ES Offshore 1180 42.5 3.75 160M Generator LWST	ES
+ES Offshore 1180 42.5 3.75 160M Generator NWST	ES Offshore Generators
+ES Offshore 1180 42.5 3.75 160M Generator NWST	ES
+ES Offshore 1180 42.5 3.75 160M Generator HWST	ES Offshore Generators
+ES Offshore 1180 42.5 3.75 160M Generator HWST	ES
+ES Offshore 1429 44.0 -7.5 100M Generator LWST	ES Offshore Generators
+ES Offshore 1429 44.0 -7.5 100M Generator LWST	ES
+ES Offshore 1429 44.0 -7.5 100M Generator NWST	ES Offshore Generators
+ES Offshore 1429 44.0 -7.5 100M Generator NWST	ES
+ES Offshore 1429 44.0 -7.5 100M Generator HWST	ES Offshore Generators
+ES Offshore 1429 44.0 -7.5 100M Generator HWST	ES
+ES Offshore 1429 44.0 -7.5 130M Generator LWST	ES Offshore Generators
+ES Offshore 1429 44.0 -7.5 130M Generator LWST	ES
+ES Offshore 1429 44.0 -7.5 130M Generator NWST	ES Offshore Generators
+ES Offshore 1429 44.0 -7.5 130M Generator NWST	ES
+ES Offshore 1429 44.0 -7.5 130M Generator HWST	ES Offshore Generators
+ES Offshore 1429 44.0 -7.5 130M Generator HWST	ES
+ES Offshore 1429 44.0 -7.5 160M Generator LWST	ES Offshore Generators
+ES Offshore 1429 44.0 -7.5 160M Generator LWST	ES
+ES Offshore 1429 44.0 -7.5 160M Generator NWST	ES Offshore Generators
+ES Offshore 1429 44.0 -7.5 160M Generator NWST	ES
+ES Offshore 1429 44.0 -7.5 160M Generator HWST	ES Offshore Generators
+ES Offshore 1429 44.0 -7.5 160M Generator HWST	ES
+ES Offshore 1434 44.0 -4.375 100M Generator LWST	ES Offshore Generators
+ES Offshore 1434 44.0 -4.375 100M Generator LWST	ES
+ES Offshore 1434 44.0 -4.375 100M Generator NWST	ES Offshore Generators
+ES Offshore 1434 44.0 -4.375 100M Generator NWST	ES
+ES Offshore 1434 44.0 -4.375 100M Generator HWST	ES Offshore Generators
+ES Offshore 1434 44.0 -4.375 100M Generator HWST	ES
+ES Offshore 1434 44.0 -4.375 130M Generator LWST	ES Offshore Generators
+ES Offshore 1434 44.0 -4.375 130M Generator LWST	ES
+ES Offshore 1434 44.0 -4.375 130M Generator NWST	ES Offshore Generators
+ES Offshore 1434 44.0 -4.375 130M Generator NWST	ES
+ES Offshore 1434 44.0 -4.375 130M Generator HWST	ES Offshore Generators
+ES Offshore 1434 44.0 -4.375 130M Generator HWST	ES
+ES Offshore 1434 44.0 -4.375 160M Generator LWST	ES Offshore Generators
+ES Offshore 1434 44.0 -4.375 160M Generator LWST	ES
+ES Offshore 1434 44.0 -4.375 160M Generator NWST	ES Offshore Generators
+ES Offshore 1434 44.0 -4.375 160M Generator NWST	ES
+ES Offshore 1434 44.0 -4.375 160M Generator HWST	ES Offshore Generators
+ES Offshore 1434 44.0 -4.375 160M Generator HWST	ES
+ES Offshore 1516 44.5 -8.75 100M Generator LWST	ES Offshore Generators
+ES Offshore 1516 44.5 -8.75 100M Generator LWST	ES
+ES Offshore 1516 44.5 -8.75 100M Generator NWST	ES Offshore Generators
+ES Offshore 1516 44.5 -8.75 100M Generator NWST	ES
+ES Offshore 1516 44.5 -8.75 100M Generator HWST	ES Offshore Generators
+ES Offshore 1516 44.5 -8.75 100M Generator HWST	ES
+ES Offshore 1516 44.5 -8.75 130M Generator LWST	ES Offshore Generators
+ES Offshore 1516 44.5 -8.75 130M Generator LWST	ES
+ES Offshore 1516 44.5 -8.75 130M Generator NWST	ES Offshore Generators
+ES Offshore 1516 44.5 -8.75 130M Generator NWST	ES
+ES Offshore 1516 44.5 -8.75 130M Generator HWST	ES Offshore Generators
+ES Offshore 1516 44.5 -8.75 130M Generator HWST	ES
+ES Offshore 1516 44.5 -8.75 160M Generator LWST	ES Offshore Generators
+ES Offshore 1516 44.5 -8.75 160M Generator LWST	ES
+ES Offshore 1516 44.5 -8.75 160M Generator NWST	ES Offshore Generators
+ES Offshore 1516 44.5 -8.75 160M Generator NWST	ES
+ES Offshore 1516 44.5 -8.75 160M Generator HWST	ES Offshore Generators
+ES Offshore 1516 44.5 -8.75 160M Generator HWST	ES
+ES Offshore 193 37.0 -1.25 100M Generator LWST	ES Offshore Generators
+ES Offshore 193 37.0 -1.25 100M Generator LWST	ES
+ES Offshore 193 37.0 -1.25 100M Generator NWST	ES Offshore Generators
+ES Offshore 193 37.0 -1.25 100M Generator NWST	ES
+ES Offshore 193 37.0 -1.25 100M Generator HWST	ES Offshore Generators
+ES Offshore 193 37.0 -1.25 100M Generator HWST	ES
+ES Offshore 193 37.0 -1.25 130M Generator LWST	ES Offshore Generators
+ES Offshore 193 37.0 -1.25 130M Generator LWST	ES
+ES Offshore 193 37.0 -1.25 130M Generator NWST	ES Offshore Generators
+ES Offshore 193 37.0 -1.25 130M Generator NWST	ES
+ES Offshore 193 37.0 -1.25 130M Generator HWST	ES Offshore Generators
+ES Offshore 193 37.0 -1.25 130M Generator HWST	ES
+ES Offshore 193 37.0 -1.25 160M Generator LWST	ES Offshore Generators
+ES Offshore 193 37.0 -1.25 160M Generator LWST	ES
+ES Offshore 193 37.0 -1.25 160M Generator NWST	ES Offshore Generators
+ES Offshore 193 37.0 -1.25 160M Generator NWST	ES
+ES Offshore 193 37.0 -1.25 160M Generator HWST	ES Offshore Generators
+ES Offshore 193 37.0 -1.25 160M Generator HWST	ES
+ES Offshore 730 40.0 0.625 100M Generator LWST	ES Offshore Generators
+ES Offshore 730 40.0 0.625 100M Generator LWST	ES
+ES Offshore 730 40.0 0.625 100M Generator NWST	ES Offshore Generators
+ES Offshore 730 40.0 0.625 100M Generator NWST	ES
+ES Offshore 730 40.0 0.625 100M Generator HWST	ES Offshore Generators
+ES Offshore 730 40.0 0.625 100M Generator HWST	ES
+ES Offshore 730 40.0 0.625 130M Generator LWST	ES Offshore Generators
+ES Offshore 730 40.0 0.625 130M Generator LWST	ES
+ES Offshore 730 40.0 0.625 130M Generator NWST	ES Offshore Generators
+ES Offshore 730 40.0 0.625 130M Generator NWST	ES
+ES Offshore 730 40.0 0.625 130M Generator HWST	ES Offshore Generators
+ES Offshore 730 40.0 0.625 130M Generator HWST	ES
+ES Offshore 730 40.0 0.625 160M Generator LWST	ES Offshore Generators
+ES Offshore 730 40.0 0.625 160M Generator LWST	ES
+ES Offshore 730 40.0 0.625 160M Generator NWST	ES Offshore Generators
+ES Offshore 730 40.0 0.625 160M Generator NWST	ES
+ES Offshore 730 40.0 0.625 160M Generator HWST	ES Offshore Generators
+ES Offshore 730 40.0 0.625 160M Generator HWST	ES
+ES Offshore 8 36.0 -5.625 100M Generator LWST	ES Offshore Generators
+ES Offshore 8 36.0 -5.625 100M Generator LWST	ES
+ES Offshore 8 36.0 -5.625 100M Generator NWST	ES Offshore Generators
+ES Offshore 8 36.0 -5.625 100M Generator NWST	ES
+ES Offshore 8 36.0 -5.625 100M Generator HWST	ES Offshore Generators
+ES Offshore 8 36.0 -5.625 100M Generator HWST	ES
+ES Offshore 8 36.0 -5.625 130M Generator LWST	ES Offshore Generators
+ES Offshore 8 36.0 -5.625 130M Generator LWST	ES
+ES Offshore 8 36.0 -5.625 130M Generator NWST	ES Offshore Generators
+ES Offshore 8 36.0 -5.625 130M Generator NWST	ES
+ES Offshore 8 36.0 -5.625 130M Generator HWST	ES Offshore Generators
+ES Offshore 8 36.0 -5.625 130M Generator HWST	ES
+ES Offshore 8 36.0 -5.625 160M Generator LWST	ES Offshore Generators
+ES Offshore 8 36.0 -5.625 160M Generator LWST	ES
+ES Offshore 8 36.0 -5.625 160M Generator NWST	ES Offshore Generators
+ES Offshore 8 36.0 -5.625 160M Generator NWST	ES
+ES Offshore 8 36.0 -5.625 160M Generator HWST	ES Offshore Generators
+ES Offshore 8 36.0 -5.625 160M Generator HWST	ES
+ES Offshore 9 36.0 -5.0 100M Generator LWST	ES Offshore Generators
+ES Offshore 9 36.0 -5.0 100M Generator LWST	ES
+ES Offshore 9 36.0 -5.0 100M Generator NWST	ES Offshore Generators
+ES Offshore 9 36.0 -5.0 100M Generator NWST	ES
+ES Offshore 9 36.0 -5.0 100M Generator HWST	ES Offshore Generators
+ES Offshore 9 36.0 -5.0 100M Generator HWST	ES
+ES Offshore 9 36.0 -5.0 130M Generator LWST	ES Offshore Generators
+ES Offshore 9 36.0 -5.0 130M Generator LWST	ES
+ES Offshore 9 36.0 -5.0 130M Generator NWST	ES Offshore Generators
+ES Offshore 9 36.0 -5.0 130M Generator NWST	ES
+ES Offshore 9 36.0 -5.0 130M Generator HWST	ES Offshore Generators
+ES Offshore 9 36.0 -5.0 130M Generator HWST	ES
+ES Offshore 9 36.0 -5.0 160M Generator LWST	ES Offshore Generators
+ES Offshore 9 36.0 -5.0 160M Generator LWST	ES
+ES Offshore 9 36.0 -5.0 160M Generator NWST	ES Offshore Generators
+ES Offshore 9 36.0 -5.0 160M Generator NWST	ES
+ES Offshore 9 36.0 -5.0 160M Generator HWST	ES Offshore Generators
+ES Offshore 9 36.0 -5.0 160M Generator HWST	ES
+ca_db_wind	ES Offshore 100 36.5 -3.75 TS
+ca_db_wind	ES Offshore 1002 41.5 3.75 TS
+ca_db_wind	ES Offshore 1180 42.5 3.75 TS
+ca_db_wind	ES Offshore 1429 44.0 -7.5 TS
+ca_db_wind	ES Offshore 1434 44.0 -4.375 TS
+ca_db_wind	ES Offshore 1516 44.5 -8.75 TS
+ca_db_wind	ES Offshore 193 37.0 -1.25 TS
+ca_db_wind	ES Offshore 730 40.0 0.625 TS
+ca_db_wind	ES Offshore 8 36.0 -5.625 TS
+ca_db_wind	ES Offshore 9 36.0 -5.0 TS
+Object_Name	Parent_Object
+ES Onshore 1071 42.0 -8.75 70M Generator LWST	ES Onshore Generators
+ES Onshore 1071 42.0 -8.75 70M Generator LWST	ES
+ES Onshore 1071 42.0 -8.75 70M Generator NWST	ES Onshore Generators
+ES Onshore 1071 42.0 -8.75 70M Generator NWST	ES
+ES Onshore 1071 42.0 -8.75 70M Generator HWST	ES Onshore Generators
+ES Onshore 1071 42.0 -8.75 70M Generator HWST	ES
+ES Onshore 1071 42.0 -8.75 85M Generator LWST	ES Onshore Generators
+ES Onshore 1071 42.0 -8.75 85M Generator LWST	ES
+ES Onshore 1071 42.0 -8.75 85M Generator NWST	ES Onshore Generators
+ES Onshore 1071 42.0 -8.75 85M Generator NWST	ES
+ES Onshore 1071 42.0 -8.75 85M Generator HWST	ES Onshore Generators
+ES Onshore 1071 42.0 -8.75 85M Generator HWST	ES
+ES Onshore 1071 42.0 -8.75 100M Generator LWST	ES Onshore Generators
+ES Onshore 1071 42.0 -8.75 100M Generator LWST	ES
+ES Onshore 1071 42.0 -8.75 100M Generator NWST	ES Onshore Generators
+ES Onshore 1071 42.0 -8.75 100M Generator NWST	ES
+ES Onshore 1071 42.0 -8.75 100M Generator HWST	ES Onshore Generators
+ES Onshore 1071 42.0 -8.75 100M Generator HWST	ES
+ES Onshore 1076 42.0 -5.625 70M Generator LWST	ES Onshore Generators
+ES Onshore 1076 42.0 -5.625 70M Generator LWST	ES
+ES Onshore 1076 42.0 -5.625 70M Generator NWST	ES Onshore Generators
+ES Onshore 1076 42.0 -5.625 70M Generator NWST	ES
+ES Onshore 1076 42.0 -5.625 70M Generator HWST	ES Onshore Generators
+ES Onshore 1076 42.0 -5.625 70M Generator HWST	ES
+ES Onshore 1076 42.0 -5.625 85M Generator LWST	ES Onshore Generators
+ES Onshore 1076 42.0 -5.625 85M Generator LWST	ES
+ES Onshore 1076 42.0 -5.625 85M Generator NWST	ES Onshore Generators
+ES Onshore 1076 42.0 -5.625 85M Generator NWST	ES
+ES Onshore 1076 42.0 -5.625 85M Generator HWST	ES Onshore Generators
+ES Onshore 1076 42.0 -5.625 85M Generator HWST	ES
+ES Onshore 1076 42.0 -5.625 100M Generator LWST	ES Onshore Generators
+ES Onshore 1076 42.0 -5.625 100M Generator LWST	ES
+ES Onshore 1076 42.0 -5.625 100M Generator NWST	ES Onshore Generators
+ES Onshore 1076 42.0 -5.625 100M Generator NWST	ES
+ES Onshore 1076 42.0 -5.625 100M Generator HWST	ES Onshore Generators
+ES Onshore 1076 42.0 -5.625 100M Generator HWST	ES
+ES Onshore 1081 42.0 -2.5 70M Generator LWST	ES Onshore Generators
+ES Onshore 1081 42.0 -2.5 70M Generator LWST	ES
+ES Onshore 1081 42.0 -2.5 70M Generator NWST	ES Onshore Generators
+ES Onshore 1081 42.0 -2.5 70M Generator NWST	ES
+ES Onshore 1081 42.0 -2.5 70M Generator HWST	ES Onshore Generators
+ES Onshore 1081 42.0 -2.5 70M Generator HWST	ES
+ES Onshore 1081 42.0 -2.5 85M Generator LWST	ES Onshore Generators
+ES Onshore 1081 42.0 -2.5 85M Generator LWST	ES
+ES Onshore 1081 42.0 -2.5 85M Generator NWST	ES Onshore Generators
+ES Onshore 1081 42.0 -2.5 85M Generator NWST	ES
+ES Onshore 1081 42.0 -2.5 85M Generator HWST	ES Onshore Generators
+ES Onshore 1081 42.0 -2.5 85M Generator HWST	ES
+ES Onshore 1081 42.0 -2.5 100M Generator LWST	ES Onshore Generators
+ES Onshore 1081 42.0 -2.5 100M Generator LWST	ES
+ES Onshore 1081 42.0 -2.5 100M Generator NWST	ES Onshore Generators
+ES Onshore 1081 42.0 -2.5 100M Generator NWST	ES
+ES Onshore 1081 42.0 -2.5 100M Generator HWST	ES Onshore Generators
+ES Onshore 1081 42.0 -2.5 100M Generator HWST	ES
+ES Onshore 1082 42.0 -1.875 70M Generator LWST	ES Onshore Generators
+ES Onshore 1082 42.0 -1.875 70M Generator LWST	ES
+ES Onshore 1082 42.0 -1.875 70M Generator NWST	ES Onshore Generators
+ES Onshore 1082 42.0 -1.875 70M Generator NWST	ES
+ES Onshore 1082 42.0 -1.875 70M Generator HWST	ES Onshore Generators
+ES Onshore 1082 42.0 -1.875 70M Generator HWST	ES
+ES Onshore 1082 42.0 -1.875 85M Generator LWST	ES Onshore Generators
+ES Onshore 1082 42.0 -1.875 85M Generator LWST	ES
+ES Onshore 1082 42.0 -1.875 85M Generator NWST	ES Onshore Generators
+ES Onshore 1082 42.0 -1.875 85M Generator NWST	ES
+ES Onshore 1082 42.0 -1.875 85M Generator HWST	ES Onshore Generators
+ES Onshore 1082 42.0 -1.875 85M Generator HWST	ES
+ES Onshore 1082 42.0 -1.875 100M Generator LWST	ES Onshore Generators
+ES Onshore 1082 42.0 -1.875 100M Generator LWST	ES
+ES Onshore 1082 42.0 -1.875 100M Generator NWST	ES Onshore Generators
+ES Onshore 1082 42.0 -1.875 100M Generator NWST	ES
+ES Onshore 1082 42.0 -1.875 100M Generator HWST	ES Onshore Generators
+ES Onshore 1082 42.0 -1.875 100M Generator HWST	ES
+ES Onshore 1084 42.0 -0.625 70M Generator LWST	ES Onshore Generators
+ES Onshore 1084 42.0 -0.625 70M Generator LWST	ES
+ES Onshore 1084 42.0 -0.625 70M Generator NWST	ES Onshore Generators
+ES Onshore 1084 42.0 -0.625 70M Generator NWST	ES
+ES Onshore 1084 42.0 -0.625 70M Generator HWST	ES Onshore Generators
+ES Onshore 1084 42.0 -0.625 70M Generator HWST	ES
+ES Onshore 1084 42.0 -0.625 85M Generator LWST	ES Onshore Generators
+ES Onshore 1084 42.0 -0.625 85M Generator LWST	ES
+ES Onshore 1084 42.0 -0.625 85M Generator NWST	ES Onshore Generators
+ES Onshore 1084 42.0 -0.625 85M Generator NWST	ES
+ES Onshore 1084 42.0 -0.625 85M Generator HWST	ES Onshore Generators
+ES Onshore 1084 42.0 -0.625 85M Generator HWST	ES
+ES Onshore 1084 42.0 -0.625 100M Generator LWST	ES Onshore Generators
+ES Onshore 1084 42.0 -0.625 100M Generator LWST	ES
+ES Onshore 1084 42.0 -0.625 100M Generator NWST	ES Onshore Generators
+ES Onshore 1084 42.0 -0.625 100M Generator NWST	ES
+ES Onshore 1084 42.0 -0.625 100M Generator HWST	ES Onshore Generators
+ES Onshore 1084 42.0 -0.625 100M Generator HWST	ES
+ES Onshore 1086 42.0 0.625 70M Generator LWST	ES Onshore Generators
+ES Onshore 1086 42.0 0.625 70M Generator LWST	ES
+ES Onshore 1086 42.0 0.625 70M Generator NWST	ES Onshore Generators
+ES Onshore 1086 42.0 0.625 70M Generator NWST	ES
+ES Onshore 1086 42.0 0.625 70M Generator HWST	ES Onshore Generators
+ES Onshore 1086 42.0 0.625 70M Generator HWST	ES
+ES Onshore 1086 42.0 0.625 85M Generator LWST	ES Onshore Generators
+ES Onshore 1086 42.0 0.625 85M Generator LWST	ES
+ES Onshore 1086 42.0 0.625 85M Generator NWST	ES Onshore Generators
+ES Onshore 1086 42.0 0.625 85M Generator NWST	ES
+ES Onshore 1086 42.0 0.625 85M Generator HWST	ES Onshore Generators
+ES Onshore 1086 42.0 0.625 85M Generator HWST	ES
+ES Onshore 1086 42.0 0.625 100M Generator LWST	ES Onshore Generators
+ES Onshore 1086 42.0 0.625 100M Generator LWST	ES
+ES Onshore 1086 42.0 0.625 100M Generator NWST	ES Onshore Generators
+ES Onshore 1086 42.0 0.625 100M Generator NWST	ES
+ES Onshore 1086 42.0 0.625 100M Generator HWST	ES Onshore Generators
+ES Onshore 1086 42.0 0.625 100M Generator HWST	ES
+ES Onshore 1088 42.0 1.875 70M Generator LWST	ES Onshore Generators
+ES Onshore 1088 42.0 1.875 70M Generator LWST	ES
+ES Onshore 1088 42.0 1.875 70M Generator NWST	ES Onshore Generators
+ES Onshore 1088 42.0 1.875 70M Generator NWST	ES
+ES Onshore 1088 42.0 1.875 70M Generator HWST	ES Onshore Generators
+ES Onshore 1088 42.0 1.875 70M Generator HWST	ES
+ES Onshore 1088 42.0 1.875 85M Generator LWST	ES Onshore Generators
+ES Onshore 1088 42.0 1.875 85M Generator LWST	ES
+ES Onshore 1088 42.0 1.875 85M Generator NWST	ES Onshore Generators
+ES Onshore 1088 42.0 1.875 85M Generator NWST	ES
+ES Onshore 1088 42.0 1.875 85M Generator HWST	ES Onshore Generators
+ES Onshore 1088 42.0 1.875 85M Generator HWST	ES
+ES Onshore 1088 42.0 1.875 100M Generator LWST	ES Onshore Generators
+ES Onshore 1088 42.0 1.875 100M Generator LWST	ES
+ES Onshore 1088 42.0 1.875 100M Generator NWST	ES Onshore Generators
+ES Onshore 1088 42.0 1.875 100M Generator NWST	ES
+ES Onshore 1088 42.0 1.875 100M Generator HWST	ES Onshore Generators
+ES Onshore 1088 42.0 1.875 100M Generator HWST	ES
+ES Onshore 1089 42.0 2.5 70M Generator LWST	ES Onshore Generators
+ES Onshore 1089 42.0 2.5 70M Generator LWST	ES
+ES Onshore 1089 42.0 2.5 70M Generator NWST	ES Onshore Generators
+ES Onshore 1089 42.0 2.5 70M Generator NWST	ES
+ES Onshore 1089 42.0 2.5 70M Generator HWST	ES Onshore Generators
+ES Onshore 1089 42.0 2.5 70M Generator HWST	ES
+ES Onshore 1089 42.0 2.5 85M Generator LWST	ES Onshore Generators
+ES Onshore 1089 42.0 2.5 85M Generator LWST	ES
+ES Onshore 1089 42.0 2.5 85M Generator NWST	ES Onshore Generators
+ES Onshore 1089 42.0 2.5 85M Generator NWST	ES
+ES Onshore 1089 42.0 2.5 85M Generator HWST	ES Onshore Generators
+ES Onshore 1089 42.0 2.5 85M Generator HWST	ES
+ES Onshore 1089 42.0 2.5 100M Generator LWST	ES Onshore Generators
+ES Onshore 1089 42.0 2.5 100M Generator LWST	ES
+ES Onshore 1089 42.0 2.5 100M Generator NWST	ES Onshore Generators
+ES Onshore 1089 42.0 2.5 100M Generator NWST	ES
+ES Onshore 1089 42.0 2.5 100M Generator HWST	ES Onshore Generators
+ES Onshore 1089 42.0 2.5 100M Generator HWST	ES
+ES Onshore 1090 42.0 3.125 70M Generator LWST	ES Onshore Generators
+ES Onshore 1090 42.0 3.125 70M Generator LWST	ES
+ES Onshore 1090 42.0 3.125 70M Generator NWST	ES Onshore Generators
+ES Onshore 1090 42.0 3.125 70M Generator NWST	ES
+ES Onshore 1090 42.0 3.125 70M Generator HWST	ES Onshore Generators
+ES Onshore 1090 42.0 3.125 70M Generator HWST	ES
+ES Onshore 1090 42.0 3.125 85M Generator LWST	ES Onshore Generators
+ES Onshore 1090 42.0 3.125 85M Generator LWST	ES
+ES Onshore 1090 42.0 3.125 85M Generator NWST	ES Onshore Generators
+ES Onshore 1090 42.0 3.125 85M Generator NWST	ES
+ES Onshore 1090 42.0 3.125 85M Generator HWST	ES Onshore Generators
+ES Onshore 1090 42.0 3.125 85M Generator HWST	ES
+ES Onshore 1090 42.0 3.125 100M Generator LWST	ES Onshore Generators
+ES Onshore 1090 42.0 3.125 100M Generator LWST	ES
+ES Onshore 1090 42.0 3.125 100M Generator NWST	ES Onshore Generators
+ES Onshore 1090 42.0 3.125 100M Generator NWST	ES
+ES Onshore 1090 42.0 3.125 100M Generator HWST	ES Onshore Generators
+ES Onshore 1090 42.0 3.125 100M Generator HWST	ES
+ES Onshore 1165 42.5 -5.625 70M Generator LWST	ES Onshore Generators
+ES Onshore 1165 42.5 -5.625 70M Generator LWST	ES
+ES Onshore 1165 42.5 -5.625 70M Generator NWST	ES Onshore Generators
+ES Onshore 1165 42.5 -5.625 70M Generator NWST	ES
+ES Onshore 1165 42.5 -5.625 70M Generator HWST	ES Onshore Generators
+ES Onshore 1165 42.5 -5.625 70M Generator HWST	ES
+ES Onshore 1165 42.5 -5.625 85M Generator LWST	ES Onshore Generators
+ES Onshore 1165 42.5 -5.625 85M Generator LWST	ES
+ES Onshore 1165 42.5 -5.625 85M Generator NWST	ES Onshore Generators
+ES Onshore 1165 42.5 -5.625 85M Generator NWST	ES
+ES Onshore 1165 42.5 -5.625 85M Generator HWST	ES Onshore Generators
+ES Onshore 1165 42.5 -5.625 85M Generator HWST	ES
+ES Onshore 1165 42.5 -5.625 100M Generator LWST	ES Onshore Generators
+ES Onshore 1165 42.5 -5.625 100M Generator LWST	ES
+ES Onshore 1165 42.5 -5.625 100M Generator NWST	ES Onshore Generators
+ES Onshore 1165 42.5 -5.625 100M Generator NWST	ES
+ES Onshore 1165 42.5 -5.625 100M Generator HWST	ES Onshore Generators
+ES Onshore 1165 42.5 -5.625 100M Generator HWST	ES
+ES Onshore 1168 42.5 -3.75 70M Generator LWST	ES Onshore Generators
+ES Onshore 1168 42.5 -3.75 70M Generator LWST	ES
+ES Onshore 1168 42.5 -3.75 70M Generator NWST	ES Onshore Generators
+ES Onshore 1168 42.5 -3.75 70M Generator NWST	ES
+ES Onshore 1168 42.5 -3.75 70M Generator HWST	ES Onshore Generators
+ES Onshore 1168 42.5 -3.75 70M Generator HWST	ES
+ES Onshore 1168 42.5 -3.75 85M Generator LWST	ES Onshore Generators
+ES Onshore 1168 42.5 -3.75 85M Generator LWST	ES
+ES Onshore 1168 42.5 -3.75 85M Generator NWST	ES Onshore Generators
+ES Onshore 1168 42.5 -3.75 85M Generator NWST	ES
+ES Onshore 1168 42.5 -3.75 85M Generator HWST	ES Onshore Generators
+ES Onshore 1168 42.5 -3.75 85M Generator HWST	ES
+ES Onshore 1168 42.5 -3.75 100M Generator LWST	ES Onshore Generators
+ES Onshore 1168 42.5 -3.75 100M Generator LWST	ES
+ES Onshore 1168 42.5 -3.75 100M Generator NWST	ES Onshore Generators
+ES Onshore 1168 42.5 -3.75 100M Generator NWST	ES
+ES Onshore 1168 42.5 -3.75 100M Generator HWST	ES Onshore Generators
+ES Onshore 1168 42.5 -3.75 100M Generator HWST	ES
+ES Onshore 1173 42.5 -0.625 70M Generator LWST	ES Onshore Generators
+ES Onshore 1173 42.5 -0.625 70M Generator LWST	ES
+ES Onshore 1173 42.5 -0.625 70M Generator NWST	ES Onshore Generators
+ES Onshore 1173 42.5 -0.625 70M Generator NWST	ES
+ES Onshore 1173 42.5 -0.625 70M Generator HWST	ES Onshore Generators
+ES Onshore 1173 42.5 -0.625 70M Generator HWST	ES
+ES Onshore 1173 42.5 -0.625 85M Generator LWST	ES Onshore Generators
+ES Onshore 1173 42.5 -0.625 85M Generator LWST	ES
+ES Onshore 1173 42.5 -0.625 85M Generator NWST	ES Onshore Generators
+ES Onshore 1173 42.5 -0.625 85M Generator NWST	ES
+ES Onshore 1173 42.5 -0.625 85M Generator HWST	ES Onshore Generators
+ES Onshore 1173 42.5 -0.625 85M Generator HWST	ES
+ES Onshore 1173 42.5 -0.625 100M Generator LWST	ES Onshore Generators
+ES Onshore 1173 42.5 -0.625 100M Generator LWST	ES
+ES Onshore 1173 42.5 -0.625 100M Generator NWST	ES Onshore Generators
+ES Onshore 1173 42.5 -0.625 100M Generator NWST	ES
+ES Onshore 1173 42.5 -0.625 100M Generator HWST	ES Onshore Generators
+ES Onshore 1173 42.5 -0.625 100M Generator HWST	ES
+ES Onshore 1176 42.5 1.25 70M Generator LWST	ES Onshore Generators
+ES Onshore 1176 42.5 1.25 70M Generator LWST	ES
+ES Onshore 1176 42.5 1.25 70M Generator NWST	ES Onshore Generators
+ES Onshore 1176 42.5 1.25 70M Generator NWST	ES
+ES Onshore 1176 42.5 1.25 70M Generator HWST	ES Onshore Generators
+ES Onshore 1176 42.5 1.25 70M Generator HWST	ES
+ES Onshore 1176 42.5 1.25 85M Generator LWST	ES Onshore Generators
+ES Onshore 1176 42.5 1.25 85M Generator LWST	ES
+ES Onshore 1176 42.5 1.25 85M Generator NWST	ES Onshore Generators
+ES Onshore 1176 42.5 1.25 85M Generator NWST	ES
+ES Onshore 1176 42.5 1.25 85M Generator HWST	ES Onshore Generators
+ES Onshore 1176 42.5 1.25 85M Generator HWST	ES
+ES Onshore 1176 42.5 1.25 100M Generator LWST	ES Onshore Generators
+ES Onshore 1176 42.5 1.25 100M Generator LWST	ES
+ES Onshore 1176 42.5 1.25 100M Generator NWST	ES Onshore Generators
+ES Onshore 1176 42.5 1.25 100M Generator NWST	ES
+ES Onshore 1176 42.5 1.25 100M Generator HWST	ES Onshore Generators
+ES Onshore 1176 42.5 1.25 100M Generator HWST	ES
+ES Onshore 1250 43.0 -8.125 70M Generator LWST	ES Onshore Generators
+ES Onshore 1250 43.0 -8.125 70M Generator LWST	ES
+ES Onshore 1250 43.0 -8.125 70M Generator NWST	ES Onshore Generators
+ES Onshore 1250 43.0 -8.125 70M Generator NWST	ES
+ES Onshore 1250 43.0 -8.125 70M Generator HWST	ES Onshore Generators
+ES Onshore 1250 43.0 -8.125 70M Generator HWST	ES
+ES Onshore 1250 43.0 -8.125 85M Generator LWST	ES Onshore Generators
+ES Onshore 1250 43.0 -8.125 85M Generator LWST	ES
+ES Onshore 1250 43.0 -8.125 85M Generator NWST	ES Onshore Generators
+ES Onshore 1250 43.0 -8.125 85M Generator NWST	ES
+ES Onshore 1250 43.0 -8.125 85M Generator HWST	ES Onshore Generators
+ES Onshore 1250 43.0 -8.125 85M Generator HWST	ES
+ES Onshore 1250 43.0 -8.125 100M Generator LWST	ES Onshore Generators
+ES Onshore 1250 43.0 -8.125 100M Generator LWST	ES
+ES Onshore 1250 43.0 -8.125 100M Generator NWST	ES Onshore Generators
+ES Onshore 1250 43.0 -8.125 100M Generator NWST	ES
+ES Onshore 1250 43.0 -8.125 100M Generator HWST	ES Onshore Generators
+ES Onshore 1250 43.0 -8.125 100M Generator HWST	ES
+ES Onshore 1252 43.0 -6.875 70M Generator LWST	ES Onshore Generators
+ES Onshore 1252 43.0 -6.875 70M Generator LWST	ES
+ES Onshore 1252 43.0 -6.875 70M Generator NWST	ES Onshore Generators
+ES Onshore 1252 43.0 -6.875 70M Generator NWST	ES
+ES Onshore 1252 43.0 -6.875 70M Generator HWST	ES Onshore Generators
+ES Onshore 1252 43.0 -6.875 70M Generator HWST	ES
+ES Onshore 1252 43.0 -6.875 85M Generator LWST	ES Onshore Generators
+ES Onshore 1252 43.0 -6.875 85M Generator LWST	ES
+ES Onshore 1252 43.0 -6.875 85M Generator NWST	ES Onshore Generators
+ES Onshore 1252 43.0 -6.875 85M Generator NWST	ES
+ES Onshore 1252 43.0 -6.875 85M Generator HWST	ES Onshore Generators
+ES Onshore 1252 43.0 -6.875 85M Generator HWST	ES
+ES Onshore 1252 43.0 -6.875 100M Generator LWST	ES Onshore Generators
+ES Onshore 1252 43.0 -6.875 100M Generator LWST	ES
+ES Onshore 1252 43.0 -6.875 100M Generator NWST	ES Onshore Generators
+ES Onshore 1252 43.0 -6.875 100M Generator NWST	ES
+ES Onshore 1252 43.0 -6.875 100M Generator HWST	ES Onshore Generators
+ES Onshore 1252 43.0 -6.875 100M Generator HWST	ES
+ES Onshore 1253 43.0 -6.25 70M Generator LWST	ES Onshore Generators
+ES Onshore 1253 43.0 -6.25 70M Generator LWST	ES
+ES Onshore 1253 43.0 -6.25 70M Generator NWST	ES Onshore Generators
+ES Onshore 1253 43.0 -6.25 70M Generator NWST	ES
+ES Onshore 1253 43.0 -6.25 70M Generator HWST	ES Onshore Generators
+ES Onshore 1253 43.0 -6.25 70M Generator HWST	ES
+ES Onshore 1253 43.0 -6.25 85M Generator LWST	ES Onshore Generators
+ES Onshore 1253 43.0 -6.25 85M Generator LWST	ES
+ES Onshore 1253 43.0 -6.25 85M Generator NWST	ES Onshore Generators
+ES Onshore 1253 43.0 -6.25 85M Generator NWST	ES
+ES Onshore 1253 43.0 -6.25 85M Generator HWST	ES Onshore Generators
+ES Onshore 1253 43.0 -6.25 85M Generator HWST	ES
+ES Onshore 1253 43.0 -6.25 100M Generator LWST	ES Onshore Generators
+ES Onshore 1253 43.0 -6.25 100M Generator LWST	ES
+ES Onshore 1253 43.0 -6.25 100M Generator NWST	ES Onshore Generators
+ES Onshore 1253 43.0 -6.25 100M Generator NWST	ES
+ES Onshore 1253 43.0 -6.25 100M Generator HWST	ES Onshore Generators
+ES Onshore 1253 43.0 -6.25 100M Generator HWST	ES
+ES Onshore 1258 43.0 -3.125 70M Generator LWST	ES Onshore Generators
+ES Onshore 1258 43.0 -3.125 70M Generator LWST	ES
+ES Onshore 1258 43.0 -3.125 70M Generator NWST	ES Onshore Generators
+ES Onshore 1258 43.0 -3.125 70M Generator NWST	ES
+ES Onshore 1258 43.0 -3.125 70M Generator HWST	ES Onshore Generators
+ES Onshore 1258 43.0 -3.125 70M Generator HWST	ES
+ES Onshore 1258 43.0 -3.125 85M Generator LWST	ES Onshore Generators
+ES Onshore 1258 43.0 -3.125 85M Generator LWST	ES
+ES Onshore 1258 43.0 -3.125 85M Generator NWST	ES Onshore Generators
+ES Onshore 1258 43.0 -3.125 85M Generator NWST	ES
+ES Onshore 1258 43.0 -3.125 85M Generator HWST	ES Onshore Generators
+ES Onshore 1258 43.0 -3.125 85M Generator HWST	ES
+ES Onshore 1258 43.0 -3.125 100M Generator LWST	ES Onshore Generators
+ES Onshore 1258 43.0 -3.125 100M Generator LWST	ES
+ES Onshore 1258 43.0 -3.125 100M Generator NWST	ES Onshore Generators
+ES Onshore 1258 43.0 -3.125 100M Generator NWST	ES
+ES Onshore 1258 43.0 -3.125 100M Generator HWST	ES Onshore Generators
+ES Onshore 1258 43.0 -3.125 100M Generator HWST	ES
+ES Onshore 1261 43.0 -1.25 70M Generator LWST	ES Onshore Generators
+ES Onshore 1261 43.0 -1.25 70M Generator LWST	ES
+ES Onshore 1261 43.0 -1.25 70M Generator NWST	ES Onshore Generators
+ES Onshore 1261 43.0 -1.25 70M Generator NWST	ES
+ES Onshore 1261 43.0 -1.25 70M Generator HWST	ES Onshore Generators
+ES Onshore 1261 43.0 -1.25 70M Generator HWST	ES
+ES Onshore 1261 43.0 -1.25 85M Generator LWST	ES Onshore Generators
+ES Onshore 1261 43.0 -1.25 85M Generator LWST	ES
+ES Onshore 1261 43.0 -1.25 85M Generator NWST	ES Onshore Generators
+ES Onshore 1261 43.0 -1.25 85M Generator NWST	ES
+ES Onshore 1261 43.0 -1.25 85M Generator HWST	ES Onshore Generators
+ES Onshore 1261 43.0 -1.25 85M Generator HWST	ES
+ES Onshore 1261 43.0 -1.25 100M Generator LWST	ES Onshore Generators
+ES Onshore 1261 43.0 -1.25 100M Generator LWST	ES
+ES Onshore 1261 43.0 -1.25 100M Generator NWST	ES Onshore Generators
+ES Onshore 1261 43.0 -1.25 100M Generator NWST	ES
+ES Onshore 1261 43.0 -1.25 100M Generator HWST	ES Onshore Generators
+ES Onshore 1261 43.0 -1.25 100M Generator HWST	ES
+ES Onshore 1340 43.5 -7.5 70M Generator LWST	ES Onshore Generators
+ES Onshore 1340 43.5 -7.5 70M Generator LWST	ES
+ES Onshore 1340 43.5 -7.5 70M Generator NWST	ES Onshore Generators
+ES Onshore 1340 43.5 -7.5 70M Generator NWST	ES
+ES Onshore 1340 43.5 -7.5 70M Generator HWST	ES Onshore Generators
+ES Onshore 1340 43.5 -7.5 70M Generator HWST	ES
+ES Onshore 1340 43.5 -7.5 85M Generator LWST	ES Onshore Generators
+ES Onshore 1340 43.5 -7.5 85M Generator LWST	ES
+ES Onshore 1340 43.5 -7.5 85M Generator NWST	ES Onshore Generators
+ES Onshore 1340 43.5 -7.5 85M Generator NWST	ES
+ES Onshore 1340 43.5 -7.5 85M Generator HWST	ES Onshore Generators
+ES Onshore 1340 43.5 -7.5 85M Generator HWST	ES
+ES Onshore 1340 43.5 -7.5 100M Generator LWST	ES Onshore Generators
+ES Onshore 1340 43.5 -7.5 100M Generator LWST	ES
+ES Onshore 1340 43.5 -7.5 100M Generator NWST	ES Onshore Generators
+ES Onshore 1340 43.5 -7.5 100M Generator NWST	ES
+ES Onshore 1340 43.5 -7.5 100M Generator HWST	ES Onshore Generators
+ES Onshore 1340 43.5 -7.5 100M Generator HWST	ES
+ES Onshore 1343 43.5 -5.625 70M Generator LWST	ES Onshore Generators
+ES Onshore 1343 43.5 -5.625 70M Generator LWST	ES
+ES Onshore 1343 43.5 -5.625 70M Generator NWST	ES Onshore Generators
+ES Onshore 1343 43.5 -5.625 70M Generator NWST	ES
+ES Onshore 1343 43.5 -5.625 70M Generator HWST	ES Onshore Generators
+ES Onshore 1343 43.5 -5.625 70M Generator HWST	ES
+ES Onshore 1343 43.5 -5.625 85M Generator LWST	ES Onshore Generators
+ES Onshore 1343 43.5 -5.625 85M Generator LWST	ES
+ES Onshore 1343 43.5 -5.625 85M Generator NWST	ES Onshore Generators
+ES Onshore 1343 43.5 -5.625 85M Generator NWST	ES
+ES Onshore 1343 43.5 -5.625 85M Generator HWST	ES Onshore Generators
+ES Onshore 1343 43.5 -5.625 85M Generator HWST	ES
+ES Onshore 1343 43.5 -5.625 100M Generator LWST	ES Onshore Generators
+ES Onshore 1343 43.5 -5.625 100M Generator LWST	ES
+ES Onshore 1343 43.5 -5.625 100M Generator NWST	ES Onshore Generators
+ES Onshore 1343 43.5 -5.625 100M Generator NWST	ES
+ES Onshore 1343 43.5 -5.625 100M Generator HWST	ES Onshore Generators
+ES Onshore 1343 43.5 -5.625 100M Generator HWST	ES
+ES Onshore 187 37.0 -5.0 70M Generator LWST	ES Onshore Generators
+ES Onshore 187 37.0 -5.0 70M Generator LWST	ES
+ES Onshore 187 37.0 -5.0 70M Generator NWST	ES Onshore Generators
+ES Onshore 187 37.0 -5.0 70M Generator NWST	ES
+ES Onshore 187 37.0 -5.0 70M Generator HWST	ES Onshore Generators
+ES Onshore 187 37.0 -5.0 70M Generator HWST	ES
+ES Onshore 187 37.0 -5.0 85M Generator LWST	ES Onshore Generators
+ES Onshore 187 37.0 -5.0 85M Generator LWST	ES
+ES Onshore 187 37.0 -5.0 85M Generator NWST	ES Onshore Generators
+ES Onshore 187 37.0 -5.0 85M Generator NWST	ES
+ES Onshore 187 37.0 -5.0 85M Generator HWST	ES Onshore Generators
+ES Onshore 187 37.0 -5.0 85M Generator HWST	ES
+ES Onshore 187 37.0 -5.0 100M Generator LWST	ES Onshore Generators
+ES Onshore 187 37.0 -5.0 100M Generator LWST	ES
+ES Onshore 187 37.0 -5.0 100M Generator NWST	ES Onshore Generators
+ES Onshore 187 37.0 -5.0 100M Generator NWST	ES
+ES Onshore 187 37.0 -5.0 100M Generator HWST	ES Onshore Generators
+ES Onshore 187 37.0 -5.0 100M Generator HWST	ES
+ES Onshore 190 37.0 -3.125 70M Generator LWST	ES Onshore Generators
+ES Onshore 190 37.0 -3.125 70M Generator LWST	ES
+ES Onshore 190 37.0 -3.125 70M Generator NWST	ES Onshore Generators
+ES Onshore 190 37.0 -3.125 70M Generator NWST	ES
+ES Onshore 190 37.0 -3.125 70M Generator HWST	ES Onshore Generators
+ES Onshore 190 37.0 -3.125 70M Generator HWST	ES
+ES Onshore 190 37.0 -3.125 85M Generator LWST	ES Onshore Generators
+ES Onshore 190 37.0 -3.125 85M Generator LWST	ES
+ES Onshore 190 37.0 -3.125 85M Generator NWST	ES Onshore Generators
+ES Onshore 190 37.0 -3.125 85M Generator NWST	ES
+ES Onshore 190 37.0 -3.125 85M Generator HWST	ES Onshore Generators
+ES Onshore 190 37.0 -3.125 85M Generator HWST	ES
+ES Onshore 190 37.0 -3.125 100M Generator LWST	ES Onshore Generators
+ES Onshore 190 37.0 -3.125 100M Generator LWST	ES
+ES Onshore 190 37.0 -3.125 100M Generator NWST	ES Onshore Generators
+ES Onshore 190 37.0 -3.125 100M Generator NWST	ES
+ES Onshore 190 37.0 -3.125 100M Generator HWST	ES Onshore Generators
+ES Onshore 190 37.0 -3.125 100M Generator HWST	ES
+ES Onshore 191 37.0 -2.5 70M Generator LWST	ES Onshore Generators
+ES Onshore 191 37.0 -2.5 70M Generator LWST	ES
+ES Onshore 191 37.0 -2.5 70M Generator NWST	ES Onshore Generators
+ES Onshore 191 37.0 -2.5 70M Generator NWST	ES
+ES Onshore 191 37.0 -2.5 70M Generator HWST	ES Onshore Generators
+ES Onshore 191 37.0 -2.5 70M Generator HWST	ES
+ES Onshore 191 37.0 -2.5 85M Generator LWST	ES Onshore Generators
+ES Onshore 191 37.0 -2.5 85M Generator LWST	ES
+ES Onshore 191 37.0 -2.5 85M Generator NWST	ES Onshore Generators
+ES Onshore 191 37.0 -2.5 85M Generator NWST	ES
+ES Onshore 191 37.0 -2.5 85M Generator HWST	ES Onshore Generators
+ES Onshore 191 37.0 -2.5 85M Generator HWST	ES
+ES Onshore 191 37.0 -2.5 100M Generator LWST	ES Onshore Generators
+ES Onshore 191 37.0 -2.5 100M Generator LWST	ES
+ES Onshore 191 37.0 -2.5 100M Generator NWST	ES Onshore Generators
+ES Onshore 191 37.0 -2.5 100M Generator NWST	ES
+ES Onshore 191 37.0 -2.5 100M Generator HWST	ES Onshore Generators
+ES Onshore 191 37.0 -2.5 100M Generator HWST	ES
+ES Onshore 363 38.0 -6.25 70M Generator LWST	ES Onshore Generators
+ES Onshore 363 38.0 -6.25 70M Generator LWST	ES
+ES Onshore 363 38.0 -6.25 70M Generator NWST	ES Onshore Generators
+ES Onshore 363 38.0 -6.25 70M Generator NWST	ES
+ES Onshore 363 38.0 -6.25 70M Generator HWST	ES Onshore Generators
+ES Onshore 363 38.0 -6.25 70M Generator HWST	ES
+ES Onshore 363 38.0 -6.25 85M Generator LWST	ES Onshore Generators
+ES Onshore 363 38.0 -6.25 85M Generator LWST	ES
+ES Onshore 363 38.0 -6.25 85M Generator NWST	ES Onshore Generators
+ES Onshore 363 38.0 -6.25 85M Generator NWST	ES
+ES Onshore 363 38.0 -6.25 85M Generator HWST	ES Onshore Generators
+ES Onshore 363 38.0 -6.25 85M Generator HWST	ES
+ES Onshore 363 38.0 -6.25 100M Generator LWST	ES Onshore Generators
+ES Onshore 363 38.0 -6.25 100M Generator LWST	ES
+ES Onshore 363 38.0 -6.25 100M Generator NWST	ES Onshore Generators
+ES Onshore 363 38.0 -6.25 100M Generator NWST	ES
+ES Onshore 363 38.0 -6.25 100M Generator HWST	ES Onshore Generators
+ES Onshore 363 38.0 -6.25 100M Generator HWST	ES
+ES Onshore 365 38.0 -5.0 70M Generator LWST	ES Onshore Generators
+ES Onshore 365 38.0 -5.0 70M Generator LWST	ES
+ES Onshore 365 38.0 -5.0 70M Generator NWST	ES Onshore Generators
+ES Onshore 365 38.0 -5.0 70M Generator NWST	ES
+ES Onshore 365 38.0 -5.0 70M Generator HWST	ES Onshore Generators
+ES Onshore 365 38.0 -5.0 70M Generator HWST	ES
+ES Onshore 365 38.0 -5.0 85M Generator LWST	ES Onshore Generators
+ES Onshore 365 38.0 -5.0 85M Generator LWST	ES
+ES Onshore 365 38.0 -5.0 85M Generator NWST	ES Onshore Generators
+ES Onshore 365 38.0 -5.0 85M Generator NWST	ES
+ES Onshore 365 38.0 -5.0 85M Generator HWST	ES Onshore Generators
+ES Onshore 365 38.0 -5.0 85M Generator HWST	ES
+ES Onshore 365 38.0 -5.0 100M Generator LWST	ES Onshore Generators
+ES Onshore 365 38.0 -5.0 100M Generator LWST	ES
+ES Onshore 365 38.0 -5.0 100M Generator NWST	ES Onshore Generators
+ES Onshore 365 38.0 -5.0 100M Generator NWST	ES
+ES Onshore 365 38.0 -5.0 100M Generator HWST	ES Onshore Generators
+ES Onshore 365 38.0 -5.0 100M Generator HWST	ES
+ES Onshore 368 38.0 -3.125 70M Generator LWST	ES Onshore Generators
+ES Onshore 368 38.0 -3.125 70M Generator LWST	ES
+ES Onshore 368 38.0 -3.125 70M Generator NWST	ES Onshore Generators
+ES Onshore 368 38.0 -3.125 70M Generator NWST	ES
+ES Onshore 368 38.0 -3.125 70M Generator HWST	ES Onshore Generators
+ES Onshore 368 38.0 -3.125 70M Generator HWST	ES
+ES Onshore 368 38.0 -3.125 85M Generator LWST	ES Onshore Generators
+ES Onshore 368 38.0 -3.125 85M Generator LWST	ES
+ES Onshore 368 38.0 -3.125 85M Generator NWST	ES Onshore Generators
+ES Onshore 368 38.0 -3.125 85M Generator NWST	ES
+ES Onshore 368 38.0 -3.125 85M Generator HWST	ES Onshore Generators
+ES Onshore 368 38.0 -3.125 85M Generator HWST	ES
+ES Onshore 368 38.0 -3.125 100M Generator LWST	ES Onshore Generators
+ES Onshore 368 38.0 -3.125 100M Generator LWST	ES
+ES Onshore 368 38.0 -3.125 100M Generator NWST	ES Onshore Generators
+ES Onshore 368 38.0 -3.125 100M Generator NWST	ES
+ES Onshore 368 38.0 -3.125 100M Generator HWST	ES Onshore Generators
+ES Onshore 368 38.0 -3.125 100M Generator HWST	ES
+ES Onshore 370 38.0 -1.875 70M Generator LWST	ES Onshore Generators
+ES Onshore 370 38.0 -1.875 70M Generator LWST	ES
+ES Onshore 370 38.0 -1.875 70M Generator NWST	ES Onshore Generators
+ES Onshore 370 38.0 -1.875 70M Generator NWST	ES
+ES Onshore 370 38.0 -1.875 70M Generator HWST	ES Onshore Generators
+ES Onshore 370 38.0 -1.875 70M Generator HWST	ES
+ES Onshore 370 38.0 -1.875 85M Generator LWST	ES Onshore Generators
+ES Onshore 370 38.0 -1.875 85M Generator LWST	ES
+ES Onshore 370 38.0 -1.875 85M Generator NWST	ES Onshore Generators
+ES Onshore 370 38.0 -1.875 85M Generator NWST	ES
+ES Onshore 370 38.0 -1.875 85M Generator HWST	ES Onshore Generators
+ES Onshore 370 38.0 -1.875 85M Generator HWST	ES
+ES Onshore 370 38.0 -1.875 100M Generator LWST	ES Onshore Generators
+ES Onshore 370 38.0 -1.875 100M Generator LWST	ES
+ES Onshore 370 38.0 -1.875 100M Generator NWST	ES Onshore Generators
+ES Onshore 370 38.0 -1.875 100M Generator NWST	ES
+ES Onshore 370 38.0 -1.875 100M Generator HWST	ES Onshore Generators
+ES Onshore 370 38.0 -1.875 100M Generator HWST	ES
+ES Onshore 371 38.0 -1.25 70M Generator LWST	ES Onshore Generators
+ES Onshore 371 38.0 -1.25 70M Generator LWST	ES
+ES Onshore 371 38.0 -1.25 70M Generator NWST	ES Onshore Generators
+ES Onshore 371 38.0 -1.25 70M Generator NWST	ES
+ES Onshore 371 38.0 -1.25 70M Generator HWST	ES Onshore Generators
+ES Onshore 371 38.0 -1.25 70M Generator HWST	ES
+ES Onshore 371 38.0 -1.25 85M Generator LWST	ES Onshore Generators
+ES Onshore 371 38.0 -1.25 85M Generator LWST	ES
+ES Onshore 371 38.0 -1.25 85M Generator NWST	ES Onshore Generators
+ES Onshore 371 38.0 -1.25 85M Generator NWST	ES
+ES Onshore 371 38.0 -1.25 85M Generator HWST	ES Onshore Generators
+ES Onshore 371 38.0 -1.25 85M Generator HWST	ES
+ES Onshore 371 38.0 -1.25 100M Generator LWST	ES Onshore Generators
+ES Onshore 371 38.0 -1.25 100M Generator LWST	ES
+ES Onshore 371 38.0 -1.25 100M Generator NWST	ES Onshore Generators
+ES Onshore 371 38.0 -1.25 100M Generator NWST	ES
+ES Onshore 371 38.0 -1.25 100M Generator HWST	ES Onshore Generators
+ES Onshore 371 38.0 -1.25 100M Generator HWST	ES
+ES Onshore 457 38.5 -3.125 70M Generator LWST	ES Onshore Generators
+ES Onshore 457 38.5 -3.125 70M Generator LWST	ES
+ES Onshore 457 38.5 -3.125 70M Generator NWST	ES Onshore Generators
+ES Onshore 457 38.5 -3.125 70M Generator NWST	ES
+ES Onshore 457 38.5 -3.125 70M Generator HWST	ES Onshore Generators
+ES Onshore 457 38.5 -3.125 70M Generator HWST	ES
+ES Onshore 457 38.5 -3.125 85M Generator LWST	ES Onshore Generators
+ES Onshore 457 38.5 -3.125 85M Generator LWST	ES
+ES Onshore 457 38.5 -3.125 85M Generator NWST	ES Onshore Generators
+ES Onshore 457 38.5 -3.125 85M Generator NWST	ES
+ES Onshore 457 38.5 -3.125 85M Generator HWST	ES Onshore Generators
+ES Onshore 457 38.5 -3.125 85M Generator HWST	ES
+ES Onshore 457 38.5 -3.125 100M Generator LWST	ES Onshore Generators
+ES Onshore 457 38.5 -3.125 100M Generator LWST	ES
+ES Onshore 457 38.5 -3.125 100M Generator NWST	ES Onshore Generators
+ES Onshore 457 38.5 -3.125 100M Generator NWST	ES
+ES Onshore 457 38.5 -3.125 100M Generator HWST	ES Onshore Generators
+ES Onshore 457 38.5 -3.125 100M Generator HWST	ES
+ES Onshore 458 38.5 -2.5 70M Generator LWST	ES Onshore Generators
+ES Onshore 458 38.5 -2.5 70M Generator LWST	ES
+ES Onshore 458 38.5 -2.5 70M Generator NWST	ES Onshore Generators
+ES Onshore 458 38.5 -2.5 70M Generator NWST	ES
+ES Onshore 458 38.5 -2.5 70M Generator HWST	ES Onshore Generators
+ES Onshore 458 38.5 -2.5 70M Generator HWST	ES
+ES Onshore 458 38.5 -2.5 85M Generator LWST	ES Onshore Generators
+ES Onshore 458 38.5 -2.5 85M Generator LWST	ES
+ES Onshore 458 38.5 -2.5 85M Generator NWST	ES Onshore Generators
+ES Onshore 458 38.5 -2.5 85M Generator NWST	ES
+ES Onshore 458 38.5 -2.5 85M Generator HWST	ES Onshore Generators
+ES Onshore 458 38.5 -2.5 85M Generator HWST	ES
+ES Onshore 458 38.5 -2.5 100M Generator LWST	ES Onshore Generators
+ES Onshore 458 38.5 -2.5 100M Generator LWST	ES
+ES Onshore 458 38.5 -2.5 100M Generator NWST	ES Onshore Generators
+ES Onshore 458 38.5 -2.5 100M Generator NWST	ES
+ES Onshore 458 38.5 -2.5 100M Generator HWST	ES Onshore Generators
+ES Onshore 458 38.5 -2.5 100M Generator HWST	ES
+ES Onshore 540 39.0 -6.875 70M Generator LWST	ES Onshore Generators
+ES Onshore 540 39.0 -6.875 70M Generator LWST	ES
+ES Onshore 540 39.0 -6.875 70M Generator NWST	ES Onshore Generators
+ES Onshore 540 39.0 -6.875 70M Generator NWST	ES
+ES Onshore 540 39.0 -6.875 70M Generator HWST	ES Onshore Generators
+ES Onshore 540 39.0 -6.875 70M Generator HWST	ES
+ES Onshore 540 39.0 -6.875 85M Generator LWST	ES Onshore Generators
+ES Onshore 540 39.0 -6.875 85M Generator LWST	ES
+ES Onshore 540 39.0 -6.875 85M Generator NWST	ES Onshore Generators
+ES Onshore 540 39.0 -6.875 85M Generator NWST	ES
+ES Onshore 540 39.0 -6.875 85M Generator HWST	ES Onshore Generators
+ES Onshore 540 39.0 -6.875 85M Generator HWST	ES
+ES Onshore 540 39.0 -6.875 100M Generator LWST	ES Onshore Generators
+ES Onshore 540 39.0 -6.875 100M Generator LWST	ES
+ES Onshore 540 39.0 -6.875 100M Generator NWST	ES Onshore Generators
+ES Onshore 540 39.0 -6.875 100M Generator NWST	ES
+ES Onshore 540 39.0 -6.875 100M Generator HWST	ES Onshore Generators
+ES Onshore 540 39.0 -6.875 100M Generator HWST	ES
+ES Onshore 542 39.0 -5.625 70M Generator LWST	ES Onshore Generators
+ES Onshore 542 39.0 -5.625 70M Generator LWST	ES
+ES Onshore 542 39.0 -5.625 70M Generator NWST	ES Onshore Generators
+ES Onshore 542 39.0 -5.625 70M Generator NWST	ES
+ES Onshore 542 39.0 -5.625 70M Generator HWST	ES Onshore Generators
+ES Onshore 542 39.0 -5.625 70M Generator HWST	ES
+ES Onshore 542 39.0 -5.625 85M Generator LWST	ES Onshore Generators
+ES Onshore 542 39.0 -5.625 85M Generator LWST	ES
+ES Onshore 542 39.0 -5.625 85M Generator NWST	ES Onshore Generators
+ES Onshore 542 39.0 -5.625 85M Generator NWST	ES
+ES Onshore 542 39.0 -5.625 85M Generator HWST	ES Onshore Generators
+ES Onshore 542 39.0 -5.625 85M Generator HWST	ES
+ES Onshore 542 39.0 -5.625 100M Generator LWST	ES Onshore Generators
+ES Onshore 542 39.0 -5.625 100M Generator LWST	ES
+ES Onshore 542 39.0 -5.625 100M Generator NWST	ES Onshore Generators
+ES Onshore 542 39.0 -5.625 100M Generator NWST	ES
+ES Onshore 542 39.0 -5.625 100M Generator HWST	ES Onshore Generators
+ES Onshore 542 39.0 -5.625 100M Generator HWST	ES
+ES Onshore 547 39.0 -2.5 70M Generator LWST	ES Onshore Generators
+ES Onshore 547 39.0 -2.5 70M Generator LWST	ES
+ES Onshore 547 39.0 -2.5 70M Generator NWST	ES Onshore Generators
+ES Onshore 547 39.0 -2.5 70M Generator NWST	ES
+ES Onshore 547 39.0 -2.5 70M Generator HWST	ES Onshore Generators
+ES Onshore 547 39.0 -2.5 70M Generator HWST	ES
+ES Onshore 547 39.0 -2.5 85M Generator LWST	ES Onshore Generators
+ES Onshore 547 39.0 -2.5 85M Generator LWST	ES
+ES Onshore 547 39.0 -2.5 85M Generator NWST	ES Onshore Generators
+ES Onshore 547 39.0 -2.5 85M Generator NWST	ES
+ES Onshore 547 39.0 -2.5 85M Generator HWST	ES Onshore Generators
+ES Onshore 547 39.0 -2.5 85M Generator HWST	ES
+ES Onshore 547 39.0 -2.5 100M Generator LWST	ES Onshore Generators
+ES Onshore 547 39.0 -2.5 100M Generator LWST	ES
+ES Onshore 547 39.0 -2.5 100M Generator NWST	ES Onshore Generators
+ES Onshore 547 39.0 -2.5 100M Generator NWST	ES
+ES Onshore 547 39.0 -2.5 100M Generator HWST	ES Onshore Generators
+ES Onshore 547 39.0 -2.5 100M Generator HWST	ES
+ES Onshore 549 39.0 -1.25 70M Generator LWST	ES Onshore Generators
+ES Onshore 549 39.0 -1.25 70M Generator LWST	ES
+ES Onshore 549 39.0 -1.25 70M Generator NWST	ES Onshore Generators
+ES Onshore 549 39.0 -1.25 70M Generator NWST	ES
+ES Onshore 549 39.0 -1.25 70M Generator HWST	ES Onshore Generators
+ES Onshore 549 39.0 -1.25 70M Generator HWST	ES
+ES Onshore 549 39.0 -1.25 85M Generator LWST	ES Onshore Generators
+ES Onshore 549 39.0 -1.25 85M Generator LWST	ES
+ES Onshore 549 39.0 -1.25 85M Generator NWST	ES Onshore Generators
+ES Onshore 549 39.0 -1.25 85M Generator NWST	ES
+ES Onshore 549 39.0 -1.25 85M Generator HWST	ES Onshore Generators
+ES Onshore 549 39.0 -1.25 85M Generator HWST	ES
+ES Onshore 549 39.0 -1.25 100M Generator LWST	ES Onshore Generators
+ES Onshore 549 39.0 -1.25 100M Generator LWST	ES
+ES Onshore 549 39.0 -1.25 100M Generator NWST	ES Onshore Generators
+ES Onshore 549 39.0 -1.25 100M Generator NWST	ES
+ES Onshore 549 39.0 -1.25 100M Generator HWST	ES Onshore Generators
+ES Onshore 549 39.0 -1.25 100M Generator HWST	ES
+ES Onshore 633 39.5 -4.375 70M Generator LWST	ES Onshore Generators
+ES Onshore 633 39.5 -4.375 70M Generator LWST	ES
+ES Onshore 633 39.5 -4.375 70M Generator NWST	ES Onshore Generators
+ES Onshore 633 39.5 -4.375 70M Generator NWST	ES
+ES Onshore 633 39.5 -4.375 70M Generator HWST	ES Onshore Generators
+ES Onshore 633 39.5 -4.375 70M Generator HWST	ES
+ES Onshore 633 39.5 -4.375 85M Generator LWST	ES Onshore Generators
+ES Onshore 633 39.5 -4.375 85M Generator LWST	ES
+ES Onshore 633 39.5 -4.375 85M Generator NWST	ES Onshore Generators
+ES Onshore 633 39.5 -4.375 85M Generator NWST	ES
+ES Onshore 633 39.5 -4.375 85M Generator HWST	ES Onshore Generators
+ES Onshore 633 39.5 -4.375 85M Generator HWST	ES
+ES Onshore 633 39.5 -4.375 100M Generator LWST	ES Onshore Generators
+ES Onshore 633 39.5 -4.375 100M Generator LWST	ES
+ES Onshore 633 39.5 -4.375 100M Generator NWST	ES Onshore Generators
+ES Onshore 633 39.5 -4.375 100M Generator NWST	ES
+ES Onshore 633 39.5 -4.375 100M Generator HWST	ES Onshore Generators
+ES Onshore 633 39.5 -4.375 100M Generator HWST	ES
+ES Onshore 637 39.5 -1.875 70M Generator LWST	ES Onshore Generators
+ES Onshore 637 39.5 -1.875 70M Generator LWST	ES
+ES Onshore 637 39.5 -1.875 70M Generator NWST	ES Onshore Generators
+ES Onshore 637 39.5 -1.875 70M Generator NWST	ES
+ES Onshore 637 39.5 -1.875 70M Generator HWST	ES Onshore Generators
+ES Onshore 637 39.5 -1.875 70M Generator HWST	ES
+ES Onshore 637 39.5 -1.875 85M Generator LWST	ES Onshore Generators
+ES Onshore 637 39.5 -1.875 85M Generator LWST	ES
+ES Onshore 637 39.5 -1.875 85M Generator NWST	ES Onshore Generators
+ES Onshore 637 39.5 -1.875 85M Generator NWST	ES
+ES Onshore 637 39.5 -1.875 85M Generator HWST	ES Onshore Generators
+ES Onshore 637 39.5 -1.875 85M Generator HWST	ES
+ES Onshore 637 39.5 -1.875 100M Generator LWST	ES Onshore Generators
+ES Onshore 637 39.5 -1.875 100M Generator LWST	ES
+ES Onshore 637 39.5 -1.875 100M Generator NWST	ES Onshore Generators
+ES Onshore 637 39.5 -1.875 100M Generator NWST	ES
+ES Onshore 637 39.5 -1.875 100M Generator HWST	ES Onshore Generators
+ES Onshore 637 39.5 -1.875 100M Generator HWST	ES
+ES Onshore 645 39.5 3.125 70M Generator LWST	ES Onshore Generators
+ES Onshore 645 39.5 3.125 70M Generator LWST	ES
+ES Onshore 645 39.5 3.125 70M Generator NWST	ES Onshore Generators
+ES Onshore 645 39.5 3.125 70M Generator NWST	ES
+ES Onshore 645 39.5 3.125 70M Generator HWST	ES Onshore Generators
+ES Onshore 645 39.5 3.125 70M Generator HWST	ES
+ES Onshore 645 39.5 3.125 85M Generator LWST	ES Onshore Generators
+ES Onshore 645 39.5 3.125 85M Generator LWST	ES
+ES Onshore 645 39.5 3.125 85M Generator NWST	ES Onshore Generators
+ES Onshore 645 39.5 3.125 85M Generator NWST	ES
+ES Onshore 645 39.5 3.125 85M Generator HWST	ES Onshore Generators
+ES Onshore 645 39.5 3.125 85M Generator HWST	ES
+ES Onshore 645 39.5 3.125 100M Generator LWST	ES Onshore Generators
+ES Onshore 645 39.5 3.125 100M Generator LWST	ES
+ES Onshore 645 39.5 3.125 100M Generator NWST	ES Onshore Generators
+ES Onshore 645 39.5 3.125 100M Generator NWST	ES
+ES Onshore 645 39.5 3.125 100M Generator HWST	ES Onshore Generators
+ES Onshore 645 39.5 3.125 100M Generator HWST	ES
+ES Onshore 723 40.0 -3.75 70M Generator LWST	ES Onshore Generators
+ES Onshore 723 40.0 -3.75 70M Generator LWST	ES
+ES Onshore 723 40.0 -3.75 70M Generator NWST	ES Onshore Generators
+ES Onshore 723 40.0 -3.75 70M Generator NWST	ES
+ES Onshore 723 40.0 -3.75 70M Generator HWST	ES Onshore Generators
+ES Onshore 723 40.0 -3.75 70M Generator HWST	ES
+ES Onshore 723 40.0 -3.75 85M Generator LWST	ES Onshore Generators
+ES Onshore 723 40.0 -3.75 85M Generator LWST	ES
+ES Onshore 723 40.0 -3.75 85M Generator NWST	ES Onshore Generators
+ES Onshore 723 40.0 -3.75 85M Generator NWST	ES
+ES Onshore 723 40.0 -3.75 85M Generator HWST	ES Onshore Generators
+ES Onshore 723 40.0 -3.75 85M Generator HWST	ES
+ES Onshore 723 40.0 -3.75 100M Generator LWST	ES Onshore Generators
+ES Onshore 723 40.0 -3.75 100M Generator LWST	ES
+ES Onshore 723 40.0 -3.75 100M Generator NWST	ES Onshore Generators
+ES Onshore 723 40.0 -3.75 100M Generator NWST	ES
+ES Onshore 723 40.0 -3.75 100M Generator HWST	ES Onshore Generators
+ES Onshore 723 40.0 -3.75 100M Generator HWST	ES
+ES Onshore 726 40.0 -1.875 70M Generator LWST	ES Onshore Generators
+ES Onshore 726 40.0 -1.875 70M Generator LWST	ES
+ES Onshore 726 40.0 -1.875 70M Generator NWST	ES Onshore Generators
+ES Onshore 726 40.0 -1.875 70M Generator NWST	ES
+ES Onshore 726 40.0 -1.875 70M Generator HWST	ES Onshore Generators
+ES Onshore 726 40.0 -1.875 70M Generator HWST	ES
+ES Onshore 726 40.0 -1.875 85M Generator LWST	ES Onshore Generators
+ES Onshore 726 40.0 -1.875 85M Generator LWST	ES
+ES Onshore 726 40.0 -1.875 85M Generator NWST	ES Onshore Generators
+ES Onshore 726 40.0 -1.875 85M Generator NWST	ES
+ES Onshore 726 40.0 -1.875 85M Generator HWST	ES Onshore Generators
+ES Onshore 726 40.0 -1.875 85M Generator HWST	ES
+ES Onshore 726 40.0 -1.875 100M Generator LWST	ES Onshore Generators
+ES Onshore 726 40.0 -1.875 100M Generator LWST	ES
+ES Onshore 726 40.0 -1.875 100M Generator NWST	ES Onshore Generators
+ES Onshore 726 40.0 -1.875 100M Generator NWST	ES
+ES Onshore 726 40.0 -1.875 100M Generator HWST	ES Onshore Generators
+ES Onshore 726 40.0 -1.875 100M Generator HWST	ES
+ES Onshore 728 40.0 -0.625 70M Generator LWST	ES Onshore Generators
+ES Onshore 728 40.0 -0.625 70M Generator LWST	ES
+ES Onshore 728 40.0 -0.625 70M Generator NWST	ES Onshore Generators
+ES Onshore 728 40.0 -0.625 70M Generator NWST	ES
+ES Onshore 728 40.0 -0.625 70M Generator HWST	ES Onshore Generators
+ES Onshore 728 40.0 -0.625 70M Generator HWST	ES
+ES Onshore 728 40.0 -0.625 85M Generator LWST	ES Onshore Generators
+ES Onshore 728 40.0 -0.625 85M Generator LWST	ES
+ES Onshore 728 40.0 -0.625 85M Generator NWST	ES Onshore Generators
+ES Onshore 728 40.0 -0.625 85M Generator NWST	ES
+ES Onshore 728 40.0 -0.625 85M Generator HWST	ES Onshore Generators
+ES Onshore 728 40.0 -0.625 85M Generator HWST	ES
+ES Onshore 728 40.0 -0.625 100M Generator LWST	ES Onshore Generators
+ES Onshore 728 40.0 -0.625 100M Generator LWST	ES
+ES Onshore 728 40.0 -0.625 100M Generator NWST	ES Onshore Generators
+ES Onshore 728 40.0 -0.625 100M Generator NWST	ES
+ES Onshore 728 40.0 -0.625 100M Generator HWST	ES Onshore Generators
+ES Onshore 728 40.0 -0.625 100M Generator HWST	ES
+ES Onshore 808 40.5 -6.25 70M Generator LWST	ES Onshore Generators
+ES Onshore 808 40.5 -6.25 70M Generator LWST	ES
+ES Onshore 808 40.5 -6.25 70M Generator NWST	ES Onshore Generators
+ES Onshore 808 40.5 -6.25 70M Generator NWST	ES
+ES Onshore 808 40.5 -6.25 70M Generator HWST	ES Onshore Generators
+ES Onshore 808 40.5 -6.25 70M Generator HWST	ES
+ES Onshore 808 40.5 -6.25 85M Generator LWST	ES Onshore Generators
+ES Onshore 808 40.5 -6.25 85M Generator LWST	ES
+ES Onshore 808 40.5 -6.25 85M Generator NWST	ES Onshore Generators
+ES Onshore 808 40.5 -6.25 85M Generator NWST	ES
+ES Onshore 808 40.5 -6.25 85M Generator HWST	ES Onshore Generators
+ES Onshore 808 40.5 -6.25 85M Generator HWST	ES
+ES Onshore 808 40.5 -6.25 100M Generator LWST	ES Onshore Generators
+ES Onshore 808 40.5 -6.25 100M Generator LWST	ES
+ES Onshore 808 40.5 -6.25 100M Generator NWST	ES Onshore Generators
+ES Onshore 808 40.5 -6.25 100M Generator NWST	ES
+ES Onshore 808 40.5 -6.25 100M Generator HWST	ES Onshore Generators
+ES Onshore 808 40.5 -6.25 100M Generator HWST	ES
+ES Onshore 810 40.5 -5.0 70M Generator LWST	ES Onshore Generators
+ES Onshore 810 40.5 -5.0 70M Generator LWST	ES
+ES Onshore 810 40.5 -5.0 70M Generator NWST	ES Onshore Generators
+ES Onshore 810 40.5 -5.0 70M Generator NWST	ES
+ES Onshore 810 40.5 -5.0 70M Generator HWST	ES Onshore Generators
+ES Onshore 810 40.5 -5.0 70M Generator HWST	ES
+ES Onshore 810 40.5 -5.0 85M Generator LWST	ES Onshore Generators
+ES Onshore 810 40.5 -5.0 85M Generator LWST	ES
+ES Onshore 810 40.5 -5.0 85M Generator NWST	ES Onshore Generators
+ES Onshore 810 40.5 -5.0 85M Generator NWST	ES
+ES Onshore 810 40.5 -5.0 85M Generator HWST	ES Onshore Generators
+ES Onshore 810 40.5 -5.0 85M Generator HWST	ES
+ES Onshore 810 40.5 -5.0 100M Generator LWST	ES Onshore Generators
+ES Onshore 810 40.5 -5.0 100M Generator LWST	ES
+ES Onshore 810 40.5 -5.0 100M Generator NWST	ES Onshore Generators
+ES Onshore 810 40.5 -5.0 100M Generator NWST	ES
+ES Onshore 810 40.5 -5.0 100M Generator HWST	ES Onshore Generators
+ES Onshore 810 40.5 -5.0 100M Generator HWST	ES
+ES Onshore 812 40.5 -3.75 70M Generator LWST	ES Onshore Generators
+ES Onshore 812 40.5 -3.75 70M Generator LWST	ES
+ES Onshore 812 40.5 -3.75 70M Generator NWST	ES Onshore Generators
+ES Onshore 812 40.5 -3.75 70M Generator NWST	ES
+ES Onshore 812 40.5 -3.75 70M Generator HWST	ES Onshore Generators
+ES Onshore 812 40.5 -3.75 70M Generator HWST	ES
+ES Onshore 812 40.5 -3.75 85M Generator LWST	ES Onshore Generators
+ES Onshore 812 40.5 -3.75 85M Generator LWST	ES
+ES Onshore 812 40.5 -3.75 85M Generator NWST	ES Onshore Generators
+ES Onshore 812 40.5 -3.75 85M Generator NWST	ES
+ES Onshore 812 40.5 -3.75 85M Generator HWST	ES Onshore Generators
+ES Onshore 812 40.5 -3.75 85M Generator HWST	ES
+ES Onshore 812 40.5 -3.75 100M Generator LWST	ES Onshore Generators
+ES Onshore 812 40.5 -3.75 100M Generator LWST	ES
+ES Onshore 812 40.5 -3.75 100M Generator NWST	ES Onshore Generators
+ES Onshore 812 40.5 -3.75 100M Generator NWST	ES
+ES Onshore 812 40.5 -3.75 100M Generator HWST	ES Onshore Generators
+ES Onshore 812 40.5 -3.75 100M Generator HWST	ES
+ES Onshore 814 40.5 -2.5 70M Generator LWST	ES Onshore Generators
+ES Onshore 814 40.5 -2.5 70M Generator LWST	ES
+ES Onshore 814 40.5 -2.5 70M Generator NWST	ES Onshore Generators
+ES Onshore 814 40.5 -2.5 70M Generator NWST	ES
+ES Onshore 814 40.5 -2.5 70M Generator HWST	ES Onshore Generators
+ES Onshore 814 40.5 -2.5 70M Generator HWST	ES
+ES Onshore 814 40.5 -2.5 85M Generator LWST	ES Onshore Generators
+ES Onshore 814 40.5 -2.5 85M Generator LWST	ES
+ES Onshore 814 40.5 -2.5 85M Generator NWST	ES Onshore Generators
+ES Onshore 814 40.5 -2.5 85M Generator NWST	ES
+ES Onshore 814 40.5 -2.5 85M Generator HWST	ES Onshore Generators
+ES Onshore 814 40.5 -2.5 85M Generator HWST	ES
+ES Onshore 814 40.5 -2.5 100M Generator LWST	ES Onshore Generators
+ES Onshore 814 40.5 -2.5 100M Generator LWST	ES
+ES Onshore 814 40.5 -2.5 100M Generator NWST	ES Onshore Generators
+ES Onshore 814 40.5 -2.5 100M Generator NWST	ES
+ES Onshore 814 40.5 -2.5 100M Generator HWST	ES Onshore Generators
+ES Onshore 814 40.5 -2.5 100M Generator HWST	ES
+ES Onshore 817 40.5 -0.625 70M Generator LWST	ES Onshore Generators
+ES Onshore 817 40.5 -0.625 70M Generator LWST	ES
+ES Onshore 817 40.5 -0.625 70M Generator NWST	ES Onshore Generators
+ES Onshore 817 40.5 -0.625 70M Generator NWST	ES
+ES Onshore 817 40.5 -0.625 70M Generator HWST	ES Onshore Generators
+ES Onshore 817 40.5 -0.625 70M Generator HWST	ES
+ES Onshore 817 40.5 -0.625 85M Generator LWST	ES Onshore Generators
+ES Onshore 817 40.5 -0.625 85M Generator LWST	ES
+ES Onshore 817 40.5 -0.625 85M Generator NWST	ES Onshore Generators
+ES Onshore 817 40.5 -0.625 85M Generator NWST	ES
+ES Onshore 817 40.5 -0.625 85M Generator HWST	ES Onshore Generators
+ES Onshore 817 40.5 -0.625 85M Generator HWST	ES
+ES Onshore 817 40.5 -0.625 100M Generator LWST	ES Onshore Generators
+ES Onshore 817 40.5 -0.625 100M Generator LWST	ES
+ES Onshore 817 40.5 -0.625 100M Generator NWST	ES Onshore Generators
+ES Onshore 817 40.5 -0.625 100M Generator NWST	ES
+ES Onshore 817 40.5 -0.625 100M Generator HWST	ES Onshore Generators
+ES Onshore 817 40.5 -0.625 100M Generator HWST	ES
+ES Onshore 896 41.0 -6.875 70M Generator LWST	ES Onshore Generators
+ES Onshore 896 41.0 -6.875 70M Generator LWST	ES
+ES Onshore 896 41.0 -6.875 70M Generator NWST	ES Onshore Generators
+ES Onshore 896 41.0 -6.875 70M Generator NWST	ES
+ES Onshore 896 41.0 -6.875 70M Generator HWST	ES Onshore Generators
+ES Onshore 896 41.0 -6.875 70M Generator HWST	ES
+ES Onshore 896 41.0 -6.875 85M Generator LWST	ES Onshore Generators
+ES Onshore 896 41.0 -6.875 85M Generator LWST	ES
+ES Onshore 896 41.0 -6.875 85M Generator NWST	ES Onshore Generators
+ES Onshore 896 41.0 -6.875 85M Generator NWST	ES
+ES Onshore 896 41.0 -6.875 85M Generator HWST	ES Onshore Generators
+ES Onshore 896 41.0 -6.875 85M Generator HWST	ES
+ES Onshore 896 41.0 -6.875 100M Generator LWST	ES Onshore Generators
+ES Onshore 896 41.0 -6.875 100M Generator LWST	ES
+ES Onshore 896 41.0 -6.875 100M Generator NWST	ES Onshore Generators
+ES Onshore 896 41.0 -6.875 100M Generator NWST	ES
+ES Onshore 896 41.0 -6.875 100M Generator HWST	ES Onshore Generators
+ES Onshore 896 41.0 -6.875 100M Generator HWST	ES
+ES Onshore 899 41.0 -5.0 70M Generator LWST	ES Onshore Generators
+ES Onshore 899 41.0 -5.0 70M Generator LWST	ES
+ES Onshore 899 41.0 -5.0 70M Generator NWST	ES Onshore Generators
+ES Onshore 899 41.0 -5.0 70M Generator NWST	ES
+ES Onshore 899 41.0 -5.0 70M Generator HWST	ES Onshore Generators
+ES Onshore 899 41.0 -5.0 70M Generator HWST	ES
+ES Onshore 899 41.0 -5.0 85M Generator LWST	ES Onshore Generators
+ES Onshore 899 41.0 -5.0 85M Generator LWST	ES
+ES Onshore 899 41.0 -5.0 85M Generator NWST	ES Onshore Generators
+ES Onshore 899 41.0 -5.0 85M Generator NWST	ES
+ES Onshore 899 41.0 -5.0 85M Generator HWST	ES Onshore Generators
+ES Onshore 899 41.0 -5.0 85M Generator HWST	ES
+ES Onshore 899 41.0 -5.0 100M Generator LWST	ES Onshore Generators
+ES Onshore 899 41.0 -5.0 100M Generator LWST	ES
+ES Onshore 899 41.0 -5.0 100M Generator NWST	ES Onshore Generators
+ES Onshore 899 41.0 -5.0 100M Generator NWST	ES
+ES Onshore 899 41.0 -5.0 100M Generator HWST	ES Onshore Generators
+ES Onshore 899 41.0 -5.0 100M Generator HWST	ES
+ES Onshore 906 41.0 -0.625 70M Generator LWST	ES Onshore Generators
+ES Onshore 906 41.0 -0.625 70M Generator LWST	ES
+ES Onshore 906 41.0 -0.625 70M Generator NWST	ES Onshore Generators
+ES Onshore 906 41.0 -0.625 70M Generator NWST	ES
+ES Onshore 906 41.0 -0.625 70M Generator HWST	ES Onshore Generators
+ES Onshore 906 41.0 -0.625 70M Generator HWST	ES
+ES Onshore 906 41.0 -0.625 85M Generator LWST	ES Onshore Generators
+ES Onshore 906 41.0 -0.625 85M Generator LWST	ES
+ES Onshore 906 41.0 -0.625 85M Generator NWST	ES Onshore Generators
+ES Onshore 906 41.0 -0.625 85M Generator NWST	ES
+ES Onshore 906 41.0 -0.625 85M Generator HWST	ES Onshore Generators
+ES Onshore 906 41.0 -0.625 85M Generator HWST	ES
+ES Onshore 906 41.0 -0.625 100M Generator LWST	ES Onshore Generators
+ES Onshore 906 41.0 -0.625 100M Generator LWST	ES
+ES Onshore 906 41.0 -0.625 100M Generator NWST	ES Onshore Generators
+ES Onshore 906 41.0 -0.625 100M Generator NWST	ES
+ES Onshore 906 41.0 -0.625 100M Generator HWST	ES Onshore Generators
+ES Onshore 906 41.0 -0.625 100M Generator HWST	ES
+ES Onshore 908 41.0 0.625 70M Generator LWST	ES Onshore Generators
+ES Onshore 908 41.0 0.625 70M Generator LWST	ES
+ES Onshore 908 41.0 0.625 70M Generator NWST	ES Onshore Generators
+ES Onshore 908 41.0 0.625 70M Generator NWST	ES
+ES Onshore 908 41.0 0.625 70M Generator HWST	ES Onshore Generators
+ES Onshore 908 41.0 0.625 70M Generator HWST	ES
+ES Onshore 908 41.0 0.625 85M Generator LWST	ES Onshore Generators
+ES Onshore 908 41.0 0.625 85M Generator LWST	ES
+ES Onshore 908 41.0 0.625 85M Generator NWST	ES Onshore Generators
+ES Onshore 908 41.0 0.625 85M Generator NWST	ES
+ES Onshore 908 41.0 0.625 85M Generator HWST	ES Onshore Generators
+ES Onshore 908 41.0 0.625 85M Generator HWST	ES
+ES Onshore 908 41.0 0.625 100M Generator LWST	ES Onshore Generators
+ES Onshore 908 41.0 0.625 100M Generator LWST	ES
+ES Onshore 908 41.0 0.625 100M Generator NWST	ES Onshore Generators
+ES Onshore 908 41.0 0.625 100M Generator NWST	ES
+ES Onshore 908 41.0 0.625 100M Generator HWST	ES Onshore Generators
+ES Onshore 908 41.0 0.625 100M Generator HWST	ES
+ES Onshore 98 36.5 -5.0 70M Generator LWST	ES Onshore Generators
+ES Onshore 98 36.5 -5.0 70M Generator LWST	ES
+ES Onshore 98 36.5 -5.0 70M Generator NWST	ES Onshore Generators
+ES Onshore 98 36.5 -5.0 70M Generator NWST	ES
+ES Onshore 98 36.5 -5.0 70M Generator HWST	ES Onshore Generators
+ES Onshore 98 36.5 -5.0 70M Generator HWST	ES
+ES Onshore 98 36.5 -5.0 85M Generator LWST	ES Onshore Generators
+ES Onshore 98 36.5 -5.0 85M Generator LWST	ES
+ES Onshore 98 36.5 -5.0 85M Generator NWST	ES Onshore Generators
+ES Onshore 98 36.5 -5.0 85M Generator NWST	ES
+ES Onshore 98 36.5 -5.0 85M Generator HWST	ES Onshore Generators
+ES Onshore 98 36.5 -5.0 85M Generator HWST	ES
+ES Onshore 98 36.5 -5.0 100M Generator LWST	ES Onshore Generators
+ES Onshore 98 36.5 -5.0 100M Generator LWST	ES
+ES Onshore 98 36.5 -5.0 100M Generator NWST	ES Onshore Generators
+ES Onshore 98 36.5 -5.0 100M Generator NWST	ES
+ES Onshore 98 36.5 -5.0 100M Generator HWST	ES Onshore Generators
+ES Onshore 98 36.5 -5.0 100M Generator HWST	ES
+ES Onshore 991 41.5 -3.125 70M Generator LWST	ES Onshore Generators
+ES Onshore 991 41.5 -3.125 70M Generator LWST	ES
+ES Onshore 991 41.5 -3.125 70M Generator NWST	ES Onshore Generators
+ES Onshore 991 41.5 -3.125 70M Generator NWST	ES
+ES Onshore 991 41.5 -3.125 70M Generator HWST	ES Onshore Generators
+ES Onshore 991 41.5 -3.125 70M Generator HWST	ES
+ES Onshore 991 41.5 -3.125 85M Generator LWST	ES Onshore Generators
+ES Onshore 991 41.5 -3.125 85M Generator LWST	ES
+ES Onshore 991 41.5 -3.125 85M Generator NWST	ES Onshore Generators
+ES Onshore 991 41.5 -3.125 85M Generator NWST	ES
+ES Onshore 991 41.5 -3.125 85M Generator HWST	ES Onshore Generators
+ES Onshore 991 41.5 -3.125 85M Generator HWST	ES
+ES Onshore 991 41.5 -3.125 100M Generator LWST	ES Onshore Generators
+ES Onshore 991 41.5 -3.125 100M Generator LWST	ES
+ES Onshore 991 41.5 -3.125 100M Generator NWST	ES Onshore Generators
+ES Onshore 991 41.5 -3.125 100M Generator NWST	ES
+ES Onshore 991 41.5 -3.125 100M Generator HWST	ES Onshore Generators
+ES Onshore 991 41.5 -3.125 100M Generator HWST	ES
+ES Onshore 994 41.5 -1.25 70M Generator LWST	ES Onshore Generators
+ES Onshore 994 41.5 -1.25 70M Generator LWST	ES
+ES Onshore 994 41.5 -1.25 70M Generator NWST	ES Onshore Generators
+ES Onshore 994 41.5 -1.25 70M Generator NWST	ES
+ES Onshore 994 41.5 -1.25 70M Generator HWST	ES Onshore Generators
+ES Onshore 994 41.5 -1.25 70M Generator HWST	ES
+ES Onshore 994 41.5 -1.25 85M Generator LWST	ES Onshore Generators
+ES Onshore 994 41.5 -1.25 85M Generator LWST	ES
+ES Onshore 994 41.5 -1.25 85M Generator NWST	ES Onshore Generators
+ES Onshore 994 41.5 -1.25 85M Generator NWST	ES
+ES Onshore 994 41.5 -1.25 85M Generator HWST	ES Onshore Generators
+ES Onshore 994 41.5 -1.25 85M Generator HWST	ES
+ES Onshore 994 41.5 -1.25 100M Generator LWST	ES Onshore Generators
+ES Onshore 994 41.5 -1.25 100M Generator LWST	ES
+ES Onshore 994 41.5 -1.25 100M Generator NWST	ES Onshore Generators
+ES Onshore 994 41.5 -1.25 100M Generator NWST	ES
+ES Onshore 994 41.5 -1.25 100M Generator HWST	ES Onshore Generators
+ES Onshore 994 41.5 -1.25 100M Generator HWST	ES
+ES Onshore 996 41.5 0.0 70M Generator LWST	ES Onshore Generators
+ES Onshore 996 41.5 0.0 70M Generator LWST	ES
+ES Onshore 996 41.5 0.0 70M Generator NWST	ES Onshore Generators
+ES Onshore 996 41.5 0.0 70M Generator NWST	ES
+ES Onshore 996 41.5 0.0 70M Generator HWST	ES Onshore Generators
+ES Onshore 996 41.5 0.0 70M Generator HWST	ES
+ES Onshore 996 41.5 0.0 85M Generator LWST	ES Onshore Generators
+ES Onshore 996 41.5 0.0 85M Generator LWST	ES
+ES Onshore 996 41.5 0.0 85M Generator NWST	ES Onshore Generators
+ES Onshore 996 41.5 0.0 85M Generator NWST	ES
+ES Onshore 996 41.5 0.0 85M Generator HWST	ES Onshore Generators
+ES Onshore 996 41.5 0.0 85M Generator HWST	ES
+ES Onshore 996 41.5 0.0 100M Generator LWST	ES Onshore Generators
+ES Onshore 996 41.5 0.0 100M Generator LWST	ES
+ES Onshore 996 41.5 0.0 100M Generator NWST	ES Onshore Generators
+ES Onshore 996 41.5 0.0 100M Generator NWST	ES
+ES Onshore 996 41.5 0.0 100M Generator HWST	ES Onshore Generators
+ES Onshore 996 41.5 0.0 100M Generator HWST	ES
+ES Onshore 998 41.5 1.25 70M Generator LWST	ES Onshore Generators
+ES Onshore 998 41.5 1.25 70M Generator LWST	ES
+ES Onshore 998 41.5 1.25 70M Generator NWST	ES Onshore Generators
+ES Onshore 998 41.5 1.25 70M Generator NWST	ES
+ES Onshore 998 41.5 1.25 70M Generator HWST	ES Onshore Generators
+ES Onshore 998 41.5 1.25 70M Generator HWST	ES
+ES Onshore 998 41.5 1.25 85M Generator LWST	ES Onshore Generators
+ES Onshore 998 41.5 1.25 85M Generator LWST	ES
+ES Onshore 998 41.5 1.25 85M Generator NWST	ES Onshore Generators
+ES Onshore 998 41.5 1.25 85M Generator NWST	ES
+ES Onshore 998 41.5 1.25 85M Generator HWST	ES Onshore Generators
+ES Onshore 998 41.5 1.25 85M Generator HWST	ES
+ES Onshore 998 41.5 1.25 100M Generator LWST	ES Onshore Generators
+ES Onshore 998 41.5 1.25 100M Generator LWST	ES
+ES Onshore 998 41.5 1.25 100M Generator NWST	ES Onshore Generators
+ES Onshore 998 41.5 1.25 100M Generator NWST	ES
+ES Onshore 998 41.5 1.25 100M Generator HWST	ES Onshore Generators
+ES Onshore 998 41.5 1.25 100M Generator HWST	ES
+ca_db_wind	ES Onshore 1071 42.0 -8.75 TS
+ca_db_wind	ES Onshore 1076 42.0 -5.625 TS
+ca_db_wind	ES Onshore 1081 42.0 -2.5 TS
+ca_db_wind	ES Onshore 1082 42.0 -1.875 TS
+ca_db_wind	ES Onshore 1084 42.0 -0.625 TS
+ca_db_wind	ES Onshore 1086 42.0 0.625 TS
+ca_db_wind	ES Onshore 1088 42.0 1.875 TS
+ca_db_wind	ES Onshore 1089 42.0 2.5 TS
+ca_db_wind	ES Onshore 1090 42.0 3.125 TS
+ca_db_wind	ES Onshore 1165 42.5 -5.625 TS
+ca_db_wind	ES Onshore 1168 42.5 -3.75 TS
+ca_db_wind	ES Onshore 1173 42.5 -0.625 TS
+ca_db_wind	ES Onshore 1176 42.5 1.25 TS
+ca_db_wind	ES Onshore 1250 43.0 -8.125 TS
+ca_db_wind	ES Onshore 1252 43.0 -6.875 TS
+ca_db_wind	ES Onshore 1253 43.0 -6.25 TS
+ca_db_wind	ES Onshore 1258 43.0 -3.125 TS
+ca_db_wind	ES Onshore 1261 43.0 -1.25 TS
+ca_db_wind	ES Onshore 1340 43.5 -7.5 TS
+ca_db_wind	ES Onshore 1343 43.5 -5.625 TS
+ca_db_wind	ES Onshore 187 37.0 -5.0 TS
+ca_db_wind	ES Onshore 190 37.0 -3.125 TS
+ca_db_wind	ES Onshore 191 37.0 -2.5 TS
+ca_db_wind	ES Onshore 363 38.0 -6.25 TS
+ca_db_wind	ES Onshore 365 38.0 -5.0 TS
+ca_db_wind	ES Onshore 368 38.0 -3.125 TS
+ca_db_wind	ES Onshore 370 38.0 -1.875 TS
+ca_db_wind	ES Onshore 371 38.0 -1.25 TS
+ca_db_wind	ES Onshore 457 38.5 -3.125 TS
+ca_db_wind	ES Onshore 458 38.5 -2.5 TS
+ca_db_wind	ES Onshore 540 39.0 -6.875 TS
+ca_db_wind	ES Onshore 542 39.0 -5.625 TS
+ca_db_wind	ES Onshore 547 39.0 -2.5 TS
+ca_db_wind	ES Onshore 549 39.0 -1.25 TS
+ca_db_wind	ES Onshore 633 39.5 -4.375 TS
+ca_db_wind	ES Onshore 637 39.5 -1.875 TS
+ca_db_wind	ES Onshore 645 39.5 3.125 TS
+ca_db_wind	ES Onshore 723 40.0 -3.75 TS
+ca_db_wind	ES Onshore 726 40.0 -1.875 TS
+ca_db_wind	ES Onshore 728 40.0 -0.625 TS
+ca_db_wind	ES Onshore 808 40.5 -6.25 TS
+ca_db_wind	ES Onshore 810 40.5 -5.0 TS
+ca_db_wind	ES Onshore 812 40.5 -3.75 TS
+ca_db_wind	ES Onshore 814 40.5 -2.5 TS
+ca_db_wind	ES Onshore 817 40.5 -0.625 TS
+ca_db_wind	ES Onshore 896 41.0 -6.875 TS
+ca_db_wind	ES Onshore 899 41.0 -5.0 TS
+ca_db_wind	ES Onshore 906 41.0 -0.625 TS
+ca_db_wind	ES Onshore 908 41.0 0.625 TS
+ca_db_wind	ES Onshore 98 36.5 -5.0 TS
+ca_db_wind	ES Onshore 991 41.5 -3.125 TS
+ca_db_wind	ES Onshore 994 41.5 -1.25 TS
+ca_db_wind	ES Onshore 996 41.5 0.0 TS
+ca_db_wind	ES Onshore 998 41.5 1.25 TS

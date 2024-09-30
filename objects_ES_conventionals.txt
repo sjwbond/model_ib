@@ -1,0 +1,157 @@
+Object_Name	Object_Type
+ES Coal 1990	Generator
+ES Coal 1995	Generator
+ES Coal 2000	Generator
+ES Coal 2005	Generator
+ES Coal 2010	Generator
+ES Coal 2015	Generator
+ES Coal 2020	Generator
+ES Coal 2025	Generator
+ES Coal 2030	Generator
+ES Coal 2035	Generator
+ES Coal 2040	Generator
+ES Coal 2045	Generator
+ES Coal 2050	Generator
+ES Coal 2055	Generator
+ES Coal 2060	Generator
+ES Coal 2065	Generator
+ES CCGT 1990	Generator
+ES CCGT 1995	Generator
+ES CCGT 2000	Generator
+ES CCGT 2005	Generator
+ES CCGT 2010	Generator
+ES CCGT 2015	Generator
+ES CCGT 2020	Generator
+ES CCGT 2025	Generator
+ES CCGT 2030	Generator
+ES CCGT 2031	Generator
+ES CCGT 2032	Generator
+ES CCGT 2033	Generator
+ES CCGT 2034	Generator
+ES CCGT 2035	Generator
+ES CCGT 2036	Generator
+ES CCGT 2037	Generator
+ES CCGT 2038	Generator
+ES CCGT 2039	Generator
+ES CCGT 2040	Generator
+ES CCGT 2045	Generator
+ES CCGT 2050	Generator
+ES CCGT 2055	Generator
+ES CCGT 2060	Generator
+ES CCGT 2065	Generator
+ES OCGT 1990	Generator
+ES OCGT 1995	Generator
+ES OCGT 2000	Generator
+ES OCGT 2005	Generator
+ES OCGT 2010	Generator
+ES OCGT 2015	Generator
+ES OCGT 2020	Generator
+ES OCGT 2025	Generator
+ES OCGT 2030	Generator
+ES OCGT 2035	Generator
+ES OCGT 2040	Generator
+ES OCGT 2045	Generator
+ES OCGT 2050	Generator
+ES OCGT 2055	Generator
+ES OCGT 2060	Generator
+ES OCGT 2065	Generator
+ES Biomass 1990	Generator
+ES Biomass 1995	Generator
+ES Biomass 2000	Generator
+ES Biomass 2005	Generator
+ES Biomass 2010	Generator
+ES Biomass 2015	Generator
+ES Biomass 2020	Generator
+ES Biomass 2025	Generator
+ES Biomass 2030	Generator
+ES Biomass 2035	Generator
+ES Biomass 2040	Generator
+ES Biomass 2045	Generator
+ES Biomass 2050	Generator
+ES Biomass 2055	Generator
+ES Biomass 2060	Generator
+ES Biomass 2065	Generator
+ES Lignite 1990	Generator
+ES Lignite 1995	Generator
+ES Lignite 2000	Generator
+ES Lignite 2005	Generator
+ES Lignite 2010	Generator
+ES Lignite 2015	Generator
+ES Lignite 2020	Generator
+ES Lignite 2025	Generator
+ES Lignite 2030	Generator
+ES Lignite 2035	Generator
+ES Lignite 2040	Generator
+ES Lignite 2045	Generator
+ES Lignite 2050	Generator
+ES Lignite 2055	Generator
+ES Lignite 2060	Generator
+ES Lignite 2065	Generator
+ES Nuclear 1990	Generator
+ES Nuclear 1995	Generator
+ES Nuclear 2000	Generator
+ES Nuclear 2005	Generator
+ES Nuclear 2010	Generator
+ES Nuclear 2015	Generator
+ES Nuclear 2020	Generator
+ES CHP 1990	Generator
+ES CHP 1995	Generator
+ES CHP 2000	Generator
+ES CHP 2005	Generator
+ES CHP 2010	Generator
+ES CHP 2015	Generator
+ES CHP 2020	Generator
+ES CHP 2025	Generator
+ES CHP 2030	Generator
+ES CHP 2035	Generator
+ES CHP 2040	Generator
+ES CHP 2045	Generator
+ES CHP 2050	Generator
+ES CHP 2055	Generator
+ES CHP 2060	Generator
+ES CHP 2065	Generator
+ES Liquid 1990	Generator
+ES Liquid 1995	Generator
+ES Liquid 2000	Generator
+ES Liquid 2005	Generator
+ES Liquid 2010	Generator
+ES Liquid 2015	Generator
+ES Liquid 2020	Generator
+ES Liquid 2025	Generator
+ES Liquid 2030	Generator
+ES Liquid 2035	Generator
+ES Liquid 2040	Generator
+ES Liquid 2045	Generator
+ES Liquid 2050	Generator
+ES Liquid 2055	Generator
+ES Liquid 2060	Generator
+ES Liquid 2065	Generator
+ES Almaraz NPP I	Generator
+ES Almaraz NPP II	Generator
+ES Asco Unit I	Generator
+ES Asco Unit II	Generator
+ES Cofrentes NPP	Generator
+ES Trillo NPP	Generator
+ES Vandellos Unit II	Generator
+ES Endesa Termic I	Generator
+ES Endesa Termic II	Generator
+ES Endesa Termic III	Generator
+ES Teruel Power Plant I	Generator
+ES Teruel Power Plant II	Generator
+ES Compostilla II Power Station I	Generator
+ES Compostilla II Power Station II	Generator
+ES Compostilla II Power Station III	Generator
+ES Los Barrios Power Plant	Generator
+ES Central termica Litoral de Almeria I	Generator
+ES Central termica Litoral de Almeria II	Generator
+ES Central Termica Sant Adria de Besos I	Generator
+ES Central Termica Sant Adria de Besos II	Generator
+ES Central termica de Morvedre I	Generator
+ES Central termica de Morvedre II	Generator
+ES Central termica de Morvedre III	Generator
+ES Barcelona power station I	Generator
+ES Barcelona power station II	Generator
+ES Besos power station I	Generator
+ES Besos power station II	Generator
+ES Besos V power station I	Generator
+ES Besos V power station II	Generator

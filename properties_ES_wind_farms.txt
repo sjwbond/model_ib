@@ -1,0 +1,295 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+ES RWE Siglos			Capacity	2007-01-01	2037-01-01	20							
+ES RWE Siglos			Variable Cost	2010-01-01	2100-01-01	1.981							
+ES RWE Siglos			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Siglos			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Siglos			Bid Up Price	2007-01-01	2027-01-01	-15							
+ES RWE Siglos			Bid Up Price	2027-01-01	2100-01-01	0							
+ES RWE Siglos			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 190 37.0 -3.125 Base Wind Speed	NWST Wind Power Curve	Lookup					
+ES RWE Bancal			Capacity	2007-01-01	2037-01-01	20							
+ES RWE Bancal			Variable Cost	2010-01-01	2100-01-01	1.801							
+ES RWE Bancal			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Bancal			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Bancal			Bid Up Price	2007-01-01	2027-01-01	-15							
+ES RWE Bancal			Bid Up Price	2027-01-01	2100-01-01	0							
+ES RWE Bancal			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 190 37.0 -3.125 Base Wind Speed	NWST Wind Power Curve	Lookup					
+ES RWE Lanternoso			Capacity	2005-01-01	2035-01-01	24							
+ES RWE Lanternoso			Variable Cost	2010-01-01	2100-01-01	1.848							
+ES RWE Lanternoso			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Lanternoso			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Lanternoso			Bid Up Price	2005-01-01	2025-01-01	-15							
+ES RWE Lanternoso			Bid Up Price	2025-01-01	2100-01-01	0							
+ES RWE Lanternoso			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 547 39.0 -2.5 Base Wind Speed	NWST Wind Power Curve	Lookup					
+ES RWE Urano			Capacity	2004-01-01	2034-01-01	30.4							
+ES RWE Urano			Variable Cost	2010-01-01	2100-01-01	2.078							
+ES RWE Urano			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Urano			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Urano			Bid Up Price	2004-01-01	2024-01-01	-15							
+ES RWE Urano			Bid Up Price	2024-01-01	2100-01-01	0							
+ES RWE Urano			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 55M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Aldehuelas			Capacity	2005-01-01	2035-01-01	47.2							
+ES RWE Aldehuelas			Variable Cost	2010-01-01	2100-01-01	2.461							
+ES RWE Aldehuelas			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Aldehuelas			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Aldehuelas			Bid Up Price	2005-01-01	2025-01-01	-15							
+ES RWE Aldehuelas			Bid Up Price	2025-01-01	2100-01-01	0							
+ES RWE Aldehuelas			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 55M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Juno			Capacity	2004-01-01	2034-01-01	49.5							
+ES RWE Juno			Variable Cost	2010-01-01	2100-01-01	2.026							
+ES RWE Juno			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Juno			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Juno			Bid Up Price	2004-01-01	2024-01-01	-15							
+ES RWE Juno			Bid Up Price	2024-01-01	2100-01-01	0							
+ES RWE Juno			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 65M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Luna			Capacity	2004-01-01	2034-01-01	49.5							
+ES RWE Luna			Variable Cost	2010-01-01	2100-01-01	2.384							
+ES RWE Luna			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Luna			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Luna			Bid Up Price	2004-01-01	2024-01-01	-15							
+ES RWE Luna			Bid Up Price	2024-01-01	2100-01-01	0							
+ES RWE Luna			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 65M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Grisel			Capacity	2001-01-01	2031-01-01	13.5							
+ES RWE Grisel			Variable Cost	2010-01-01	2100-01-01	1.502							
+ES RWE Grisel			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Grisel			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Grisel			Bid Up Price	2001-01-01	2021-01-01	-15							
+ES RWE Grisel			Bid Up Price	2021-01-01	2100-01-01	0							
+ES RWE Grisel			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 60M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Muel			Capacity	1998-01-01	2028-01-01	16.2							
+ES RWE Muel			Variable Cost	2010-01-01	2100-01-01	2.149							
+ES RWE Muel			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Muel			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Muel			Bid Up Price	1998-01-01	2018-01-01	-15							
+ES RWE Muel			Bid Up Price	2018-01-01	2100-01-01	0							
+ES RWE Muel			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 817 40.5 -0.625 60M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Rio Gallego			Capacity	2003-01-01	2033-01-01	38.7							
+ES RWE Rio Gallego			Variable Cost	2010-01-01	2100-01-01	1.797							
+ES RWE Rio Gallego			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Rio Gallego			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Rio Gallego			Bid Up Price	2003-01-01	2023-01-01	-15							
+ES RWE Rio Gallego			Bid Up Price	2023-01-01	2100-01-01	0							
+ES RWE Rio Gallego			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1261 43.0 -1.25 70M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Acampo Armijo			Capacity	2002-01-01	2032-01-01	18							
+ES RWE Acampo Armijo			Variable Cost	2010-01-01	2100-01-01	1.844							
+ES RWE Acampo Armijo			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Acampo Armijo			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Acampo Armijo			Bid Up Price	2002-01-01	2022-01-01	-15							
+ES RWE Acampo Armijo			Bid Up Price	2022-01-01	2100-01-01	0							
+ES RWE Acampo Armijo			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 817 40.5 -0.625 60M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Plana de la Balsa			Capacity	2002-01-01	2032-01-01	24							
+ES RWE Plana de la Balsa			Variable Cost	2010-01-01	2100-01-01	1.971							
+ES RWE Plana de la Balsa			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Plana de la Balsa			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Plana de la Balsa			Bid Up Price	2002-01-01	2022-01-01	-15							
+ES RWE Plana de la Balsa			Bid Up Price	2022-01-01	2100-01-01	0							
+ES RWE Plana de la Balsa			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 817 40.5 -0.625 60M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Los Labrados			Capacity	2002-01-01	2032-01-01	24							
+ES RWE Los Labrados			Variable Cost	2010-01-01	2100-01-01	1.605							
+ES RWE Los Labrados			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Los Labrados			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Los Labrados			Bid Up Price	2002-01-01	2022-01-01	-15							
+ES RWE Los Labrados			Bid Up Price	2022-01-01	2100-01-01	0							
+ES RWE Los Labrados			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 817 40.5 -0.625 60M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Plana de Zaragoza			Capacity	2002-01-01	2032-01-01	24							
+ES RWE Plana de Zaragoza			Variable Cost	2010-01-01	2100-01-01	1.662							
+ES RWE Plana de Zaragoza			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Plana de Zaragoza			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Plana de Zaragoza			Bid Up Price	2002-01-01	2022-01-01	-15							
+ES RWE Plana de Zaragoza			Bid Up Price	2022-01-01	2100-01-01	0							
+ES RWE Plana de Zaragoza			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 817 40.5 -0.625 60M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Plana de Maria			Capacity	2002-01-01	2032-01-01	24							
+ES RWE Plana de Maria			Variable Cost	2010-01-01	2100-01-01	1.554							
+ES RWE Plana de Maria			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Plana de Maria			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Plana de Maria			Bid Up Price	2002-01-01	2022-01-01	-15							
+ES RWE Plana de Maria			Bid Up Price	2022-01-01	2100-01-01	0							
+ES RWE Plana de Maria			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 817 40.5 -0.625 60M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Bosque Alto			Capacity	2002-01-01	2032-01-01	21.75							
+ES RWE Bosque Alto			Variable Cost	2010-01-01	2100-01-01	1.5							
+ES RWE Bosque Alto			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Bosque Alto			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Bosque Alto			Bid Up Price	2002-01-01	2022-01-01	-15							
+ES RWE Bosque Alto			Bid Up Price	2022-01-01	2100-01-01	0							
+ES RWE Bosque Alto			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 817 40.5 -0.625 60M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Ascoy I			Capacity	1998-01-01	2028-01-01	5.94							
+ES RWE Ascoy I			Variable Cost	2010-01-01	2100-01-01	1.902							
+ES RWE Ascoy I			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Ascoy I			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Ascoy I			Bid Up Price	1998-01-01	2018-01-01	-15							
+ES RWE Ascoy I			Bid Up Price	2018-01-01	2100-01-01	0							
+ES RWE Ascoy I			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 370 38.0 -1.875 45M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Ascoy II			Capacity	2003-01-01	2033-01-01	1.7							
+ES RWE Ascoy II			Variable Cost	2010-01-01	2100-01-01	2.184							
+ES RWE Ascoy II			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Ascoy II			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Ascoy II			Bid Up Price	2003-01-01	2023-01-01	-15							
+ES RWE Ascoy II			Bid Up Price	2023-01-01	2100-01-01	0							
+ES RWE Ascoy II			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 370 38.0 -1.875 45M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Boqueron I			Capacity	2003-01-01	2033-01-01	21.78							
+ES RWE Boqueron I			Variable Cost	2010-01-01	2100-01-01	1.723							
+ES RWE Boqueron I			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Boqueron I			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Boqueron I			Bid Up Price	2003-01-01	2023-01-01	-15							
+ES RWE Boqueron I			Bid Up Price	2023-01-01	2100-01-01	0							
+ES RWE Boqueron I			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 45M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Boqueron II			Capacity	2003-01-01	2033-01-01	14.52							
+ES RWE Boqueron II			Variable Cost	2010-01-01	2100-01-01	2.336							
+ES RWE Boqueron II			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Boqueron II			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Boqueron II			Bid Up Price	2003-01-01	2023-01-01	-15							
+ES RWE Boqueron II			Bid Up Price	2023-01-01	2100-01-01	0							
+ES RWE Boqueron II			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 45M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Boqueron III			Capacity	2003-01-01	2033-01-01	13.2							
+ES RWE Boqueron III			Variable Cost	2010-01-01	2100-01-01	1.778							
+ES RWE Boqueron III			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Boqueron III			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Boqueron III			Bid Up Price	2003-01-01	2023-01-01	-15							
+ES RWE Boqueron III			Bid Up Price	2023-01-01	2100-01-01	0							
+ES RWE Boqueron III			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 45M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Borja I			Capacity	1997-01-01	2027-01-01	16.2							
+ES RWE Borja I			Variable Cost	2010-01-01	2100-01-01	1.581							
+ES RWE Borja I			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Borja I			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Borja I			Bid Up Price	1997-01-01	2017-01-01	-15							
+ES RWE Borja I			Bid Up Price	2017-01-01	2100-01-01	0							
+ES RWE Borja I			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 45M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Borja II			Capacity	2001-01-01	2031-01-01	7.26							
+ES RWE Borja II			Variable Cost	2010-01-01	2100-01-01	1.59							
+ES RWE Borja II			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Borja II			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Borja II			Bid Up Price	2001-01-01	2021-01-01	-15							
+ES RWE Borja II			Bid Up Price	2021-01-01	2100-01-01	0							
+ES RWE Borja II			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 55M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Borja III			Capacity	2001-01-01	2031-01-01	14.25							
+ES RWE Borja III			Variable Cost	2010-01-01	2100-01-01	2.316							
+ES RWE Borja III			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Borja III			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Borja III			Bid Up Price	2001-01-01	2021-01-01	-15							
+ES RWE Borja III			Bid Up Price	2021-01-01	2100-01-01	0							
+ES RWE Borja III			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 55M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Carcelen			Capacity	2004-01-01	2034-01-01	49.6							
+ES RWE Carcelen			Variable Cost	2010-01-01	2100-01-01	2.01							
+ES RWE Carcelen			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Carcelen			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Carcelen			Bid Up Price	2004-01-01	2024-01-01	-15							
+ES RWE Carcelen			Bid Up Price	2024-01-01	2100-01-01	0							
+ES RWE Carcelen			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 458 38.5 -2.5 50M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Hiperion II			Capacity	2011-01-01	2041-01-01	50							
+ES RWE Hiperion II			Variable Cost	2010-01-01	2100-01-01	2.248							
+ES RWE Hiperion II			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Hiperion II			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Hiperion II			Bid Up Price	2011-01-01	2031-01-01	-15							
+ES RWE Hiperion II			Bid Up Price	2031-01-01	2100-01-01	0							
+ES RWE Hiperion II			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 85M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE La Victoria			Capacity	2011-01-01	2041-01-01	24							
+ES RWE La Victoria			Variable Cost	2010-01-01	2100-01-01	1.799							
+ES RWE La Victoria			Save Data	2010-01-01	2100-01-01	1							
+ES RWE La Victoria			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE La Victoria			Bid Up Price	2011-01-01	2031-01-01	-15							
+ES RWE La Victoria			Bid Up Price	2031-01-01	2100-01-01	0							
+ES RWE La Victoria			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 190 37.0 -3.125 80M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Mallen			Capacity	2006-01-01	2036-01-01	30							
+ES RWE Mallen			Variable Cost	2010-01-01	2100-01-01	1.906							
+ES RWE Mallen			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Mallen			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Mallen			Bid Up Price	2006-01-01	2026-01-01	-15							
+ES RWE Mallen			Bid Up Price	2026-01-01	2100-01-01	0							
+ES RWE Mallen			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 80M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Matabuey			Capacity	2011-01-01	2041-01-01	14.4							
+ES RWE Matabuey			Variable Cost	2010-01-01	2100-01-01	2.293							
+ES RWE Matabuey			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Matabuey			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Matabuey			Bid Up Price	2011-01-01	2031-01-01	-15							
+ES RWE Matabuey			Bid Up Price	2031-01-01	2100-01-01	0							
+ES RWE Matabuey			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 899 41.0 -5.0 80M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Mingorrubio I			Capacity	2009-01-01	2039-01-01	14							
+ES RWE Mingorrubio I			Variable Cost	2010-01-01	2100-01-01	1.612							
+ES RWE Mingorrubio I			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Mingorrubio I			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Mingorrubio I			Bid Up Price	2009-01-01	2029-01-01	-15							
+ES RWE Mingorrubio I			Bid Up Price	2029-01-01	2100-01-01	0							
+ES RWE Mingorrubio I			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 458 38.5 -2.5 80M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Mingorrubio II			Capacity	2008-01-01	2038-01-01	12							
+ES RWE Mingorrubio II			Variable Cost	2010-01-01	2100-01-01	1.835							
+ES RWE Mingorrubio II			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Mingorrubio II			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Mingorrubio II			Bid Up Price	2008-01-01	2028-01-01	-15							
+ES RWE Mingorrubio II			Bid Up Price	2028-01-01	2100-01-01	0							
+ES RWE Mingorrubio II			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 458 38.5 -2.5 80M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Paramo de Poza I			Capacity	2002-01-01	2032-01-01	49.5							
+ES RWE Paramo de Poza I			Variable Cost	2010-01-01	2100-01-01	1.856							
+ES RWE Paramo de Poza I			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Paramo de Poza I			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Paramo de Poza I			Bid Up Price	2002-01-01	2022-01-01	-15							
+ES RWE Paramo de Poza I			Bid Up Price	2022-01-01	2100-01-01	0							
+ES RWE Paramo de Poza I			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1258 43.0 -3.125 55M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Paramo de Poza II			Capacity	2002-01-01	2032-01-01	50.25							
+ES RWE Paramo de Poza II			Variable Cost	2010-01-01	2100-01-01	2.438							
+ES RWE Paramo de Poza II			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Paramo de Poza II			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Paramo de Poza II			Bid Up Price	2002-01-01	2022-01-01	-15							
+ES RWE Paramo de Poza II			Bid Up Price	2022-01-01	2100-01-01	0							
+ES RWE Paramo de Poza II			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1258 43.0 -3.125 55M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Paxareiras I			Capacity	1998-01-01	2028-01-01	20.4							
+ES RWE Paxareiras I			Variable Cost	2010-01-01	2100-01-01	1.848							
+ES RWE Paxareiras I			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Paxareiras I			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Paxareiras I			Bid Up Price	1998-01-01	2018-01-01	-15							
+ES RWE Paxareiras I			Bid Up Price	2018-01-01	2100-01-01	0							
+ES RWE Paxareiras I			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1250 43.0 -8.125 35M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Paxareiras II			Capacity	1998-01-01	2028-01-01	19.2							
+ES RWE Paxareiras II			Variable Cost	2010-01-01	2100-01-01	1.972							
+ES RWE Paxareiras II			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Paxareiras II			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Paxareiras II			Bid Up Price	1998-01-01	2018-01-01	-15							
+ES RWE Paxareiras II			Bid Up Price	2018-01-01	2100-01-01	0							
+ES RWE Paxareiras II			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1250 43.0 -8.125 35M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Pico Gallo			Capacity	2001-01-01	2031-01-01	24.42							
+ES RWE Pico Gallo			Variable Cost	2010-01-01	2100-01-01	2.245							
+ES RWE Pico Gallo			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Pico Gallo			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Pico Gallo			Bid Up Price	2001-01-01	2021-01-01	-15							
+ES RWE Pico Gallo			Bid Up Price	2021-01-01	2100-01-01	0							
+ES RWE Pico Gallo			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1252 43.0 -6.875 45M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Planas de Pola			Capacity	1999-01-01	2029-01-01	35.64							
+ES RWE Planas de Pola			Variable Cost	2010-01-01	2100-01-01	1.892							
+ES RWE Planas de Pola			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Planas de Pola			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Planas de Pola			Bid Up Price	1999-01-01	2019-01-01	-15							
+ES RWE Planas de Pola			Bid Up Price	2019-01-01	2100-01-01	0							
+ES RWE Planas de Pola			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 45M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Puntaza de Remolinos I			Capacity	1997-01-01	2027-01-01	9							
+ES RWE Puntaza de Remolinos I			Variable Cost	2010-01-01	2100-01-01	1.592							
+ES RWE Puntaza de Remolinos I			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Puntaza de Remolinos I			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Puntaza de Remolinos I			Bid Up Price	1997-01-01	2017-01-01	-15							
+ES RWE Puntaza de Remolinos I			Bid Up Price	2017-01-01	2100-01-01	0							
+ES RWE Puntaza de Remolinos I			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 45M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Puntaza de Remolinos II			Capacity	1997-01-01	2027-01-01	1.98							
+ES RWE Puntaza de Remolinos II			Variable Cost	2010-01-01	2100-01-01	2.312							
+ES RWE Puntaza de Remolinos II			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Puntaza de Remolinos II			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Puntaza de Remolinos II			Bid Up Price	1997-01-01	2017-01-01	-15							
+ES RWE Puntaza de Remolinos II			Bid Up Price	2017-01-01	2100-01-01	0							
+ES RWE Puntaza de Remolinos II			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 45M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE San Juan de Bargas I			Capacity	2005-01-01	2035-01-01	4.8							
+ES RWE San Juan de Bargas I			Variable Cost	2010-01-01	2100-01-01	2.003							
+ES RWE San Juan de Bargas I			Save Data	2010-01-01	2100-01-01	1							
+ES RWE San Juan de Bargas I			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE San Juan de Bargas I			Bid Up Price	2005-01-01	2025-01-01	-15							
+ES RWE San Juan de Bargas I			Bid Up Price	2025-01-01	2100-01-01	0							
+ES RWE San Juan de Bargas I			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 50M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE San Juan de Bargas II			Capacity	2005-01-01	2035-01-01	40							
+ES RWE San Juan de Bargas II			Variable Cost	2010-01-01	2100-01-01	2.331							
+ES RWE San Juan de Bargas II			Save Data	2010-01-01	2100-01-01	1							
+ES RWE San Juan de Bargas II			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE San Juan de Bargas II			Bid Up Price	2005-01-01	2025-01-01	-15							
+ES RWE San Juan de Bargas II			Bid Up Price	2025-01-01	2100-01-01	0							
+ES RWE San Juan de Bargas II			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1082 42.0 -1.875 50M Windspeed	NWST Wind Power Curve	Lookup					
+ES RWE Sierra de Tineo			Capacity	2009-01-01	2039-01-01	44							
+ES RWE Sierra de Tineo			Variable Cost	2010-01-01	2100-01-01	2.061							
+ES RWE Sierra de Tineo			Save Data	2010-01-01	2100-01-01	1							
+ES RWE Sierra de Tineo			Save Blocks	2010-01-01	2100-01-01	0							
+ES RWE Sierra de Tineo			Bid Up Price	2009-01-01	2029-01-01	-15							
+ES RWE Sierra de Tineo			Bid Up Price	2029-01-01	2100-01-01	0							
+ES RWE Sierra de Tineo			Capacity Rating Factor	2010-01-01	2100-01-01	ES Onshore 1252 43.0 -6.875 80M Windspeed	NWST Wind Power Curve	Lookup					

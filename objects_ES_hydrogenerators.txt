@@ -1,0 +1,18 @@
+Object_Name	Object_Type
+ES ES_PP_ALDEADAVILA II	Hydro_Generator
+ES ES_PP_CONSO	Hydro_Generator
+ES ES_PP_GABRIEL Y GALAN	Hydro_Generator
+ES ES_PP_GUIJO DE GRANADILLA	Hydro_Generator
+ES ES_PP_IP	Hydro_Generator
+ES ES_PP_MONTAMARA	Hydro_Generator
+ES ES_PP_PUENTE BIBEY	Hydro_Generator
+ES ES_PP_Reservoir_Duero	Hydro_Generator
+ES ES_PP_Reservoir_Ebro	Hydro_Generator
+ES ES_PP_Reservoir_GuadalquivirSur	Hydro_Generator
+ES ES_PP_Reservoir_Guadiana	Hydro_Generator
+ES ES_PP_Reservoir_Norte	Hydro_Generator
+ES ES_PP_Reservoir_TajoJucarSegura	Hydro_Generator
+ES ES_PP_SOUTELO	Hydro_Generator
+ES ES_PP_TANES	Hydro_Generator
+ES ES_PP_TORREJON	Hydro_Generator
+ES ES_PP_VILLARINO	Hydro_Generator

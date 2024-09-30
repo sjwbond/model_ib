@@ -1,0 +1,22 @@
+Object_Name	Object_Type
+ES Demand EV_Precon DIY File	DataSource
+ES Demand EV_Precon DIY	Variable
+ES Demand EV_Precon DOW File	DataSource
+ES Demand EV_Precon DOW	Variable
+ES Demand EV_Precon HOD File	DataSource
+ES Demand EV_Precon HOD	Variable
+ES Demand EV_Charge DIY File	DataSource
+ES Demand EV_Charge DIY	Variable
+ES Demand EV_Charge DOW File	DataSource
+ES Demand EV_Charge DOW	Variable
+ES Demand EV_Charge HOD File	DataSource
+ES Demand EV_Charge HOD	Variable
+ES_EV_KM	Variable
+ES_EV_W_KM	Variable
+ES_EV_Count	Variable
+ES_EV_KM File	DataSource
+ES_EV_W_KM File	DataSource
+ES_EV_Count File	DataSource
+ES_EV_Precondition_Ratio	Variable
+ES_EV_Precondition_KW	Variable
+ES_EV_Precondition_Hours	Variable

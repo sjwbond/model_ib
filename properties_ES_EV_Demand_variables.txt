@@ -1,0 +1,17 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+ES_EV_KM			Value	2010-01-01	2100-01-01	EV_KM File	ES_EV_Count	Multiply					
+ES_EV_W_KM			Value	2010-01-01	2100-01-01	EV_W_KM File	ES_EV_KM	Multiply					
+ES_EV_Count			Value	2010-01-01	2100-01-01	EV_Numbers File		Multiply					
+ES Demand EV_Charge DIY			Value	2010-01-01	2100-01-01	ES Demand EV_Charge DIY File	ES Demand EV_Charge DOW	Multiply					
+ES Demand EV_Charge DOW			Value	2010-01-01	2100-01-01	ES Demand EV_Charge DOW File	ES Demand EV_Charge HOD	Multiply					
+ES Demand EV_Charge HOD			Value	2010-01-01	2100-01-01	ES Demand EV_Charge HOD File	ES_EV_W_KM	Multiply					
+ES Demand			Bid Volume	2010-01-01	2100-01-01	ES Demand EV_Charge DIY	8760000000	Divide			1000	1000	
+ES Demand			Bid Price	2010-01-01	2100-01-01	100000					1000	1000	
+ES Demand EV_Precon DIY			Value	2010-01-01	2100-01-01	ES Demand EV_Precon DIY File	ES_EV_Count	Multiply					
+ES Demand EV_Precon DOW			Value	2010-01-01	2100-01-01	ES Demand EV_Precon DOW File	ES Demand EV_Precon DIY	Multiply					
+ES Demand EV_Precon HOD			Value	2010-01-01	2100-01-01	ES Demand EV_Precon HOD File	ES Demand EV_Precon DOW	Multiply					
+ES Demand			Bid Volume	2010-01-01	2100-01-01	ES_EV_Precondition_KW	24000	Divide			1001	1001	
+ES Demand			Bid Price	2010-01-01	2100-01-01	100000					1001	1001	
+ES_EV_Precondition_Ratio			Value	2010-01-01	2100-01-01	0.5	ES Demand EV_Precon HOD	Multiply					
+ES_EV_Precondition_KW			Value	2010-01-01	2100-01-01	4	ES_EV_Precondition_Hours	Multiply					
+ES_EV_Precondition_Hours			Value	2010-01-01	2100-01-01	0.25	ES_EV_Precondition_Ratio	Multiply					

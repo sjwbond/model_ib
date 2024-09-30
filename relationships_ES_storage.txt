@@ -1,0 +1,19 @@
+Object_Name	Parent_Object
+ES Batteries 1h Dummy	ES
+ES Batteries 1h Dummy	ES Batteries
+ES Batteries 1h	ES
+ES Batteries 1h	ES Batteries
+ES Pumped Storage	ES
+ES Pumped Storage	ES PumpedStorage Generators
+ES Batteries 2h dummy	ES
+ES Batteries 2h dummy	ES Batteries
+ES Batteries 2h	ES
+ES Batteries 2h	ES Batteries
+ES Batteries 4h dummy	ES
+ES Batteries 4h dummy	ES Batteries
+ES Batteries 4h	ES
+ES Batteries 4h	ES Batteries
+ES Batteries 6h dummy	ES
+ES Batteries 6h dummy	ES Batteries
+ES Batteries 6h	ES
+ES Batteries 6h	ES Batteries

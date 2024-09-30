@@ -1,0 +1,10 @@
+Object_Name	Object_Type
+ES North ROR Generator	Generator
+ES North ROR Capacity Factor	Variable
+ES North ROR File	DataSource
+ES Middle ROR Generator	Generator
+ES Middle ROR Capacity Factor	Variable
+ES Middle ROR File	DataSource
+ES South ROR Generator	Generator
+ES South ROR Capacity Factor	Variable
+ES South ROR File	DataSource

@@ -1,0 +1,9 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+ES Onshore 1171 42.5 -1.875 130M Generator HWST CRF			Value	2010-01-01	2100-01-01	ES Onshore 1171 42.5 -1.875 130M Windspeed	NWST Wind Power Curve	Lookup							
+ES Onshore 1171 42.5 -1.875 130M Generator HWST CRF File			Location	2010-01-01	2100-01-01	/Variables/Profiles ROR/ES Onshore 1171 42.5 -1.875 130M Generator HWST CRF.txt							
+ES Onshore 1171 42.5 -1.875 130M Generator HWST CRF File			Location_Type	2010-01-01	2100-01-01	Relative							
+ES Onshore 1171 42.5 -1.875 130M Generator HWST CRF File			Data_Type	2010-01-01	2100-01-01	File							
+DE Normal Inflow Profile			Value	2010-01-01	2100-01-01	DE Normal Inflow Profile File							
+DE Normal Inflow Profile File			Location	2010-01-01	2100-01-01	/Variables/Profiles ROR/DE Normal Inflow Profile.txt							
+DE Normal Inflow Profile File			Location_Type	2010-01-01	2100-01-01	Relative							
+DE Normal Inflow Profile File			Data_Type	2010-01-01	2100-01-01	File							

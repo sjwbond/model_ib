@@ -1,0 +1,28 @@
+Object_Name	Object_Type
+ES Onshore Generators	Group
+ES Offshore Generators	Group
+ES RWE Onshore Generators	Group
+ES RWE Offshore Generators	Group
+ES Wind Generators	Group
+ES RWE Wind Generators	Group
+ES Solar Generators	Group
+ES RWE Solar Generators	Group
+ES RWE Renewables Generators	Group
+ES RWE Conventional Generators	Group
+ES RWE Generators	Group
+ES Gas Generators	Group
+ES Coal Generators	Group
+ES Lignite Generators	Group
+ES Nuclear Generators	Group
+ES Hard Coal Generators	Group
+ES CCGT Generators	Group
+ES RWE CCGT Generators	Group
+ES OCGT Generators	Group
+ES Biomass Generators	Group
+ES CHP Generators	Group
+ES Liquid Generators	Group
+ES ROR Generators	Group
+ES Storage Generators	Group
+ES PumpedStorage Generators	Group
+ES Batteries	Group
+ES Hydro Storage Generators	Group

@@ -1,0 +1,101 @@
+Object_Name	Parent_Object
+ES PVSAT 1073 42.0 -7.5 Generator	ES Solar Generators
+ES PVSAT 1073 42.0 -7.5 Generator	ES
+ES PVSAT 1080 42.0 -3.125 Generator	ES Solar Generators
+ES PVSAT 1080 42.0 -3.125 Generator	ES
+ES PVSAT 1088 42.0 1.875 Generator	ES Solar Generators
+ES PVSAT 1088 42.0 1.875 Generator	ES
+ES PVSAT 1165 42.5 -5.625 Generator	ES Solar Generators
+ES PVSAT 1165 42.5 -5.625 Generator	ES
+ES PVSAT 1172 42.5 -1.25 Generator	ES Solar Generators
+ES PVSAT 1172 42.5 -1.25 Generator	ES
+ES PVSAT 1176 42.5 1.25 Generator	ES Solar Generators
+ES PVSAT 1176 42.5 1.25 Generator	ES
+ES PVSAT 1250 43.0 -8.125 Generator	ES Solar Generators
+ES PVSAT 1250 43.0 -8.125 Generator	ES
+ES PVSAT 1253 43.0 -6.25 Generator	ES Solar Generators
+ES PVSAT 1253 43.0 -6.25 Generator	ES
+ES PVSAT 1258 43.0 -3.125 Generator	ES Solar Generators
+ES PVSAT 1258 43.0 -3.125 Generator	ES
+ES PVSAT 186 37.0 -5.625 Generator	ES Solar Generators
+ES PVSAT 186 37.0 -5.625 Generator	ES
+ES PVSAT 279 37.5 -3.125 Generator	ES Solar Generators
+ES PVSAT 279 37.5 -3.125 Generator	ES
+ES PVSAT 362 38.0 -6.875 Generator	ES Solar Generators
+ES PVSAT 362 38.0 -6.875 Generator	ES
+ES PVSAT 454 38.5 -5.0 Generator	ES Solar Generators
+ES PVSAT 454 38.5 -5.0 Generator	ES
+ES PVSAT 457 38.5 -3.125 Generator	ES Solar Generators
+ES PVSAT 457 38.5 -3.125 Generator	ES
+ES PVSAT 460 38.5 -1.25 Generator	ES Solar Generators
+ES PVSAT 460 38.5 -1.25 Generator	ES
+ES PVSAT 548 39.0 -1.875 Generator	ES Solar Generators
+ES PVSAT 548 39.0 -1.875 Generator	ES
+ES PVSAT 630 39.5 -6.25 Generator	ES Solar Generators
+ES PVSAT 630 39.5 -6.25 Generator	ES
+ES PVSAT 633 39.5 -4.375 Generator	ES Solar Generators
+ES PVSAT 633 39.5 -4.375 Generator	ES
+ES PVSAT 639 39.5 -0.625 Generator	ES Solar Generators
+ES PVSAT 639 39.5 -0.625 Generator	ES
+ES PVSAT 645 39.5 3.125 Generator	ES Solar Generators
+ES PVSAT 645 39.5 3.125 Generator	ES
+ES PVSAT 725 40.0 -2.5 Generator	ES Solar Generators
+ES PVSAT 725 40.0 -2.5 Generator	ES
+ES PVSAT 807 40.5 -6.875 Generator	ES Solar Generators
+ES PVSAT 807 40.5 -6.875 Generator	ES
+ES PVSAT 901 41.0 -3.75 Generator	ES Solar Generators
+ES PVSAT 901 41.0 -3.75 Generator	ES
+ES PVSAT 905 41.0 -1.25 Generator	ES Solar Generators
+ES PVSAT 905 41.0 -1.25 Generator	ES
+ES PVSAT 987 41.5 -5.625 Generator	ES Solar Generators
+ES PVSAT 987 41.5 -5.625 Generator	ES
+ca_db_pv	ES PVSAT 1073 42.0 -7.5 TS
+ca_db_pv	ES PVSAT 1073 42.0 -7.5 TS
+ca_db_pv	ES PVSAT 1080 42.0 -3.125 TS
+ca_db_pv	ES PVSAT 1080 42.0 -3.125 TS
+ca_db_pv	ES PVSAT 1088 42.0 1.875 TS
+ca_db_pv	ES PVSAT 1088 42.0 1.875 TS
+ca_db_pv	ES PVSAT 1165 42.5 -5.625 TS
+ca_db_pv	ES PVSAT 1165 42.5 -5.625 TS
+ca_db_pv	ES PVSAT 1172 42.5 -1.25 TS
+ca_db_pv	ES PVSAT 1172 42.5 -1.25 TS
+ca_db_pv	ES PVSAT 1176 42.5 1.25 TS
+ca_db_pv	ES PVSAT 1176 42.5 1.25 TS
+ca_db_pv	ES PVSAT 1250 43.0 -8.125 TS
+ca_db_pv	ES PVSAT 1250 43.0 -8.125 TS
+ca_db_pv	ES PVSAT 1253 43.0 -6.25 TS
+ca_db_pv	ES PVSAT 1253 43.0 -6.25 TS
+ca_db_pv	ES PVSAT 1258 43.0 -3.125 TS
+ca_db_pv	ES PVSAT 1258 43.0 -3.125 TS
+ca_db_pv	ES PVSAT 186 37.0 -5.625 TS
+ca_db_pv	ES PVSAT 186 37.0 -5.625 TS
+ca_db_pv	ES PVSAT 279 37.5 -3.125 TS
+ca_db_pv	ES PVSAT 279 37.5 -3.125 TS
+ca_db_pv	ES PVSAT 362 38.0 -6.875 TS
+ca_db_pv	ES PVSAT 362 38.0 -6.875 TS
+ca_db_pv	ES PVSAT 454 38.5 -5.0 TS
+ca_db_pv	ES PVSAT 454 38.5 -5.0 TS
+ca_db_pv	ES PVSAT 457 38.5 -3.125 TS
+ca_db_pv	ES PVSAT 457 38.5 -3.125 TS
+ca_db_pv	ES PVSAT 460 38.5 -1.25 TS
+ca_db_pv	ES PVSAT 460 38.5 -1.25 TS
+ca_db_pv	ES PVSAT 548 39.0 -1.875 TS
+ca_db_pv	ES PVSAT 548 39.0 -1.875 TS
+ca_db_pv	ES PVSAT 630 39.5 -6.25 TS
+ca_db_pv	ES PVSAT 630 39.5 -6.25 TS
+ca_db_pv	ES PVSAT 633 39.5 -4.375 TS
+ca_db_pv	ES PVSAT 633 39.5 -4.375 TS
+ca_db_pv	ES PVSAT 639 39.5 -0.625 TS
+ca_db_pv	ES PVSAT 639 39.5 -0.625 TS
+ca_db_pv	ES PVSAT 645 39.5 3.125 TS
+ca_db_pv	ES PVSAT 645 39.5 3.125 TS
+ca_db_pv	ES PVSAT 725 40.0 -2.5 TS
+ca_db_pv	ES PVSAT 725 40.0 -2.5 TS
+ca_db_pv	ES PVSAT 807 40.5 -6.875 TS
+ca_db_pv	ES PVSAT 807 40.5 -6.875 TS
+ca_db_pv	ES PVSAT 901 41.0 -3.75 TS
+ca_db_pv	ES PVSAT 901 41.0 -3.75 TS
+ca_db_pv	ES PVSAT 905 41.0 -1.25 TS
+ca_db_pv	ES PVSAT 905 41.0 -1.25 TS
+ca_db_pv	ES PVSAT 987 41.5 -5.625 TS
+ca_db_pv	ES PVSAT 987 41.5 -5.625 TS

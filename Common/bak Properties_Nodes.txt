@@ -1,0 +1,399 @@
+Object_Name	Parent_Object	Target_Object	Property	Date_From	Date_To	Value	Variable	Variable_Effect	Timeslice	Timeslice_Index	Group_id	Priority	Scenario
+ES-PT	ES	PT	Capacity	2010-01-01	2100-01-01	4000							
+PT-ES	PT	ES	Capacity	2010-01-01	2100-01-01	4000							
+ES CCGT Generators			Save Blocks	2010-01-01	2100-01-01	0							
+ES Hard Coal Generators			Save Blocks	2010-01-01	2100-01-01	0							
+ES Nuclear Generators			Save Blocks	2010-01-01	2100-01-01	0							
+ES Gas Generators			Save Blocks	2010-01-01	2100-01-01	0							
+PT CCGT Generators			Save Blocks	2010-01-01	2100-01-01	0							
+PT Hard Coal Generators			Save Blocks	2010-01-01	2100-01-01	0							
+PT Nuclear Generators			Save Blocks	2010-01-01	2100-01-01	0							
+PT Gas Generators			Save Blocks	2010-01-01	2100-01-01	0							
+FR CCGT Generators			Save Blocks	2010-01-01	2100-01-01	0							
+FR Hard Coal Generators			Save Blocks	2010-01-01	2100-01-01	0							
+FR Nuclear Generators			Save Blocks	2010-01-01	2100-01-01	0							
+FR Gas Generators			Save Blocks	2010-01-01	2100-01-01	0							
+FR Onshore Generators			Save Blocks	2010-01-01	2100-01-01	0							
+ES Onshore Generators			Save Blocks	2010-01-01	2100-01-01	0							
+PT Onshore Generators			Save Blocks	2010-01-01	2100-01-01	0							
+FR Solar Generators			Save Blocks	2010-01-01	2100-01-01	0							
+ES Solar Generators			Save Blocks	2010-01-01	2100-01-01	0							
+PT Solar Generators			Save Blocks	2010-01-01	2100-01-01	0							
+DE CCGT Generators			Save Blocks	2010-01-01	2100-01-01	0							
+DE Hard Coal Generators			Save Blocks	2010-01-01	2100-01-01	0							
+DE Nuclear Generators			Save Blocks	2010-01-01	2100-01-01	0							
+DE Gas Generators			Save Blocks	2010-01-01	2100-01-01	0							
+DE Onshore Generators			Save Blocks	2010-01-01	2100-01-01	0							
+DE Solar Generators			Save Blocks	2010-01-01	2100-01-01	0							
+UK CCGT Generators			Save Blocks	2010-01-01	2100-01-01	0							
+UK Hard Coal Generators			Save Blocks	2010-01-01	2100-01-01	0							
+UK Nuclear Generators			Save Blocks	2010-01-01	2100-01-01	0							
+UK Gas Generators			Save Blocks	2010-01-01	2100-01-01	0							
+UK Onshore Generators			Save Blocks	2010-01-01	2100-01-01	0							
+UK Solar Generators			Save Blocks	2010-01-01	2100-01-01	0							
+ES-PT			Line_Loss	2010-01-01	2100-01-01	0.2							
+PT-ES			Line_Loss	2010-01-01	2100-01-01	0.2							
+ES-FR	ES	FR	Capacity	2010-01-01	2100-01-01	3000	NonCoopMarket	Multiply					
+FR-ES	FR	ES	Capacity	2010-01-01	2100-01-01	4000	NonCoopMarket	Multiply					
+ES-FR			Line_Loss	2010-01-01	2100-01-01	0.03							
+FR-ES			Line_Loss	2010-01-01	2100-01-01	0.03							
+BE-FR	BE	FR	Capacity	2010-01-01	2100-01-01	3000							
+FR-BE	FR	BE	Capacity	2010-01-01	2100-01-01	3000							
+BE-FR			Line_Loss	2010-01-01	2100-01-01	0.03							
+FR-BE			Line_Loss	2010-01-01	2100-01-01	0.03							
+DEs-FR	DEs	FR	Capacity	2010-01-01	2100-01-01	7000							
+FR-DEs	FR	DEs	Capacity	2010-01-01	2100-01-01	7000							
+DE-FR			Line_Loss	2010-01-01	2100-01-01	0.03							
+FR-DEs			Line_Loss	2010-01-01	2100-01-01	0.03							
+DEn-NL	DEn	NL	Capacity	2010-01-01	2100-01-01	4500							
+NL-DEn	NL	DEn	Capacity	2010-01-01	2100-01-01	4500							
+DEn-NL			Line_Loss	2010-01-01	2100-01-01	0.03							
+NL-DEn			Line_Loss	2010-01-01	2100-01-01	0.03							
+BE-NL	BE	NL	Capacity	2010-01-01	2100-01-01	3000							
+NL-BE	NL	BE	Capacity	2010-01-01	2100-01-01	3000							
+BE-NL			Line_Loss	2010-01-01	2100-01-01	0.03							
+NL-BE			Line_Loss	2010-01-01	2100-01-01	0.03							
+UK-NL	UK	NL	Capacity	2010-01-01	2100-01-01	1500	NonCoopMarket	Multiply					
+NL-UK	NL	UK	Capacity	2010-01-01	2100-01-01	1500	NonCoopMarket	Multiply					
+UK-NL			Line_Loss	2010-01-01	2100-01-01	0.03							
+NL-UK			Line_Loss	2010-01-01	2100-01-01	0.03							
+BE-UK	BE	UK	Capacity	2010-01-01	2100-01-01	1500	NonCoopMarket	Multiply					
+UK-BE	UK	BE	Capacity	2010-01-01	2100-01-01	1500	NonCoopMarket	Multiply					
+BE-UK			Line_Loss	2010-01-01	2100-01-01	0.03							
+UK-BE			Line_Loss	2010-01-01	2100-01-01	0.03							
+FR-UK	FR	UK	Capacity	2010-01-01	2100-01-01	4000	NonCoopMarket	Multiply					
+UK-FR	UK	FR	Capacity	2010-01-01	2100-01-01	3000	NonCoopMarket	Multiply					
+FR-UK			Line_Loss	2010-01-01	2100-01-01	0.03							
+UK-FR			Line_Loss	2010-01-01	2100-01-01	0.03							
+DEs-FR	DEs	FR	Capacity	2030-01-01	2100-01-01	10000							
+FR-DEs	FR	DEs	Capacity	2030-01-01	2100-01-01	10000							
+DEs-FR	DEs	FR	Capacity	2035-01-01	2100-01-01	14000							
+FR-DEs	FR	DEs	Capacity	2035-01-01	2100-01-01	14000							
+BE-DEw	BE	DEw	Capacity	2010-01-01	2100-01-01	1500							
+DEw-BE	DEw	BE	Capacity	2010-01-01	2100-01-01	1500							
+DEs-CH	DEs	CH	Capacity	2010-01-01	2100-01-01	600	NonCoopMarket	Multiply					
+CH-DEs	CH	DEs	Capacity	2010-01-01	2100-01-01	600	NonCoopMarket	Multiply					
+CH-FR	CH	FR	Capacity	2010-01-01	2100-01-01	1000	NonCoopMarket	Multiply					
+FR-CH	FR	CH	Capacity	2010-01-01	2100-01-01	1000	NonCoopMarket	Multiply					
+DEs-CH	DEs	CH	Capacity	2035-01-01	2100-01-01	1200	NonCoopMarket	Multiply					
+CH-DEs	CH	DEs	Capacity	2035-01-01	2100-01-01	1200	NonCoopMarket	Multiply					
+CH-FR	CH	FR	Capacity	2035-01-01	2100-01-01	2000	NonCoopMarket	Multiply					
+FR-CH	FR	CH	Capacity	2035-01-01	2100-01-01	2000	NonCoopMarket	Multiply					
+DEs-CH			Line_Loss	2010-01-01	2100-01-01	0.03							
+CH-DEs			Line_Loss	2010-01-01	2100-01-01	0.03							
+CH-FR			Line_Loss	2010-01-01	2100-01-01	0.03							
+FR-CH			Line_Loss	2010-01-01	2100-01-01	0.03							
+DEs-CH			Line_Loss	2010-01-01	2100-01-01	0.03							
+CH-DEs			Line_Loss	2010-01-01	2100-01-01	0.03							
+CH-FR			Line_Loss	2010-01-01	2100-01-01	0.03							
+FR-CH			Line_Loss	2010-01-01	2100-01-01	0.03							
+BE-DEw			Line_Loss	2010-01-01	2100-01-01	0.03							
+DEw-BE			Line_Loss	2010-01-01	2100-01-01	0.03							
+DEn-PL	DEn	PL	Capacity	2010-01-01	2100-01-01	3000	NonCoopMarket	Multiply					
+PL-DEn	PL	DEn	Capacity	2010-01-01	2100-01-01	3000	NonCoopMarket	Multiply					
+DEn-PL			Line_Loss	2010-01-01	2100-01-01	0.03							
+PL-DEn			Line_Loss	2010-01-01	2100-01-01	0.03							
+DEn-DEs	DEn	DEs	Capacity	2010-01-01	2100-01-01	300000							
+DEs-DEn	DEs	DEn	Capacity	2010-01-01	2100-01-01	300000							
+DEn-DEs			Line_Loss	2010-01-01	2100-01-01	0.01							
+DEs-DEn			Line_Loss	2010-01-01	2100-01-01	0.01							
+DEn-DEw	DEn	DEw	Capacity	2010-01-01	2100-01-01	300000							
+DEw-DEn	DEw	DEn	Capacity	2010-01-01	2100-01-01	300000							
+DEn-DEw			Line_Loss	2010-01-01	2100-01-01	0.01							
+DEw-DEn			Line_Loss	2010-01-01	2100-01-01	0.01							
+DEs-DEw	DEs	DEw	Capacity	2010-01-01	2100-01-01	300000							
+DEw-DEs	DEw	DEs	Capacity	2010-01-01	2100-01-01	300000							
+DEs-DEw			Line_Loss	2010-01-01	2100-01-01	0.01							
+DEw-DEs			Line_Loss	2010-01-01	2100-01-01	0.01							
+DEw-NL	DEw	NL	Capacity	2010-01-01	2100-01-01	4500							
+NL-DEw	NL	DEw	Capacity	2010-01-01	2100-01-01	4500							
+DEw-NL			Line_Loss	2010-01-01	2100-01-01	0.03							
+NL-DEw			Line_Loss	2010-01-01	2100-01-01	0.03							
+DEn-DEs	DEn	DEs	Capacity	2000-01-01	2024-01-01	5200							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2024-01-01	2025-01-01	5400							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2025-01-01	2026-01-01	6000							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2026-01-01	2027-01-01	6600							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2027-01-01	2028-01-01	7200							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2028-01-01	2029-01-01	7800							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2029-01-01	2030-01-01	8400							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2030-01-01	2031-01-01	9000							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2031-01-01	2032-01-01	9600							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2032-01-01	2033-01-01	10200							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2033-01-01	2034-01-01	10800							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2034-01-01	2035-01-01	11400							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2035-01-01	2036-01-01	12000							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2036-01-01	2037-01-01	12600							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2037-01-01	2038-01-01	13200							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2038-01-01	2039-01-01	13800							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2039-01-01	2040-01-01	14400							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2040-01-01	2041-01-01	15000							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2041-01-01	2042-01-01	15600							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2042-01-01	2043-01-01	16200							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2043-01-01	2044-01-01	16800							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2044-01-01	2045-01-01	17400							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2045-01-01	2046-01-01	18000							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2046-01-01	2047-01-01	18300							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2047-01-01	2048-01-01	18600							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2048-01-01	2049-01-01	18900							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2049-01-01	2050-01-01	19200							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2050-01-01	2051-01-01	19500							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2051-01-01	2052-01-01	19800							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2052-01-01	2053-01-01	20100							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2053-01-01	2054-01-01	20400							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2054-01-01	2055-01-01	20700							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2055-01-01	2056-01-01	21000							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2056-01-01	2057-01-01	21300							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2057-01-01	2058-01-01	21600							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2058-01-01	2059-01-01	21900							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2059-01-01	2060-01-01	22200							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2060-01-01	2061-01-01	22500							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2061-01-01	2062-01-01	22800							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2062-01-01	2063-01-01	23100							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2063-01-01	2064-01-01	23400							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2064-01-01	2065-01-01	23700							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2065-01-01	2066-01-01	24000							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2066-01-01	2067-01-01	24300							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2067-01-01	2068-01-01	24600							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2068-01-01	2069-01-01	24900							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2069-01-01	2070-01-01	25200							DE_Zonal
+DEn-DEs	DEn	DEs	Capacity	2070-01-01	2071-01-01	25500							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2000-01-01	2024-01-01	17000							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2024-01-01	2025-01-01	17220							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2025-01-01	2026-01-01	17400							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2026-01-01	2027-01-01	17580							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2027-01-01	2028-01-01	19160							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2028-01-01	2029-01-01	23340							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2029-01-01	2030-01-01	26420							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2030-01-01	2031-01-01	28100							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2031-01-01	2032-01-01	28280							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2032-01-01	2033-01-01	28460							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2033-01-01	2034-01-01	28640							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2034-01-01	2035-01-01	28820							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2035-01-01	2036-01-01	29000							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2036-01-01	2037-01-01	29180							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2037-01-01	2038-01-01	29360							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2038-01-01	2039-01-01	29540							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2039-01-01	2040-01-01	29720							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2040-01-01	2041-01-01	29900							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2041-01-01	2042-01-01	30080							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2042-01-01	2043-01-01	30260							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2043-01-01	2044-01-01	30440							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2044-01-01	2045-01-01	30620							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2045-01-01	2046-01-01	30800							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2046-01-01	2047-01-01	30900							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2047-01-01	2048-01-01	31000							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2048-01-01	2049-01-01	31100							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2049-01-01	2050-01-01	31200							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2050-01-01	2051-01-01	31300							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2051-01-01	2052-01-01	31400							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2052-01-01	2053-01-01	31500							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2053-01-01	2054-01-01	31600							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2054-01-01	2055-01-01	31700							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2055-01-01	2056-01-01	31800							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2056-01-01	2057-01-01	31900							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2057-01-01	2058-01-01	32000							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2058-01-01	2059-01-01	32100							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2059-01-01	2060-01-01	32200							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2060-01-01	2061-01-01	32300							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2061-01-01	2062-01-01	32400							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2062-01-01	2063-01-01	32500							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2063-01-01	2064-01-01	32600							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2064-01-01	2065-01-01	32700							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2065-01-01	2066-01-01	32800							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2066-01-01	2067-01-01	32900							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2067-01-01	2068-01-01	33000							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2068-01-01	2069-01-01	33100							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2069-01-01	2070-01-01	33200							DE_Zonal
+DEw-DEs	DEw	DEs	Capacity	2070-01-01	2071-01-01	33300							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2000-01-01	2024-01-01	5200							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2024-01-01	2025-01-01	5400							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2025-01-01	2026-01-01	6000							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2026-01-01	2027-01-01	6600							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2027-01-01	2028-01-01	7200							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2028-01-01	2029-01-01	7800							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2029-01-01	2030-01-01	8400							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2030-01-01	2031-01-01	9000							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2031-01-01	2032-01-01	9600							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2032-01-01	2033-01-01	10200							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2033-01-01	2034-01-01	10800							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2034-01-01	2035-01-01	11400							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2035-01-01	2036-01-01	12000							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2036-01-01	2037-01-01	12600							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2037-01-01	2038-01-01	13200							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2038-01-01	2039-01-01	13800							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2039-01-01	2040-01-01	14400							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2040-01-01	2041-01-01	15000							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2041-01-01	2042-01-01	15600							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2042-01-01	2043-01-01	16200							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2043-01-01	2044-01-01	16800							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2044-01-01	2045-01-01	17400							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2045-01-01	2046-01-01	18000							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2046-01-01	2047-01-01	18300							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2047-01-01	2048-01-01	18600							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2048-01-01	2049-01-01	18900							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2049-01-01	2050-01-01	19200							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2050-01-01	2051-01-01	19500							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2051-01-01	2052-01-01	19800							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2052-01-01	2053-01-01	20100							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2053-01-01	2054-01-01	20400							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2054-01-01	2055-01-01	20700							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2055-01-01	2056-01-01	21000							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2056-01-01	2057-01-01	21300							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2057-01-01	2058-01-01	21600							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2058-01-01	2059-01-01	21900							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2059-01-01	2060-01-01	22200							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2060-01-01	2061-01-01	22500							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2061-01-01	2062-01-01	22800							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2062-01-01	2063-01-01	23100							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2063-01-01	2064-01-01	23400							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2064-01-01	2065-01-01	23700							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2065-01-01	2066-01-01	24000							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2066-01-01	2067-01-01	24300							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2067-01-01	2068-01-01	24600							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2068-01-01	2069-01-01	24900							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2069-01-01	2070-01-01	25200							DE_Zonal
+DEs-DEn	DEs	DEn	Capacity	2070-01-01	2071-01-01	25500							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2000-01-01	2024-01-01	17000							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2024-01-01	2025-01-01	17700							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2025-01-01	2026-01-01	18000							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2026-01-01	2027-01-01	18300							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2027-01-01	2028-01-01	20000							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2028-01-01	2029-01-01	24300							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2029-01-01	2030-01-01	27500							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2030-01-01	2031-01-01	29300							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2031-01-01	2032-01-01	29600							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2032-01-01	2033-01-01	29900							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2033-01-01	2034-01-01	30200							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2034-01-01	2035-01-01	30500							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2035-01-01	2036-01-01	30800							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2036-01-01	2037-01-01	31100							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2037-01-01	2038-01-01	31400							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2038-01-01	2039-01-01	31700							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2039-01-01	2040-01-01	32000							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2040-01-01	2041-01-01	32300							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2041-01-01	2042-01-01	32600							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2042-01-01	2043-01-01	32900							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2043-01-01	2044-01-01	33200							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2044-01-01	2045-01-01	33500							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2045-01-01	2046-01-01	33800							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2046-01-01	2047-01-01	34000							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2047-01-01	2048-01-01	34200							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2048-01-01	2049-01-01	34400							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2049-01-01	2050-01-01	34600							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2050-01-01	2051-01-01	34800							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2051-01-01	2052-01-01	35000							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2052-01-01	2053-01-01	35200							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2053-01-01	2054-01-01	35400							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2054-01-01	2055-01-01	35600							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2055-01-01	2056-01-01	35800							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2056-01-01	2057-01-01	36000							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2057-01-01	2058-01-01	36200							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2058-01-01	2059-01-01	36400							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2059-01-01	2060-01-01	36600							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2060-01-01	2061-01-01	36800							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2061-01-01	2062-01-01	37000							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2062-01-01	2063-01-01	37200							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2063-01-01	2064-01-01	37400							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2064-01-01	2065-01-01	37600							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2065-01-01	2066-01-01	37800							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2066-01-01	2067-01-01	38000							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2067-01-01	2068-01-01	38200							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2068-01-01	2069-01-01	38400							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2069-01-01	2070-01-01	38600							DE_Zonal
+DEn-DEw	DEn	DEw	Capacity	2070-01-01	2071-01-01	38800							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2000-01-01	2024-01-01	17000							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2024-01-01	2025-01-01	17700							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2025-01-01	2026-01-01	18000							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2026-01-01	2027-01-01	19700							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2027-01-01	2028-01-01	24000							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2028-01-01	2029-01-01	27200							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2029-01-01	2030-01-01	29000							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2030-01-01	2031-01-01	29300							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2031-01-01	2032-01-01	29600							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2032-01-01	2033-01-01	29900							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2033-01-01	2034-01-01	30200							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2034-01-01	2035-01-01	30500							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2035-01-01	2036-01-01	30800							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2036-01-01	2037-01-01	31100							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2037-01-01	2038-01-01	31400							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2038-01-01	2039-01-01	31700							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2039-01-01	2040-01-01	32000							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2040-01-01	2041-01-01	32300							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2041-01-01	2042-01-01	32600							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2042-01-01	2043-01-01	32900							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2043-01-01	2044-01-01	33200							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2044-01-01	2045-01-01	33500							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2045-01-01	2046-01-01	33800							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2046-01-01	2047-01-01	34000							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2047-01-01	2048-01-01	34200							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2048-01-01	2049-01-01	34400							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2049-01-01	2050-01-01	34600							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2050-01-01	2051-01-01	34800							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2051-01-01	2052-01-01	35000							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2052-01-01	2053-01-01	35200							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2053-01-01	2054-01-01	35400							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2054-01-01	2055-01-01	35600							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2055-01-01	2056-01-01	35800							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2056-01-01	2057-01-01	36000							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2057-01-01	2058-01-01	36200							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2058-01-01	2059-01-01	36400							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2059-01-01	2060-01-01	36600							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2060-01-01	2061-01-01	36800							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2061-01-01	2062-01-01	37000							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2062-01-01	2063-01-01	37200							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2063-01-01	2064-01-01	37400							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2064-01-01	2065-01-01	37600							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2065-01-01	2066-01-01	37800							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2066-01-01	2067-01-01	38000							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2067-01-01	2068-01-01	38200							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2068-01-01	2069-01-01	38400							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2069-01-01	2070-01-01	38600							DE_Zonal
+DEw-DEn	DEw	DEn	Capacity	2070-01-01	2071-01-01	29000							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2000-01-01	2024-01-01	17000							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2024-01-01	2025-01-01	17220							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2025-01-01	2026-01-01	17400							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2026-01-01	2027-01-01	17580							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2027-01-01	2028-01-01	19160							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2028-01-01	2029-01-01	23340							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2029-01-01	2030-01-01	26420							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2030-01-01	2031-01-01	28100							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2031-01-01	2032-01-01	28280							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2032-01-01	2033-01-01	28460							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2033-01-01	2034-01-01	28640							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2034-01-01	2035-01-01	28820							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2035-01-01	2036-01-01	29000							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2036-01-01	2037-01-01	29180							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2037-01-01	2038-01-01	29360							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2038-01-01	2039-01-01	29540							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2039-01-01	2040-01-01	29720							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2040-01-01	2041-01-01	29900							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2041-01-01	2042-01-01	30080							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2042-01-01	2043-01-01	30260							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2043-01-01	2044-01-01	30440							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2044-01-01	2045-01-01	30620							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2045-01-01	2046-01-01	30800							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2046-01-01	2047-01-01	30900							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2047-01-01	2048-01-01	31000							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2048-01-01	2049-01-01	31100							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2049-01-01	2050-01-01	31200							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2050-01-01	2051-01-01	31300							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2051-01-01	2052-01-01	31400							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2052-01-01	2053-01-01	31500							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2053-01-01	2054-01-01	31600							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2054-01-01	2055-01-01	31700							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2055-01-01	2056-01-01	31800							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2056-01-01	2057-01-01	31900							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2057-01-01	2058-01-01	32000							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2058-01-01	2059-01-01	32100							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2059-01-01	2060-01-01	32200							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2060-01-01	2061-01-01	32300							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2061-01-01	2062-01-01	32400							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2062-01-01	2063-01-01	32500							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2063-01-01	2064-01-01	32600							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2064-01-01	2065-01-01	32700							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2065-01-01	2066-01-01	32800							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2066-01-01	2067-01-01	32900							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2067-01-01	2068-01-01	33000							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2068-01-01	2069-01-01	33100							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2069-01-01	2070-01-01	33200							DE_Zonal
+DEs-DEw	DEs	DEw	Capacity	2070-01-01	2071-01-01	33300							DE_Zonal

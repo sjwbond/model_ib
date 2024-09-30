@@ -1,0 +1,7 @@
+Object_Name	Parent_Object
+ES North ROR Generator	ES ROR Generators
+ES North ROR Generator	ES
+ES Middle ROR Generator	ES ROR Generators
+ES Middle ROR Generator	ES
+ES South ROR Generator	ES ROR Generators
+ES South ROR Generator	ES
